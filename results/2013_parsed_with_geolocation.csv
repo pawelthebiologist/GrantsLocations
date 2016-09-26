@@ -1,0 +1,997 @@
+"GWO","kategoria","wydzial","jednostka.gl","zlozone","pozyskane","procent.sukcesu","kwota.calk","liczba.pracownikow","kwota.na.pracownika","dziedzina","szer.geog","dl.geog","adres","miasto"
+"HS1EK","A+","Wydział Nauk Ekonomicznych","Uniwersytet Warszawski",32,18,0.5625,3591970,85.5,42011.3450292398,"HS",52.2464834,21.0038047,"Dluga 44/50, 00-241 Warszawa, Poland"," Warszawa"
+"HS1EK","B","Wydział Gospodarki Międzynarodowej","Uniwersytet Ekonomiczny w Poznaniu",23,10,0.434782608695652,2063867,50,41277.34,"HS",52.404632,16.9215999,"Powstanc�w Wielkopolskich 16, Poznan, Poland"," Poznan"
+"HS1EK","A+","Kolegium Analiz Ekonomicznych","Szkoła Główna Handlowa w Warszawie",15,7,0.466666666666667,4345249,114.5,37949.7729257642,"HS",52.208872,21.008658,"aleja Niepodleglosci 162, Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Informatyki i Gospodarki Elektronicznej","Uniwersytet Ekonomiczny w Poznaniu",12,5,0.416666666666667,969180,44,22026.8181818182,"HS",52.404632,16.9215999,"Powstanc�w Wielkopolskich 16, Poznan, Poland"," Poznan"
+"HS1EK","A","Wydział Ekonomiczno-Socjologiczny","Uniwersytet Łódzki",52,12,0.230769230769231,4476965,354.08,12643.936398554,"HS",51.7745415,19.4661536,"Polskiej Organizacji Wojskowej 3/5, 90-255 L�dz, Poland"," L�dz"
+"HS1EK","A","Wydział Towaroznawstwa","Uniwersytet Ekonomiczny w Poznaniu",15,2,0.133333333333333,852930,74,11526.0810810811,"HS",52.404632,16.9215999,"Powstanc�w Wielkopolskich 16, Poznan, Poland"," Poznan"
+"HS1EK","B","Wydział Ekonomiczny","Uniwersytet Marii Curie-Skłodowskiej",13,3,0.230769230769231,1174528,104,11293.5384615385,"HS",51.2457454,22.5407482,"Plac Marii Sklodowskiej-Curie 5, 20-031 Lublin, Poland"," Lublin"
+"HS1EK","A","Kolegium Ekonomiczno-Społeczne","Szkoła Główna Handlowa w Warszawie",12,4,0.333333333333333,781730,74,10563.9189189189,"HS",52.208872,21.008658,"aleja Niepodleglosci 162, Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Ekonomii","Uniwersytet Ekonomiczny w Katowicach",13,5,0.384615384615385,1070092,109,9817.35779816514,"HS",50.2584208,19.0447436,"1 Maja 50, 40-287 Katowice, Poland"," Katowice"
+"HS1EK","A","Kolegium Gospodarki Światowej","Szkoła Główna Handlowa w Warszawie",12,3,0.25,750886,85.3,8802.88393903869,"HS",52.208872,21.008658,"aleja Niepodleglosci 162, Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Ekonomii, Zarządzania i Turystyki","Uniwersytet Ekonomiczny we Wrocławiu",8,4,0.5,763835,91,8393.79120879121,"HS",50.8983066,15.7494539,"Nowowiejska 39, 58-588 Jelenia G�ra, Poland"," Jelenia G�ra"
+"HS1EK","A+","Kolegium Zarządzania i Finansów","Szkoła Główna Handlowa w Warszawie",15,4,0.266666666666667,1015000,131,7748.09160305344,"HS",52.208872,21.008658,"aleja Niepodleglosci 162, Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Ekonomii i Stosunków Międzynarodowych","Uniwersytet Ekonomiczny w Krakowie",26,7,0.269230769230769,1235177,168,7352.24404761905,"HS",50.0685649,19.9551201,"Rakowicka 27, 31-510 Krak�w, Poland"," Krak�w"
+"HS1EK","A","","Akademia Leona Koźmińskiego",19,8,0.421052631578947,1103932,152.5,7238.89836065574,"HS",52.2713795,21.014904,"Jagiellonska 57/59, 03-301 Warszawa, Poland"," Warszawa"
+"HS1EK","A","Kolegium Nauk o Przedsiębiorstwie","Szkoła Główna Handlowa w Warszawie",11,1,0.0909090909090909,599787,90,6664.3,"HS",52.208872,21.008658,"aleja Niepodleglosci 162, Warszawa, Poland"," Warszawa"
+"HS1EK","B","Wydział Organizacji i Zarządzania","Politechnika Łódzka",20,4,0.2,494484,79,6259.29113924051,"HS",51.7494654,19.4609875,"Piotrkowska 266, 90-361 L�dz, Poland"," L�dz"
+"HS1EK","B","Wydział Nauk Ekonomicznych i Zarządzania","Uniwersytet Mikołaja Kopernika w Toruniu",17,4,0.235294117647059,558790,92,6073.80434782609,"HS",53.0213954,18.570832,"Jurija Gagarina 13a, 87-100 Torun, Poland"," Torun"
+"HS1EK","A","Wydział Zarządzania, Informatyki i Finansów","Uniwersytet Ekonomiczny we Wrocławiu",31,6,0.193548387096774,1204852,202,5964.61386138614,"HS",51.0900717,17.0263517,"Komandorska 118/120, Wroclaw, Poland"," Wroclaw"
+"HS1EK","A","Wydział Zarządzania","Uniwersytet Ekonomiczny w Poznaniu",26,3,0.115384615384615,646120,115,5618.4347826087,"HS",52.404632,16.9215999,"Powstanc�w Wielkopolskich 16, Poznan, Poland"," Poznan"
+"HS1EK","A","Wydział Zarządzania","Uniwersytet Ekonomiczny w Krakowie",14,3,0.214285714285714,879947,158,5569.28481012658,"HS",50.0685649,19.9551201,"Rakowicka 27, 31-510 Krak�w, Poland"," Krak�w"
+"HS1EK","A","Wydział Ekonomii","Uniwersytet Ekonomiczny w Poznaniu",20,6,0.3,553720,104,5324.23076923077,"HS",52.404632,16.9215999,"Powstanc�w Wielkopolskich 16, Poznan, Poland"," Poznan"
+"HS1EK","B","Wydział Organizacji i Zarządzania","Politechnika Śląska",13,3,0.230769230769231,748625,152,4925.16447368421,"HS",50.2971016,18.7801282,"Roosevelta 26, Zabrze, Poland"," Zabrze"
+"HS1EK","A","Wydział Zarządzania","Uniwersytet Łódzki",14,3,0.214285714285714,528970,110.5,4787.05882352941,"HS",51.7757516,19.4872306,"Jana Matejki 22/26, 90-237 L�dz, Poland"," L�dz"
+"HS1EK","A","Wydział Inżynieryjno-Ekonomiczny","Uniwersytet Ekonomiczny we Wrocławiu",13,4,0.307692307692308,488456,109,4481.24770642202,"HS",51.0900717,17.0263517,"Komandorska 118/120, Wroclaw, Poland"," Wroclaw"
+"HS1EK","B","Wydział Zarządzania i Ekonomii","Politechnika Gdańska",19,2,0.105263157894737,385450,87,4430.45977011494,"HS",54.3701447,18.6166098,"Traugutta 79, 80-233 Gdansk, Poland"," Gdansk"
+"HS1EK","A","Wydział Zarządzania","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",15,1,0.0666666666666667,482320,121,3986.11570247934,"HS",50.0668858,19.9136192,"aleja Adama Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"HS1EK","B","Wydział Informatyki i Komunikacji","Uniwersytet Ekonomiczny w Katowicach",11,3,0.272727272727273,242550,66,3675,"HS",50.2584208,19.0447436,"1 Maja 50, 40-287 Katowice, Poland"," Katowice"
+"HS1EK","B","Wydział Ekonomiczno-Społeczny","Uniwersytet Przyrodniczy w Poznaniu",15,3,0.2,275620,81,3402.71604938272,"HS",52.4116097,16.9487054,"Ostr�w Tumski 17, Poznan, Poland"," Poznan"
+"HS1EK","B","","Wyższa Szkoła Bankowa w Gdańsku",4,1,0.25,181322,62,2924.54838709677,"HS",54.3890797,18.5842916,"Aleja Grunwaldzka 238A, 80-266 Gdansk, Poland"," Gdansk"
+"HS1EK","A","Wydział Zastosowań Informatyki i Matematyki","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",3,1,0.333333333333333,190057,74,2568.33783783784,"HS",52.1621201,21.0467135,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Zarządzania","Uniwersytet Ekonomiczny w Katowicach",9,2,0.222222222222222,280932,110,2553.92727272727,"HS",50.2584208,19.0447436,"1 Maja 50, 40-287 Katowice, Poland"," Katowice"
+"HS1EK","B","Wydział Nauk Społecznych i Informatyki","Wyższa Szkoła Biznesu - National Louis University",2,1,0.5,120170,48,2503.54166666667,"HS",49.6004463,20.6892831,"Zielona 27, 33-300 Nowy Sacz, Poland"," Nowy Sacz"
+"HS1EK","B","Wydział Zarządzania i Ekonomiki Usług","Uniwersytet Szczeciński",23,3,0.130434782608696,360240,146.83,2453.44956752707,"HS",53.4027356,14.4980831,"Cukrowa 8, 71-004 Szczecin, Poland"," Szczecin"
+"HS1EK","B","Wydział Zarządzania","Uniwersytet Gdański",19,2,0.105263157894737,337499,142,2376.75352112676,"HS",54.4425825,18.555863,"Armii Krajowej 101, 81-824 Sopot, Poland"," Sopot"
+"HS1EK","B","Wydział Nauk Ekonomicznych","Politechnika Koszalińska",6,1,0.166666666666667,95577,52,1838.01923076923,"HS",54.205128,16.178362,"Eugeniusza Kwiatkowskiego 6, 75-343 Koszalin, Poland"," Koszalin"
+"HS1EK","B","Wydział Zarządzania","Politechnika Częstochowska",2,1,0.5,336400,204,1649.01960784314,"HS",50.8224711,19.1161618,"gen. Jana Henryka Dabrowskiego 69, Czestochowa, Poland"," Czestochowa"
+"HS1EK","B","Wydział Nauk Ekonomicznych","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",6,1,0.166666666666667,171890,121,1420.57851239669,"HS",52.1644881,21.0487748,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Nauk Ekonomicznych","Uniwersytet Ekonomiczny we Wrocławiu",30,2,0.0666666666666667,224365,169,1327.60355029586,"HS",51.0900717,17.0263517,"Komandorska 118/120, Wroclaw, Poland"," Wroclaw"
+"HS1EK","B","Wydział Nauk Ekonomicznych","Uniwersytet Warmińsko-Mazurski w Olsztynie",6,1,0.166666666666667,123890,111,1116.12612612613,"HS",53.7601848,20.4608081,"Michala Oczapowskiego 2, Olsztyn, Poland"," Olsztyn"
+"HS1EK","B","Wydział Finansów i Ubezpieczeń","Uniwersytet Ekonomiczny w Katowicach",9,1,0.111111111111111,79947,94,850.5,"HS",50.2584208,19.0447436,"1 Maja 50, 40-287 Katowice, Poland"," Katowice"
+"HS1EK","B","Wydział Zarządzania","Politechnika Warszawska",10,1,0.1,47900,56.5,847.787610619469,"HS",52.2033388,21.0027602,"Narbutta 85, 00-999 Warszawa, Poland"," Warszawa"
+"HS1EK","A","Wydział Nauk Ekonomicznych i Zarządzania","Uniwersytet Szczeciński",14,1,0.0714285714285714,80000,168.5,474.777448071217,"HS",53.438553,14.520253,"Mickiewicza 64, 71-101 Szczecin, Poland"," Szczecin"
+"HS1EK","B","Wydział Ekonomiczny","Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie",3,0,0,0,31,0,"HS",50.0489064,21.9817016,"mjr. Henryka Sucharskiego 2, Rzesz�w, Poland"," Rzesz�w"
+"HS1EK","A","Wydział Finansów","Uniwersytet Ekonomiczny w Krakowie",9,0,0,0,129,0,"HS",50.0685649,19.9551201,"Rakowicka 27, 31-510 Krak�w, Poland"," Krak�w"
+"HS1EK","B","Wydział Ekonomii i Zarządzania","Uniwersytet w Białymstoku",3,0,0,0,77,0,"HS",53.1301646,23.1754196,"Warszawska 63, 15-062 Bialystok, Poland"," Bialystok"
+"HS1EK","B","Wydział Zarządzania","Politechnika Białostocka",11,0,0,0,116,0,"HS",53.0983544,23.1254569,"Ojca Tarasiuka 2, 16-001 Kleosin, Poland"," Kleosin"
+"HS1EK","A","Wydział Zarządzania","Uniwersytet Warszawski",8,0,0,0,46,0,"HS",52.1706278,21.0120105,"Szturmowa 1/3, 02-678 Warszawa, Poland"," Warszawa"
+"HS1EK","B","Wydział Finansów i Zarządzania","Wyższa Szkoła Bankowa we Wrocławiu",9,0,0,0,135,0,"HS",51.1129601,16.9816608,"Fabryczna 29/31, 53-609 Wroclaw, Poland"," Wroclaw"
+"HS1EK","B","Wydział Ekonomii i Zarządzania","Uniwersytet Zielonogórski",13,0,0,0,68,0,"HS",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"HS1EK","A","Wydział Zarządzania i Finansów","Wyższa Szkoła Finansów i Zarządzania w Warszawie",13,0,0,0,38,0,"HS",52.2440137,20.9826743,"Pawia 55, Warszawa, Poland"," Warszawa"
+"HS1EK","B","Wydział Inżynierii Zarządzania","Politechnika Poznańska",7,0,0,0,106,0,"HS",52.4047844,16.9330645,"Strzelecka 11, Poznan, Poland"," Poznan"
+"HS1EK","B","Wydział Ekonomii","Uniwersytet Rzeszowski",5,0,0,0,45,0,"HS",50.001126,22.0302808,"35-601 Rzeszow, Poland"," Rzeszow"
+"HS1EK","B","Wydział Przedsiębiorczości i Towaroznawstwa","Akademia Morska w Gdyni",9,0,0,0,101,0,"HS",54.52882,18.505659,"Morska 87, Gdynia, Poland"," Gdynia"
+"HS1EK","B","Wydział Ekonomiczny","Uniwersytet Technologiczno-Humanistyczny im. 
+Kazimierza Pułaskiego w Radomiu",7,0,0,0,49,0,"HS",51.4185093,21.1620417,"Boleslawa Chrobrego 31, 26-600 Radom, Poland"," Radom"
+"HS1EK","B","Wydział Ekonomiczny","Uniwersytet Opolski",6,0,0,0,47,0,"HS",50.6676153,17.9333273,"Ozimska 46, 45-058 Opole, Poland"," Opole"
+"HS1EK","B","Wydział Zarządzania","Politechnika Rzeszowska im. Ignacego Łukasiewicza",5,0,0,0,126,0,"HS",50.0193113,21.9872448,"Budynek S, Aleja Powstanc�w Warszawy 10, 35-959 Rzesz�w, Poland"," Rzesz�w"
+"HS1EK","B","Wydział Finansów i Bankowości","Wyższa Szkoła Bankowa w Poznaniu",6,0,0,0,85,0,"HS",52.404506,16.9234459,"Powstanc�w Wielkopolskich 2A, 61-874 Poznan, Poland"," Poznan"
+"HS1EK","B","Wydział Ekonomii i Zarządzania","Politechnika Opolska",3,0,0,0,55.5,0,"HS",50.674037,17.922795,"Luboszycka 7, 45-036 Opole, Poland"," Opole"
+"HS1EK","B","","Wyższa Szkoła Bankowa w Toruniu",4,0,0,0,64,0,"HS",53.0202061,18.6062777,"Mlodziezowa 31a, Torun, Poland"," Torun"
+"HS1EK","B","Wydział Zarządzania i Logistyki","Wyższa Szkoła Logistyki w Poznaniu",1,0,0,0,24,0,"HS",52.4102265,16.9400702,"Estkowskiego 6, 61-755 Poznan, Poland"," Poznan"
+"HS1EK","B","Wydział Zarządzania","Politechnika Lubelska",2,0,0,0,60,0,"HS",51.2352506,22.5487299,"Zakole, Lublin, Poland"," Lublin"
+"HS1EK","B","Wydział Zarządzania","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",5,0,0,0,39,0,"HS",53.1238534,17.9890905,"Ksiedza Augustyna Kordeckiego 20, Bydgoszcz, Poland"," Bydgoszcz"
+"HS1EK","B","Wydział Ekonomiczny","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",3,0,0,0,58.5,0,"HS",53.4240902,14.5340802,"Aleja Piast�w 17, Szczecin, Poland"," Szczecin"
+"HS1EK","A","Wydział Zarządzania","Społeczna Akademia Nauk",1,0,0,0,131,0,"HS",51.3724882,19.348854,"Czapliniecka 96, Belchat�w, Poland"," Belchat�w"
+"HS1EK","B","Wydział Nauk Ekonomicznych i Prawnych","Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",4,0,0,0,50,0,"HS",52.1696131,22.2842796,"Stanislawa Konarskiego 2, 08-110 Siedlce, Poland"," Siedlce"
+"HS1EK","A","Wydział Zarządzania, Informatyki i Nauk Społecznych","Wyższa Szkoła Biznesu w Dąbrowie Górniczej",2,0,0,0,62,0,"HS",50.326408,19.191706,"Zygmunta Cieplaka 1c, 41-300 Dabrowa G�rnicza, Poland"," Dabrowa G�rnicza"
+"HS1EK","B","Wydział Ekonomii i Zarządzania","Uczelnia Łazarskiego",2,0,0,0,40,0,"HS",52.1776819,21.015687,"Swieradowska 43, 02-662 Warszawa, Poland"," Warszawa"
+"HS1EK","B","","Wyższa Szkoła Gospodarki Euroregionalnej im. Alcide De 
+Gasperi w Józefowie",2,0,0,0,52,0,"HS",52.1441145,21.2152032,"Henryka Sienkiewicza 4, 05-410 J�zef�w, Poland"," J�zef�w"
+"HS1EK","B","Kolegium Nauk Ekonomicznych i Społecznych","Politechnika Warszawska",1,0,0,0,11,0,"HS",52.2212012,21.0080857,"plac Politechniki 1, 00-661 Warszawa, Poland"," Warszawa"
+"HS1EK","B","Instytut Zarządzania Ryzykiem","Akademia Finansów i Biznesu Vistula",7,3,0.428571428571429,861395,NA,NA,"HS",52.1589318,21.0344789,"Stoklosy 3, Warszawa, Poland"," Warszawa"
+"HS1EK","B","Wydział Zarządzania i Informatyki","Akademia Techniczno-Humanistyczna w Bielsku-Białej",4,0,0,0,NA,NA,"HS",49.7841414,19.0577026,"Willowa 2, Bielsko-Biala, Poland"," Bielsko-Biala"
+"HS1EK","B","","Szkoła Wyższa im. Bogdana Jańskiego",2,0,0,0,NA,NA,"HS",53.4366124,14.5625228,"Zubr�w 3, 71-617 Szczecin, Poland"," Szczecin"
+"HS1EK","B","Wydział Menedżerski","Wyższa Szkoła Menedżerska w Warszawie",1,1,1,302025,NA,NA,"HS",52.2575647,21.0581563,"Kaweczynska 36, 03-772 Warszawa, Poland"," Warszawa"
+"HS2EK","A","","Instytut Rozwoju Wsi i Rolnictwa PAN",2,1,0.5,995636,22.35,44547.4720357942,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS2EK","B","","Instytut Nauk Ekonomicznych PAN",1,1,1,182000,26,7000,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS3EK","A","","Instytut Pracy i Spraw Socjalnych",7,4,0.571428571428571,949812,46,20648.0869565217,"HS",52.2422351,20.9814611,"Bellottiego 3B, Warszawa, Poland"," Warszawa"
+"HS3EK","B","","Instytut Badań Rynku, Konsumpcji i Koniunktur",2,2,1,413600,34.5,11988.4057971014,"HS",52.2271481,21.0001371,"Aleje Jerozolimskie 87, Warszawa, Poland"," Warszawa"
+"HS1FB","A","Wydział „Artes Liberales”","Uniwersytet Warszawski",12,5,0.416666666666667,2934246,46.3,63374.6436285097,"HS",52.2377474,21.0175016,"Nowy Swiat 69, Warszawa, Poland"," Warszawa"
+"HS1FB","A","Wydział Anglistyki","Uniwersytet im. Adama Mickiewicza w Poznaniu",27,9,0.333333333333333,2197126,89,24686.808988764,"HS",52.4034188,16.921016,"aleja Niepodleglosci 4, 61-874 Poznan, Poland"," Poznan"
+"HS1FB","A","Wydział Polonistyki","Uniwersytet Warszawski",44,10,0.227272727272727,2880964,162.1,17772.7575570635,"HS",52.2400687,21.0205794,"Krakowskie Przedmiescie 26/28, 01-999 Warszawa, Poland"," Warszawa"
+"HS1FB","A+","Wydział Polonistyki","Uniwersytet Jagielloński",54,13,0.240740740740741,1499452,145,10341.0482758621,"HS",50.0607343,19.9341184,"Golebia 16, Krak�w, Poland"," Krak�w"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Jagielloński",23,9,0.391304347826087,1893757,237.36,7978.41675092686,"HS",50.0609623,19.9341074,"Golebia 24, 31-007 Krak�w, Poland"," Krak�w"
+"HS1FB","B","Wydział Neofilologii","Uniwersytet im. Adama Mickiewicza w Poznaniu",31,9,0.290322580645161,1857926,245.5,7567.9266802444,"HS",52.4034221,16.9213969,"aleja Niepodleglosci 4, Poznan, Poland"," Poznan"
+"HS1FB","A","Wydział Filologiczny","Uniwersytet Wrocławski",31,3,0.0967741935483871,2103625,313.21,6716.34047444207,"HS",51.1129833,17.038719,"plac Nankiera 15, 50-996 Wroclaw, Poland"," Wroclaw"
+"HS1FB","A","Wydział Filologiczny","Uniwersytet Śląski w Katowicach",17,5,0.294117647058824,2506440,374.5,6692.76368491322,"HS",50.2860184,19.1297391,"Generala Stefana Grota-Roweckiego 5, Sosnowiec, Poland"," Sosnowiec"
+"HS1FB","A+","Wydział Filologii Polskiej i Klasycznej","Uniwersytet im. Adama Mickiewicza w Poznaniu",49,10,0.204081632653061,1404819,217,6473.8202764977,"HS",52.409562,16.9189488,"Fredry 10, Poznan, Poland"," Poznan"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Łódzki",22,8,0.363636363636364,1817350,297,6119.02356902357,"HS",51.7759787,19.4945804,"Pomorska 171/173, 91-404 L�dz, Poland"," L�dz"
+"HS1FB","A","Wydział Orientalistyczny","Uniwersytet Warszawski",10,4,0.4,368933,80,4611.6625,"HS",52.2401733,21.0198462,"Gmach Porektorski, Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet w Białymstoku",3,2,0.666666666666667,390563,94.5,4132.9417989418,"HS",53.1314367,23.1548291,"plac Uniwersytecki 1, 15-420 Bialystok, Poland"," Bialystok"
+"HS1FB","A","Wydział Lingwistyki Stosowanej","Uniwersytet Warszawski",16,4,0.25,475601,117,4064.96581196581,"HS",52.2420295,21.0242224,"Dobra 55, 00-312 Warszawa, Poland"," Warszawa"
+"HS1FB","B","Wydział Humanistyczny","Uniwersytet Marii Curie-Skłodowskiej",13,5,0.384615384615385,1291556,360,3587.65555555556,"HS",51.2446815,22.5408883,"Plac Marii Sklodowskiej-Curie 4A, 20-031 Lublin, Poland"," Lublin"
+"HS1FB","B","Wydział Nauk Humanistycznych","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",7,2,0.285714285714286,185724,65,2857.29230769231,"HS",52.295454,20.9597091,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"HS1FB","B","Wydział Nauk Humanistycznych","Katolicki Uniwersytet Lubelski Jana Pawła II",18,3,0.166666666666667,459824,258,1782.26356589147,"HS",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"HS1FB","A","Wydział Filologiczny","Uniwersytet Mikołaja Kopernika w Toruniu",6,2,0.333333333333333,219786,129,1703.76744186047,"HS",53.0118484,18.6015756,"Fosa Staromiejska 3, Torun, Poland"," Torun"
+"HS1FB","B","Wydział Humanistyczny","Uniwersytet Warmińsko-Mazurski w Olsztynie",16,2,0.125,231530,177,1308.0790960452,"HS",53.7501181,20.4561573,"Kurta Obitza 1, 10-725 Olsztyn, Poland"," Olsztyn"
+"HS1FB","B","Wydział Neofilologii","Uniwersytet Warszawski",10,2,0.2,216810,166.25,1304.12030075188,"HS",52.2419184,21.0238006,"Dobra 55, 00-312 Warszawa, Poland"," Warszawa"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Gdański",13,1,0.0769230769230769,87963,241,364.991701244813,"HS",54.396889,18.57253,"Wita Stwosza 55, 80-308 Gdansk, Poland"," Gdansk"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Opolski",7,1,0.142857142857143,34200,113,302.654867256637,"HS",50.6690459,17.9259921,"plac Kopernika 11a, Opole, Poland"," Opole"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Pedagogiczny im. Komisji Edukacji 
+Narodowej w Krakowie",13,0,0,0,175,0,"HS",50.2860184,19.1297391,"Generala Stefana Grota-Roweckiego 5, Sosnowiec, Poland"," Sosnowiec"
+"HS1FB","B","Wydział Filologiczny","Uniwersytet Rzeszowski",2,0,0,0,112,0,"HS",50.0302925,22.0156175,"aleja Tadeusza Rejtana 16C, Rzesz�w, Poland"," Rzesz�w"
+"HS1FB","B","Wydział Humanistyczno-Społeczny","Akademia Techniczno-Humanistyczna w Bielsku-Białej",4,0,0,0,57.5,0,"HS",49.7841414,19.0577026,"Willowa 2, Bielsko-Biala, Poland"," Bielsko-Biala"
+"HS1FB","B","Wydział Kulturoznawstwa i Filologii","Uniwersytet SWPS",10,3,0.3,1351638,NA,NA,"HS",NA,NA,NA,NA
+"HS2FB","A+","","Instytut Badań Literackich PAN",24,9,0.375,2705106,101.5,26651.2906403941,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS2FB","A","","Instytut Slawistyki PAN",6,3,0.5,778818,64.16,12138.6845386534,"HS",52.2374844,21.0228069,"Juliana Bartoszewicza 1B, Warszawa, Poland"," Warszawa"
+"HS2FB","A","","Instytut Języka Polskiego PAN",18,0,0,0,76,0,"HS",50.0664102,19.9251385,"aleja Adama Mickiewicza 31, Krak�w, Poland"," Krak�w"
+"HS1HS","A+","Wydział Historyczny","Uniwersytet Warszawski",89,35,0.393258426966292,9003699,267,33721.7191011236,"HS",52.2396899,21.0185512,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1HS","B","Centrum Archeologii Śródziemnomorskiej im. prof. 
+Kazimierza Michałowskiego","Uniwersytet Warszawski",6,1,0.166666666666667,417700,14,29835.7142857143,"HS",52.2403463,21.0186012,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1HS","A+","Wydział Historyczny","Uniwersytet im. Adama Mickiewicza w Poznaniu",41,14,0.341463414634146,3255505,211.95,15359.7782495872,"HS",52.4664975,16.9209705,"Umultowska 89D, 61-614 Poznan, Poland"," Poznan"
+"HS1HS","A","Wydział Historyczny","Uniwersytet Jagielloński",50,14,0.28,2462345,173,14233.2080924855,"HS",50.0570872,19.9380626,"Grodzka 53, Krak�w, Poland"," Krak�w"
+"HS1HS","A+","Wydział Nauk Historycznych i Pedagogicznych","Uniwersytet Wrocławski",37,9,0.243243243243243,2065338,248,8327.97580645161,"HS",51.1126386,17.0616732,"Dwudziestolatka, Wroclaw, Poland"," Wroclaw"
+"HS1HS","B","Wydział Humanistyczny","Uniwersytet Pedagogiczny im. Komisji Edukacji 
+Narodowej w Krakowie",29,6,0.206896551724138,837040,123,6805.20325203252,"HS",50.0737364,19.9088735,"Podchorazych 2, Krak�w, Poland"," Krak�w"
+"HS1HS","B","Wydział Socjologiczno-Historyczny","Uniwersytet Rzeszowski",13,4,0.307692307692308,740880,123,6023.41463414634,"HS",50.0302925,22.0156175,"aleja Tadeusza Rejtana 16C, Rzesz�w, Poland"," Rzesz�w"
+"HS1HS","A","Wydział Nauk Historycznych","Uniwersytet Mikołaja Kopernika w Toruniu",28,4,0.142857142857143,601169,125,4809.352,"HS",53.0223149,18.5689007,"Bojarskiego 1, 87-100 Torun, Poland"," Torun"
+"HS1HS","B","Wydział Humanistyczny","Uniwersytet Zielonogórski",21,4,0.19047619047619,585910,149,3932.28187919463,"HS",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"HS1HS","A","Wydział Historyczno-Socjologiczny","Uniwersytet w Białymstoku",15,1,0.0666666666666667,285000,82.5,3454.54545454545,"HS",53.131433,23.154744,"plac Uniwersytecki 1, 15-403 Bialystok, Poland"," Bialystok"
+"HS1HS","B","Wydział Filozoficzno-Historyczny","Uniwersytet Łódzki",19,3,0.157894736842105,351640,130.5,2694.55938697318,"HS",51.775679,19.475259,"Harcmistrza Aleksandra Kaminskiego 27, 90-219 L�dz, Poland"," L�dz"
+"HS1HS","B","Wydział Humanistyczny","Uniwersytet Kazimierza Wielkiego",3,2,0.666666666666667,252850,154,1641.88311688312,"HS",53.1311376,18.0191983,"Jana Karola Chodkiewicza 30, 85-064 Bydgoszcz, Poland"," Bydgoszcz"
+"HS1HS","B","Wydział Humanistyczny","Uniwersytet Szczeciński",18,3,0.166666666666667,238430,199.5,1195.13784461153,"HS",53.4038397,14.4972862,"Krakowska 71-79, 71-017 Szczecin, Poland"," Szczecin"
+"HS1HS","B","Wydział Filologiczno-Historyczny","Akademia im. Jana Długosza w Częstochowie",11,1,0.0909090909090909,47800,106,450.943396226415,"HS",50.8212527,19.1198562,"aleja Armii Krajowej 36a, Czestochowa, Poland"," Czestochowa"
+"HS1HS","B","Wydział Humanistyczny","Uniwersytet Jana Kochanowskiego w Kielcach",7,1,0.142857142857143,53937,124,434.975806451613,"HS",50.866676,20.637352,"Stefana Zeromskiego 5, Kielce, Poland"," Kielce"
+"HS1HS","A","Ośrodek Badań nad Antykiem Europy Południowo-
+Wschodniej","Uniwersytet Warszawski",2,0,0,0,6.5,0,"HS",52.2403463,21.0186012,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1HS","A","Wydział Historyczny","Uniwersytet Gdański",9,0,0,0,82,0,"HS",54.396889,18.57253,"Wita Stwosza 55, 80-308 Gdansk, Poland"," Gdansk"
+"HS1HS","B","Filia w Piotrkowie Trybunalskim Wydział Filologiczno-
+Historyczny","Uniwersytet Jana Kochanowskiego w Kielcach",2,0,0,0,49,0,"HS",51.4096666,19.6713514,"Slowackiego 114/118, 97-300 Piotrk�w Trybunalski, Poland"," Piotrk�w Trybunalski"
+"HS1HS","B","Wydział Filologiczno-Historyczny","Akademia Pomorska w Słupsku",6,0,0,0,96,0,"HS",54.4525039,17.042463,"Krzysztofa Arciszewskiego 22A, 76-200 Slupsk, Poland"," Slupsk"
+"HS2HS","B","","Instytut Kultur Śródziemnomorskich i Orientalnych PAN",14,5,0.357142857142857,458153,24.35,18815.318275154,"HS",NA,NA,NA,NA
+"HS2HS","A+","","Instytut Historii im. Tadeusza Manteuffla PAN",27,6,0.222222222222222,1397498,113.75,12285.6967032967,"HS",52.2497173,21.0113532,"rynek Starego Miasta 29, 00-272 Warszawa, Poland"," Warszawa"
+"HS2HS","A","","Instytut Archeologii i Etnologii PAN",27,6,0.222222222222222,1405210,127.4,11029.9058084772,"HS",52.2424623,20.9959875,"aleja Solidarnosci 105, Warszawa, Poland"," Warszawa"
+"HS2HS","A+","","Instytut Sztuki PAN",8,3,0.375,349860,57.5,6084.52173913043,"HS",52.2477933,21.0050651,"Dluga 26, Warszawa, Poland"," Warszawa"
+"HS2HS","A","","Instytut Historii Nauki im. Ludwika i Aleksandra 
+Birkenmajerów PAN",4,0,0,0,33,0,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS3HS","B","","Instytut Europy Środkowo-Wschodniej",1,1,1,1510000,7,215714.285714286,"HS",51.2504939,22.5610847,"Niecala 5, Lublin, Poland"," Lublin"
+"HS3HS","B","","Państwowy Instytut Naukowy - Instytut Śląski w Opolu",3,1,0.333333333333333,553200,18,30733.3333333333,"HS",50.665934,17.92153,"Piastowska 17, 45-081 Opole, Poland"," Opole"
+"HS3HS","A","","Instytut Zachodni - Instytut Naukowo-Badawczy im. 
+Zygmunta Wojciechowskiego",5,1,0.2,88700,18,4927.77777777778,"HS",NA,NA,NA,NA
+"HS1PR","B","Wydział Prawa i Nauk Społecznych","Uniwersytet SWPS",3,2,0.666666666666667,1587981,21,75618.1428571429,"HS",52.2484404,21.0650155,"Chodakowska 19/31, Warszawa, Poland"," Warszawa"
+"HS1PR","B","Wydział Prawa, Administracji i Ekonomii","Uniwersytet Wrocławski",30,9,0.3,3301311,206,16025.7815533981,"HS",51.1131117,17.0336098,"Uniwersytecka 22/26, 50-145 Wroclaw, Poland"," Wroclaw"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",16,5,0.3125,1357395,99,13711.0606060606,"HS",52.3123456,20.9206261,"bl. 17, Auditorium Maximum UKSW, Kazimierza W�ycickiego 1/3, 01-938 Warszawa, Poland"," Warszawa"
+"HS1PR","A+","Wydział Prawa i Administracji","Uniwersytet Jagielloński",44,14,0.318181818181818,1976226,188.33,10493.4211224977,"HS",50.0605095,19.9337809,"Karola Olszewskiego, 30-962 Krak�w, Poland"," Krak�w"
+"HS1PR","A","Wydział Prawa i Administracji","Uniwersytet im. Adama Mickiewicza w Poznaniu",26,8,0.307692307692308,1025312,121.3,8452.69579554823,"HS",52.4162283,16.9256079,"aleja Niepodleglosci 53, 61-714 Poznan, Poland"," Poznan"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Łódzki",12,7,0.583333333333333,811200,171.41,4732.51268887463,"HS",51.7776999,19.4825999,"Doktora Stefana Kopcinskiego 8/12, 90-033 L�dz, Poland"," L�dz"
+"HS1PR","A","Wydział Prawa i Administracji","Uniwersytet Gdański",8,2,0.25,429900,119,3612.60504201681,"HS",54.398897,18.571701,"Jana Bazynskiego 6, 80-980 Gdansk, Poland"," Gdansk"
+"HS1PR","A","Wydział Prawa i Administracji","Uniwersytet Warszawski",15,3,0.2,552034,162,3407.61728395062,"HS",52.240735,21.019109,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1PR","B","Wydział Prawa, Administracji i Stosunków 
+Międzynarodowych","Krakowska Akademia im. Andrzeja Frycza 
+Modrzewskiego",6,1,0.166666666666667,177875,76,2340.46052631579,"HS",50.0508476,19.9646244,"Gustawa Herlinga-Grudzinskiego 1, Krak�w, Poland"," Krak�w"
+"HS1PR","A","Wydział Prawa i Administracji","Uniwersytet Śląski w Katowicach",4,1,0.25,186160,102.5,1816.19512195122,"HS",50.2604205,19.0325744,"Bankowa 11b, Katowice, Poland"," Katowice"
+"HS1PR","B","Wydział Prawa, Prawa Kanonicznego i Administracji","Katolicki Uniwersytet Lubelski Jana Pawła II",10,1,0.1,239672,135,1775.34814814815,"HS",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Warmińsko-Mazurski w Olsztynie",7,1,0.142857142857143,100620,143,703.636363636364,"HS",53.7601848,20.4608081,"Michala Oczapowskiego 2, Olsztyn, Poland"," Olsztyn"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Opolski",3,0,0,0,46,0,"HS",50.672435,17.9329912,"Katowicka 87a, 45-060 Opole, Poland"," Opole"
+"HS1PR","B","Wydział Prawa Kanonicznego","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",1,0,0,0,25,0,"HS",52.2952917,20.9600312,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Marii Curie-Skłodowskiej",4,0,0,0,132,0,"HS",51.2453207,22.540437,"Plac Marii Sklodowskiej-Curie 5, 20-031 Lublin, Poland"," Lublin"
+"HS1PR","A","Wydział Prawa","Uniwersytet w Białymstoku",12,0,0,0,105,0,"HS",53.1287846,23.169061,"Mickiewicza 1, Bialystok, Poland"," Bialystok"
+"HS1PR","B","Wydział Prawa i Administracji","Uczelnia Łazarskiego",2,0,0,0,39.5,0,"HS",52.1776819,21.015687,"Swieradowska 43, 02-662 Warszawa, Poland"," Warszawa"
+"HS1PR","B","Wydział Prawa i Administracji","Wyższa Szkoła Finansów i Zarządzania w Warszawie",3,0,0,0,16,0,"HS",52.2440137,20.9826743,"Pawia 55, Warszawa, Poland"," Warszawa"
+"HS1PR","B","Wydział Zamiejscowy Nauk Prawnych i Ekonomicznych 
+w Tomaszowie Lubelskim","Katolicki Uniwersytet Lubelski Jana Pawła II",1,0,0,0,37,0,"HS",50.4439156,23.4163553,"Lwowska 80, Tomasz�w Lubelski, Poland"," Tomasz�w Lubelski"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Szczeciński",3,0,0,0,66,0,"HS",53.4214377,14.539993,"Gabriela Narutowicza, 70-953 Szczecin, Poland"," Szczecin"
+"HS1PR","B","Wydział Prawa i Administracji","Uniwersytet Rzeszowski",1,0,0,0,85,0,"HS",50.0392349,22.0024583,"Grunwaldzka 13, Rzesz�w, Poland"," Rzesz�w"
+"HS1PR","B","Wydział Prawa i Administracji","Wyższa Szkoła Menedżerska w Warszawie",1,0,0,0,NA,NA,"HS",52.2575647,21.0581563,"Kaweczynska 36, 03-772 Warszawa, Poland"," Warszawa"
+"HS2PR","A","","Instytut Nauk Prawnych PAN",16,9,0.5625,870164,63,13812.126984127,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS1SP","A","Instytut Studiów Społecznych im. prof. Roberta B. 
+Zajonca","Uniwersytet Warszawski",8,4,0.5,2821452,9,313494.666666667,"HS",52.2525144,20.9903192,"Stawki 5/7, 00-183 Warszawa, Poland"," Warszawa"
+"HS1SP","A","Ośrodek Badań nad Migracjami","Uniwersytet Warszawski",2,2,1,2315566,9.7,238718.144329897,"HS",52.2403463,21.0186012,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1SP","A","Wydział Filozoficzny","Uniwersytet Jagielloński",94,32,0.340425531914894,11207404,236,47489,"HS",50.0608162,19.9330331,"Golebia 24, Krak�w, Poland"," Krak�w"
+"HS1SP","A+","Wydział Psychologii","Uniwersytet Warszawski",16,9,0.5625,2925422,77,37992.4935064935,"HS",52.2525358,20.9904358,"Stawki 5/7, 00-183 Warszawa, Poland"," Warszawa"
+"HS1SP","A+","Wydział Zamiejscowy we Wrocławiu","Uniwersytet SWPS",11,3,0.272727272727273,860506,30.5,28213.3114754098,"HS",51.0936246,16.9734371,"Aleksandra Ostrowskiego 30b, Wroclaw, Poland"," Wroclaw"
+"HS1SP","A","Instytut Ameryk i Europy","Uniwersytet Warszawski",10,3,0.3,772950,39,19819.2307692308,"HS",52.2403463,21.0186012,"Krakowskie Przedmiescie 26/28, 00-927 Warszawa, Poland"," Warszawa"
+"HS1SP","A","Wydział Psychologii","Uniwersytet SWPS",27,9,0.333333333333333,1206284,73,16524.4383561644,"HS",52.2525358,20.9904358,"Stawki 5/7, 00-183 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Stosowanych Nauk Społecznych","Akademia Pedagogiki Specjalnej im. Marii 
+Grzegorzewskiej",9,4,0.444444444444444,1442159,89,16204.0337078652,"HS",52.2172072,20.9707359,"Szczesliwicka 40, 02-353 Warszawa, Poland"," Warszawa"
+"HS1SP","A","Wydział Filozofii i Socjologii","Uniwersytet Warszawski",46,15,0.326086956521739,2192451,137,16003.2919708029,"HS",52.2391965,21.0168216,"Krakowskie Przedmiescie 3, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Stosowanych Nauk Społecznych i 
+Resocjalizacji","Uniwersytet Warszawski",13,5,0.384615384615385,1425220,95,15002.3157894737,"HS",52.2293963,21.0196769,"Zurawia 4, 00-503 Warszawa, Poland"," Warszawa"
+"HS1SP","A","Wydział Nauk Politycznych i Dziennikarstwa","Uniwersytet im. Adama Mickiewicza w Poznaniu",21,3,0.142857142857143,693920,69,10056.8115942029,"HS",52.4658412,16.9247818,"Umultowska 89A, 61-614 Poznan, Poland"," Poznan"
+"HS1SP","B","Wydział Nauk Pedagogicznych","Akademia Pedagogiki Specjalnej im. Marii 
+Grzegorzewskiej",7,2,0.285714285714286,1142601,139,8220.15107913669,"HS",52.2172072,20.9707359,"Szczesliwicka 40, 02-353 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Politologii","Uniwersytet Marii Curie-Skłodowskiej",17,4,0.235294117647059,719730,93,7739.03225806452,"HS",51.2491873,22.5603819,"plac Litewski 3, Lublin, Poland"," Lublin"
+"HS1SP","B","Wydział Studiów Międzynarodowych i Politycznych","Uniwersytet Jagielloński",39,8,0.205128205128205,1350950,185.83,7269.81649895065,"HS",50.060372,19.9304303,"Jablonowskich 5, Krak�w, Poland"," Krak�w"
+"HS1SP","A","Wydział Nauk Społecznych","Katolicki Uniwersytet Lubelski Jana Pawła II",15,5,0.333333333333333,1101466,209,5270.17224880383,"HS",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"HS1SP","B","Wydział Nauk Społecznych","Uniwersytet Śląski w Katowicach",31,5,0.161290322580645,825669,166,4973.90963855422,"HS",50.2606953,19.0292811,"Bankowa 11, Katowice, Poland"," Katowice"
+"HS1SP","B","Wydział Administracji i Nauk Społecznych","Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie",3,2,0.666666666666667,212030,45,4711.77777777778,"HS",50.0489064,21.9817016,"mjr. Henryka Sucharskiego 2, Rzesz�w, Poland"," Rzesz�w"
+"HS1SP","B","Wydział Studiów Międzynarodowych i 
+Politologicznych","Uniwersytet Łódzki",7,2,0.285714285714286,279096,62,4501.54838709677,"HS",51.7715004,19.4721895,"Skladowa 43, 90-127 L�dz, Poland"," L�dz"
+"HS1SP","A","Wydział Dziennikarstwa i Nauk Politycznych","Uniwersytet Warszawski",36,7,0.194444444444444,842120,189,4455.66137566138,"HS",52.2392278,21.0168404,"Krakowskie Przedmiescie 3, 00-927 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Nauk Społecznych i Dziennikarstwa","Dolnośląska Szkoła Wyższa",3,1,0.333333333333333,127120,33,3852.12121212121,"HS",51.1140032,16.9966643,"Strzegomska 47, 53-611 Wroclaw, Poland"," Wroclaw"
+"HS1SP","A","Wydział Zarządzania i Komunikacji Społecznej","Uniwersytet Jagielloński",22,3,0.136363636363636,686026,183.5,3738.56130790191,"HS",50.030304,19.9086839,"Lojasiewicza 4, Krak�w, Poland"," Krak�w"
+"HS1SP","B","Wydział Nauk Społecznych","Uniwersytet Wrocławski",35,8,0.228571428571429,712425,202,3526.85643564356,"HS",51.1409634,17.0691973,"Koszarowa 3, 51-149 Wroclaw, Poland"," Wroclaw"
+"HS1SP","A","Wydział Psychologii","Wyższa Szkoła Finansów i Zarządzania w Warszawie",13,1,0.0769230769230769,130400,37,3524.32432432432,"HS",52.2440137,20.9826743,"Pawia 55, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Nauk Społecznych","Uniwersytet Gdański",18,6,0.333333333333333,693190,256,2707.7734375,"HS",54.3990486,18.5731602,"Jana Bazynskiego 4, 80-309 Gdansk, Poland"," Gdansk"
+"HS1SP","A","Wydział Politologii i Studiów Międzynarodowych","Uniwersytet Mikołaja Kopernika w Toruniu",10,2,0.2,128062,59,2170.54237288136,"HS",53.0257579,18.6204154,"Stefana Batorego 39L, 87-100 Torun, Poland"," Torun"
+"HS1SP","B","Wydział Historyczno-Pedagogiczny","Uniwersytet Opolski",11,2,0.181818181818182,355940,167,2131.37724550898,"HS",50.6720297,17.9323782,"45-910 Opole, Poland"," Opole"
+"HS1SP","B","Wydział Nauk Pedagogicznych","Dolnośląska Szkoła Wyższa",4,1,0.25,90625,62.25,1455.82329317269,"HS",51.114282,16.992185,"Strzegomska 55, 53-611 Wroclaw, Poland"," Wroclaw"
+"HS1SP","B","Wydział Nauk o Bezpieczeństwie","Wyższa Szkoła Oficerska Wojsk Lądowych im. Generała 
+Tadeusza Kościuszki we Wrocławiu",2,1,0.5,48000,36,1333.33333333333,"HS",51.1500686,17.0585712,"Piotra Czajkowskiego 109, Wroclaw, Poland"," Wroclaw"
+"HS1SP","A","Wydział Studiów Edukacyjnych","Uniwersytet im. Adama Mickiewicza w Poznaniu",8,1,0.125,162120,123,1318.0487804878,"HS",52.4137589,16.8842805,"Szamarzewskiego 89, Poznan, Poland"," Poznan"
+"HS1SP","B","Wydział Nauk o Wychowaniu","Uniwersytet Łódzki",6,1,0.166666666666667,96084,111,865.621621621622,"HS",51.7780505,19.4665572,"Pomorska 46/48, 91-408 L�dz, Poland"," L�dz"
+"HS1SP","A","Wydział Nauk Społecznych","Uniwersytet im. Adama Mickiewicza w Poznaniu",47,2,0.0425531914893617,171860,216.5,793.810623556582,"HS",52.414254,16.8828957,"Szamarzewskiego 89, 60-568 Poznan, Poland"," Poznan"
+"HS1SP","B","Wydział Nauk Społecznych","Uniwersytet Warmińsko-Mazurski w Olsztynie",11,1,0.0909090909090909,82238,121,679.652892561983,"HS",53.771734,20.488492,"Zolnierska 14, 10-561 Olsztyn, Poland"," Olsztyn"
+"HS1SP","B","Wydział Zamiejscowy w Sopocie","Uniwersytet SWPS",4,0,0,0,25,0,"HS",54.4312729,18.5675705,"Polna 16, Sopot, Poland"," Sopot"
+"HS1SP","B","Wydział Nauk Historycznych i Społecznych","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",3,0,0,0,148,0,"HS",52.3115116,20.9192569,"Kazimierza W�ycickiego 1/3, 01-938 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Pedagogiki i Psychologii","Uniwersytet Śląski w Katowicach",5,0,0,0,135,0,"HS",50.2703682,19.0175135,"Grazynskiego 53, Katowice, Poland"," Katowice"
+"HS1SP","B","Wydział Filozofii i Socjologii","Uniwersytet Marii Curie-Skłodowskiej",4,0,0,0,82,0,"HS",51.2450302,22.5411934,"Plac Marii Sklodowskiej-Curie 4, 20-031 Lublin, Poland"," Lublin"
+"HS1SP","B","Wydział Etnologii i Nauk o Edukacji w Cieszynie","Uniwersytet Śląski w Katowicach",7,0,0,0,84,0,"HS",49.7491778,18.6485858,"Bielska 62, 43-400 Cieszyn, Poland"," Cieszyn"
+"HS1SP","B","Wydział Pedagogiki, Socjologii i Nauk o Zdrowiu","Uniwersytet Zielonogórski",14,0,0,0,106,0,"HS",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"HS1SP","B","Wydział Pedagogiki i Psychologii","Uniwersytet Kazimierza Wielkiego",6,0,0,0,90,0,"HS",53.1311376,18.0191983,"Jana Karola Chodkiewicza 30, 85-064 Bydgoszcz, Poland"," Bydgoszcz"
+"HS1SP","B","Wydział Pedagogiki i Psychologii","Uniwersytet Marii Curie-Skłodowskiej",11,0,0,0,119,0,"HS",51.2455166,22.5414484,"Plac Marii Sklodowskiej-Curie 5, Lublin, Poland"," Lublin"
+"HS1SP","B","Wydział Pedagogiczny","Uniwersytet Warszawski",7,0,0,0,51,0,"HS",52.2209316,21.0191042,"Mokotowska 16/20, Warszawa, Poland"," Warszawa"
+"HS1SP","A","Wydział Nauk Pedagogicznych","Uniwersytet Mikołaja Kopernika w Toruniu",3,0,0,0,51.5,0,"HS",53.0214495,18.5691825,"Lwowska 1, Torun, Poland"," Torun"
+"HS1SP","B","Wydział Zarządzania i Administracji","Uniwersytet Jana Kochanowskiego w Kielcach",6,0,0,0,115,0,"HS",50.879036,20.661493,"Swietokrzyska 21, 25-406 Kielce, Poland"," Kielce"
+"HS1SP","B","Wydział Humanistyczny","Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",6,0,0,0,147,0,"HS",52.1752871,22.2674471,"Zytnia 39, 08-100 Siedlce, Poland"," Siedlce"
+"HS1SP","B","Wydział Pedagogiki i Psychologii","Uniwersytet w Białymstoku",3,0,0,0,96,0,"HS",53.1279257,23.1586545,"ul. Marii Sklodowskiej-Curie 14, 15-097 Bialystok, Poland"," Bialystok"
+"HS1SP","B","Wydział Nauk Społecznych","Akademia im. Jana Długosza w Częstochowie",4,0,0,0,53,0,"HS",50.8101247,19.1163831,"Jerzego Waszyngtona 4/8, Czestochowa, Poland"," Czestochowa"
+"HS1SP","A","","Collegium Civitas",3,0,0,0,30,0,"HS",52.2317185,21.006011,"plac Defilad 1, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Psychologii i Nauk Humanistycznych","Krakowska Akademia im. Andrzeja Frycza 
+Modrzewskiego",4,0,0,0,53,0,"HS",50.0508476,19.9646244,"Gustawa Herlinga-Grudzinskiego 1, Krak�w, Poland"," Krak�w"
+"HS1SP","B","Wydział Administracji i Nauk Społecznych","Politechnika Warszawska",3,0,0,0,57.9,0,"HS",52.2205657,21.0100061,"Plac Politechniki, 1, 00-661 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Nauk Humanistycznych i Społecznych","Akademia Marynarki Wojennej im. Bohaterów 
+Westerplatte",3,0,0,0,19,0,"HS",54.5430636,18.5454691,"Inzyniera Jana Smidowicza 69, Gdynia, Poland"," Gdynia"
+"HS1SP","B","Wydział Nauk Pedagogicznych","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",3,0,0,0,32,0,"HS",52.2952917,20.9600312,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Administracji i Nauk Społecznych","Uniwersytet Kazimierza Wielkiego",3,0,0,0,54,0,"HS",53.1311376,18.0191983,"Jana Karola Chodkiewicza 30, 85-064 Bydgoszcz, Poland"," Bydgoszcz"
+"HS1SP","B","Wydział Pedagogiczny","Uniwersytet Pedagogiczny im. Komisji Edukacji 
+Narodowej w Krakowie",1,0,0,0,172,0,"HS",50.0619388,19.9211712,"Romana Ingardena 4, Krak�w, Poland"," Krak�w"
+"HS1SP","A","Wydział Zarządzania i Dowodzenia","Akademia Obrony Narodowej",2,0,0,0,105,0,"HS",52.2687436,21.1749931,"Al. gen. Antoniego Chrusciela ""Montera"" 103, 00-910 Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Zamiejscowy Nauk o Społeczeństwie w 
+Stalowej Woli","Katolicki Uniwersytet Lubelski Jana Pawła II",2,0,0,0,93,0,"HS",50.5632099,22.0595177,"Katynia Ofiar Katynia 6A, Stalowa Wola, Poland"," Stalowa Wola"
+"HS1SP","B","Wydział Nauk Społecznych","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",1,0,0,0,54,0,"HS",52.1639859,21.0472979,"Nowoursynowska 166, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Politologii","Wyższa Szkoła Finansów i Zarządzania w Warszawie",2,0,0,0,11,0,"HS",52.2440137,20.9826743,"Pawia 55, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Dowodzenia i Operacji Morskich","Akademia Marynarki Wojennej im. Bohaterów 
+Westerplatte",2,0,0,0,30,0,"HS",54.5438708,18.5450238,"Inzyniera Jana Smidowicza 69, Gdynia, Poland"," Gdynia"
+"HS1SP","B","Wydział Studiów nad Rodziną","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",1,0,0,0,17,0,"HS",52.3363995,20.899357,"Krzysztofa Kamila Baczynskiego 9, 05-092 Lomianki, Poland"," Lomianki"
+"HS1SP","B","Centrum Europejskie","Uniwersytet Warszawski",1,0,0,0,28,0,"HS",52.1857751,21.0198901,"aleja Niepodleglosci 22, Warszawa, Poland"," Warszawa"
+"HS1SP","B","Wydział Pedagogiczny","Akademia Ignatianum w Krakowie",4,0,0,0,102,0,"HS",50.0625819,19.9488974,"Mikolaja Kopernika 26, Krak�w, Poland"," Krak�w"
+"HS1SP","B","Wydział Nauk Społecznych","Akademia Pomorska w Słupsku",1,0,0,0,100,0,"HS",54.4583206,16.995356,"Szczecinska 60, 76-200 Slupsk, Poland"," Slupsk"
+"HS1SP","B","Wydział Nauk Humanistycznych i Społecznych","Wyższa Szkoła Administracji w Bielsku-Białej",1,0,0,0,NA,NA,"HS",49.8229231,19.0400042,"plac Marcina Lutra 7, 43-300 Bielsko-Biala, Poland"," Bielsko-Biala"
+"HS1SP","B","Wydział Studiów Międzynarodowych","Wyższa Szkoła Administracji w Bielsku-Białej",3,1,0.333333333333333,478866,NA,NA,"HS",49.8229231,19.0400042,"plac Marcina Lutra 7, 43-300 Bielsko-Biala, Poland"," Bielsko-Biala"
+"HS1SP","C","","Wyższa Szkoła Promocji",6,0,0,0,NA,NA,"HS",52.231896,21.006162,"Palac Kultury i Nauki, plac Defilad 1, 00-901 Warszawa, Poland"," Warszawa"
+"HS1SP","B","","Wyższa Szkoła Studiów Międzynarodowych",1,0,0,0,NA,NA,"HS",51.7462319,19.4690463,"Brzozowa 3/9, L�dz, Poland"," L�dz"
+"HS2SP","A","","Instytut Psychologii PAN",13,6,0.461538461538462,3300160,30,110005.333333333,"HS",NA,NA,NA,NA
+"HS2SP","A+","","Instytut Filozofii i Socjologii PAN",23,8,0.347826086956522,4018449,62,64813.6935483871,"HS",52.2375842,21.0179278,"Nowy Swiat 72, Warszawa, Poland"," Warszawa"
+"HS2SP","A","","Instytut Studiów Politycznych PAN",17,3,0.176470588235294,451505,76,5940.8552631579,"HS",52.2160557,21.0182902,"Polna 18/20, Warszawa, Poland"," Warszawa"
+"HS1FT","B","Wydział Teologiczny","Uniwersytet Papieski Jana Pawła II w Krakowie",26,4,0.153846153846154,378375,56,6756.69642857143,"HS",50.0568341,19.9374282,"Kanonicza 9, 31-002 Krak�w, Poland"," Krak�w"
+"HS1FT","A","Wydział Teologii","Uniwersytet Warmińsko-Mazurski w Olsztynie",6,2,0.333333333333333,255079,43,5932.06976744186,"HS",53.7601848,20.4608081,"Michala Oczapowskiego 2, Olsztyn, Poland"," Olsztyn"
+"HS1FT","A","Wydział Teologii","Katolicki Uniwersytet Lubelski Jana Pawła II",12,2,0.166666666666667,712271,145,4912.21379310345,"HS",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"HS1FT","A","Wydział Filozofii Chrześcijańskiej","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",13,5,0.384615384615385,400713,88,4553.55681818182,"HS",52.3115649,20.9192251,"W�ycickiego 1/3, Warszawa, Poland"," Warszawa"
+"HS1FT","A+","Wydział Humanistyczny","Uniwersytet Mikołaja Kopernika w Toruniu",15,3,0.2,229970,63.5,3621.57480314961,"HS",53.0108288,18.6005265,"Fosa Staromiejska 1a, Torun, Poland"," Torun"
+"HS1FT","A","Wydział Teologiczny","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",9,1,0.111111111111111,55913,110.19,507.423541156185,"HS",52.2952917,20.9600312,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"HS1FT","A","Wydział Filozofii","Katolicki Uniwersytet Lubelski Jana Pawła II",8,1,0.125,29536,78.75,375.060317460317,"HS",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"HS1FT","A","Wydział Teologiczny","Uniwersytet Mikołaja Kopernika w Toruniu",2,0,0,0,31.5,0,"HS",53.0189945,18.5795932,"Gagarina 37, Torun, Poland"," Torun"
+"HS1FT","A","Wydział Filozoficzny","Uniwersytet Papieski Jana Pawła II w Krakowie",3,0,0,0,28,0,"HS",50.0555933,19.9367711,"Kanonicza 25, Krak�w, Poland"," Krak�w"
+"HS1FT","B","Wydział Teologiczny","Uniwersytet Śląski w Katowicach",6,0,0,0,37.75,0,"HS",50.2516863,19.0171786,"Jordana 18, Katowice, Poland"," Katowice"
+"HS1FT","B","Wydział Filozoficzny","Akademia Ignatianum w Krakowie",3,0,0,0,56,0,"HS",50.0625819,19.9488974,"Mikolaja Kopernika 26, Krak�w, Poland"," Krak�w"
+"HS1FT","A","Wydział Teologiczny","Uniwersytet im. Adama Mickiewicza w Poznaniu",1,0,0,0,59,0,"HS",52.4095032,16.9476957,"Wiezowa 2/4, 61-111 Poznan, Poland"," Poznan"
+"HS1FT","B","Wydział Teologiczny","Chrześcijańska Akademia Teologiczna w Warszawie",3,0,0,0,18,0,"HS",52.2477669,21.0069274,"Miodowa 21C, Warszawa, Poland"," Warszawa"
+"NZ1B","A+","Wydział Biochemii, Biofizyki i Biotechnologii","Uniwersytet Jagielloński",60,29,0.483333333333333,24860001,158,157341.778481013,"NZ",50.0261879,19.9004598,"Gronostajowa 7, Krak�w, Poland"," Krak�w"
+"NZ1B","A+","Wydział Biotechnologii","Uniwersytet Wrocławski",25,7,0.28,6391689,52,122917.096153846,"NZ",51.1119002,17.053315,"Fryderyka Joliot-Curie 14a, 50-383 Wroclaw, Poland"," Wroclaw"
+"NZ1B","A","Międzyuczelniany Wydział Biotechnologii 
+Uniwersytetu Gdańskiego i Gdańskiego Uniwersytetu","Uniwersytet Gdański
+Gdański Uniwersytet Medyczny",31,12,0.387096774193548,7915291,67.75,116830.863468635,"NZ",54.39326,18.5779614,"Abrahama 58, 80-307 Gdansk, Poland"," Gdansk"
+"NZ1B","A","Wydział Biologii","Uniwersytet Warszawski",63,27,0.428571428571429,12905566,185,69759.8162162162,"NZ",52.2136295,20.9860702,"Ilii Miecznikowa 1, Warszawa, Poland"," Warszawa"
+"NZ1B","A","Wydział Biologii","Uniwersytet im. Adama Mickiewicza w Poznaniu",78,28,0.358974358974359,11436846,210,54461.1714285714,"NZ",52.4669845,16.925275,"Umultowska 89, 61-614 Poznan, Poland"," Poznan"
+"NZ1B","A","Wydział Biologii i Nauk o Ziemi","Uniwersytet Jagielloński",93,31,0.333333333333333,11023146,256.35,43000.3744880047,"NZ",50.0636894,19.9552625,"Mikolaja Kopernika 27, Krak�w, Poland"," Krak�w"
+"NZ1B","A","Wydział Biologii","Uniwersytet Gdański",42,14,0.333333333333333,5824569,138.28,42121.5577089962,"NZ",54.394989,18.576615,"Wita Stwosza 59, 80-308 Gdansk, Poland"," Gdansk"
+"NZ1B","A","Wydział Nauk Biologicznych","Uniwersytet Wrocławski",30,11,0.366666666666667,4068394,119,34188.1848739496,"NZ",51.1152736,17.0462953,"Kanonia 6/8, Wroclaw, Poland"," Wroclaw"
+"NZ1B","A","Pozawydziałowy Zamiejscowy Instytut Biotechnologii 
+Stosowanej i Nauk Podstawowych","Uniwersytet Rzeszowski",13,2,0.153846153846154,848310,27,31418.8888888889,"NZ",50.0302925,22.0156175,"aleja Tadeusza Rejtana 16C, Rzesz�w, Poland"," Rzesz�w"
+"NZ1B","B","Wydział Biologii i Biotechnologii","Uniwersytet Marii Curie-Skłodowskiej",21,6,0.285714285714286,2843105,125,22744.84,"NZ",51.2432185,22.5426928,"Akademicka 19, Lublin, Poland"," Lublin"
+"NZ1B","A","Wydział Biologii i Biotechnologii","Uniwersytet Warmińsko-Mazurski w Olsztynie",21,5,0.238095238095238,1359141,79,17204.3164556962,"NZ",53.7591228,20.4607253,"Michala Oczapowskiego 1A, 10-719 Olsztyn, Poland"," Olsztyn"
+"NZ1B","A","Wydział Biologii i Ochrony Środowiska","Uniwersytet Łódzki",61,10,0.163934426229508,3176085,200,15880.425,"NZ",51.776819,19.4850013,"Pilarskiego 14/16, 90-231 L�dz, Poland"," L�dz"
+"NZ1B","A","Wydział Biologiczno-Chemiczny","Uniwersytet w Białymstoku",31,6,0.193548387096774,1802303,117.7,15312.6847918437,"NZ",53.1084581,23.1538904,"Konstantego Ciolkowskiego 1K, 15-245 Bialystok, Poland"," Bialystok"
+"NZ1B","A","Wydział Biologii i Ochrony Środowiska","Uniwersytet Śląski w Katowicach",24,8,0.333333333333333,1813494,130,13949.9538461538,"NZ",50.2543892,19.0234611,"Jagiellonska 26/28, Katowice, Poland"," Katowice"
+"NZ1B","B","Wydział Biologii i Ochrony Środowiska","Uniwersytet Mikołaja Kopernika w Toruniu",29,5,0.172413793103448,1362026,103,13223.5533980583,"NZ",53.0211502,18.5698771,"Jurija Gagarina 9, 87-120 Torun, Poland"," Torun"
+"NZ1B","C","Wydział Matematyczno-Przyrodniczy","Akademia Pomorska w Słupsku",11,1,0.0909090909090909,888000,87,10206.8965517241,"NZ",54.4525039,17.042463,"Krzysztofa Arciszewskiego 22A, 76-200 Slupsk, Poland"," Slupsk"
+"NZ1B","B","Wydział Biotechnologii i Nauk o Środowisku","Katolicki Uniwersytet Lubelski Jana Pawła II",4,1,0.25,426200,73,5838.35616438356,"NZ",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"NZ1B","B","Wydział Nauk Przyrodniczych","Uniwersytet Kazimierza Wielkiego",2,2,1,168000,44,3818.18181818182,"NZ",53.1304518,18.0184954,"aleja Powstanc�w Wielkopolskich 10, 85-090 Bydgoszcz, Poland"," Bydgoszcz"
+"NZ1B","B","Wydział Nauk Biologicznych","Uniwersytet Zielonogórski",2,0,0,0,41,0,"NZ",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"NZ1B","C","Wydział Geograficzno-Biologiczny","Uniwersytet Pedagogiczny im. Komisji Edukacji 
+Narodowej w Krakowie",13,0,0,0,116,0,"NZ",50.0737364,19.9088735,"Podchorazych 2, Krak�w, Poland"," Krak�w"
+"NZ1B","C","Wydział Przyrodniczo-Techniczny","Uniwersytet Opolski",13,0,0,0,83,0,"NZ",50.6733628,17.9315758,"Oleska 48, Opole, Poland"," Opole"
+"NZ1B","B","Wydział Biologii","Uniwersytet Szczeciński",6,0,0,0,77,0,"NZ",53.4395896,14.547746,"Zygmunta Felczaka 3c, 71-412 Szczecin, Poland"," Szczecin"
+"NZ1B","B","Wydział Biologii i Nauk o Środowisku","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",1,0,0,0,30,0,"NZ",52.2952917,20.9600312,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Farmakologii PAN",50,25,0.5,23701014,132.9,178337.200902935,"NZ",NA,NA,NA,NA
+"NZ2B","A","","Instytut Chemii Bioorganicznej PAN",39,13,0.333333333333333,16343807,102.2,159919.833659491,"NZ",52.4113445,16.9177679,"Wieniawskiego 17/19, Poznan, Poland"," Poznan"
+"NZ2B","A","","Instytut Paleobiologii im. Romana Kozłowskiego PAN",10,8,0.8,2313879,18,128548.833333333,"NZ",52.2284627,20.9934824,"Twarda 51/55, Warszawa, Poland"," Warszawa"
+"NZ2B","B","","Europejskie Regionalne Centrum Ekohydrologii PAN",3,3,1,1160244,11,105476.727272727,"NZ",51.7514926,19.4652133,"Tylna 3, L�dz, Poland"," L�dz"
+"NZ2B","A+","","Instytut Biochemii i Biofizyki PAN",68,23,0.338235294117647,10980428,134.6,81578.2169390788,"NZ",52.2067929,20.9797718,"Adolfa Pawinskiego 5A, 02-106 Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Genetyki Człowieka PAN",39,7,0.179487179487179,3556307,57.5,61848.8173913044,"NZ",52.445875,16.904403,"Strzeszynska 32, Poznan, Poland"," Poznan"
+"NZ2B","A+","","Międzynarodowy Instytut Biologii Molekularnej i 
+Komórkowej",7,4,0.571428571428571,4740000,81,58518.5185185185,"NZ",52.206558,20.9789193,"Ksiecia Trojdena 4, 02-109 Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Biologii Ssaków PAN",8,4,0.5,1126650,26,43332.6923076923,"NZ",52.7040264,23.8499558,"Waszkiewicza 1, Bialowieza, Poland"," Bialowieza"
+"NZ2B","A","","Instytut Ochrony Przyrody PAN",13,2,0.153846153846154,1081139,34.5,31337.3623188406,"NZ",50.0665568,19.9252017,"aleja Adama Mickiewicza 33, Krak�w, Poland"," Krak�w"
+"NZ2B","A","","Instytut Medycyny Doświadczalnej i Klinicznej im. 
+Mirosława Mossakowskiego PAN",41,12,0.292682926829268,5352124,184.16,29062.3588184188,"NZ",52.2070582,20.9816481,"Adolfa Pawinskiego 5, 02-106 Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Immunologii i Terapii Doświadczalnej im. 
+Ludwika Hirszfelda PAN",43,10,0.232558139534884,4273524,158.1,27030.5123339658,"NZ",51.0765029,17.0223096,"Weigla 12, Wroclaw, Poland"," Wroclaw"
+"NZ2B","A","","Muzeum i Instytut Zoologii PAN",15,4,0.266666666666667,1112587,41.5,26809.3253012048,"NZ",52.2239456,21.0089695,"Wilcza 64, 00-679 Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Systematyki i Ewolucji Zwierząt PAN",13,4,0.307692307692308,710396,28,25371.2857142857,"NZ",50.0644362,19.9381632,"Slawkowska 17, 31-016 Krak�w, Poland"," Krak�w"
+"NZ2B","B","","Instytut Biologii Medycznej PAN",9,2,0.222222222222222,635450,33.95,18717.2312223859,"NZ",51.7320735,19.5251555,"Lodowa 106, L�dz, Poland"," L�dz"
+"NZ2B","B","","Instytut Parazytologii im. Witolda Stefańskiego PAN",2,1,0.5,306000,33,9272.72727272727,"NZ",52.2284627,20.9934824,"Twarda 51/55, Warszawa, Poland"," Warszawa"
+"NZ2B","A","","Instytut Botaniki im. Władysława Szafera PAN",10,0,0,0,71,0,"NZ",50.0656912,19.9552384,"Lubicz 46, Krak�w, Poland"," Krak�w"
+"NZ1M","A","Wydział Nauk o Zdrowiu","Uniwersytet Medyczny w Łodzi",20,3,0.15,3625657,121,29964.1074380165,"NZ",51.7698532,19.4543606,"Al. Kosciuszki 4, 90-419 L�dz, Poland"," L�dz"
+"NZ1M","A+","Wydział Farmaceutyczny z Oddziałem Medycyny 
+Laboratoryjnej","Gdański Uniwersytet Medyczny",32,8,0.25,3289372,132.25,24872.3780718336,"NZ",54.3662249,18.6298265,"Marii Sklodowskiej-Curie 3A, Gdansk, Poland"," Gdansk"
+"NZ1M","A","Wydział Nauk Biomedycznych i Kształcenia 
+Podyplomowego","Uniwersytet Medyczny w Łodzi",23,3,0.130434782608696,1209977,54.5,22201.4128440367,"NZ",51.7698532,19.4543606,"Al. Kosciuszki 4, 90-419 L�dz, Poland"," L�dz"
+"NZ1M","A","Wydział Farmaceutyczny CM","Uniwersytet Mikołaja Kopernika w Toruniu",14,4,0.285714285714286,2321651,109.91,21123.2008006551,"NZ",53.0195187,18.5711994,"Jurija Gagarina 11, 87-100 Torun, Poland"," Torun"
+"NZ1M","B","Wydział Rehabilitacji Ruchowej","Akademia Wychowania Fizycznego im. Bronisława 
+Czecha w Krakowie",5,1,0.2,986784,48,20558,"NZ",50.0722683,19.9985705,"Aleja Jana Pawla II 78, 31-571 Krak�w, Poland"," Krak�w"
+"NZ1M","A","Wydział Lekarski CM","Uniwersytet Jagielloński",132,26,0.196969696969697,13212097,800.67,16501.3014100691,"NZ",50.0619874,19.9332691,"Swietej Anny 12, 31-008 Krak�w, Poland"," Krak�w"
+"NZ1M","B","Wydział Wychowania Fizycznego","Akademia Wychowania Fizycznego Józefa Piłsudskiego w
+Warszawie",3,1,0.333333333333333,839356,54,15543.6296296296,"NZ",52.2852791,20.960219,"Marymoncka 34, 00-968 Warszawa, Poland"," Warszawa"
+"NZ1M","A+","Wydział Farmaceutyczny z Oddziałem Medycyny 
+Laboratoryjnej","Uniwersytet Medyczny w Białymstoku",15,5,0.333333333333333,1873370,123.5,15168.987854251,"NZ",53.1305551,23.1652978,"Jana Kilinskiego 1, Bialystok, Poland"," Bialystok"
+"NZ1M","A","Wydział Farmaceutyczny","Uniwersytet Medyczny im. Karola Marcinkowskiego w 
+Poznaniu",37,10,0.27027027027027,1810478,141,12840.2695035461,"NZ",52.4098622,16.919111,"Collegium Maius, Fredry 10, 61-701 Poznan, Poland"," Poznan"
+"NZ1M","A","Wydział Lekarski","Uniwersytet Medyczny w Łodzi",69,12,0.173913043478261,4741197,375.81,12615.941566217,"NZ",51.7684668,19.4367858,"plac Hallera 1, 90-647 L�dz, Poland"," L�dz"
+"NZ1M","A","Wydział Farmaceutyczny z Oddziałem Medycyny 
+Laboratoryjnej","Warszawski Uniwersytet Medyczny",41,8,0.195121951219512,1898066,173,10971.4797687861,"NZ",52.2098061,20.9861727,"Banacha 1, Warszawa, Poland"," Warszawa"
+"NZ1M","B","Wydział Wychowania Fizycznego, Sportu i Rehabilitacji","Akademia Wychowania Fizycznego im. Eugeniusza 
+Piaseckiego w Poznaniu",24,3,0.125,1597536,148,10794.1621621622,"NZ",52.3989561,16.9329197,"Kr�lowej Jadwigi 27/39, 61-871 Poznan, Poland"," Poznan"
+"NZ1M","A","I Wydział Lekarski","Warszawski Uniwersytet Medyczny",89,14,0.157303370786517,6263806,582.08,10761.0740791644,"NZ",52.2061594,20.9850568,"Zwirki i Wigury 61, Warszawa, Poland"," Warszawa"
+"NZ1M","A","Wydział Lekarski w Katowicach","Śląski Uniwersytet Medyczny w Katowicach",27,6,0.222222222222222,2989369,292.13,10233.0092766919,"NZ",50.2253016,18.9551294,"Medyk�w 18, Katowice, Poland"," Katowice"
+"NZ1M","A","Wydział Lekarski z Oddziałem Nauczania w Języku 
+Angielskim","Pomorski Uniwersytet Medyczny w Szczecinie",17,4,0.235294117647059,2037051,211.08,9650.61114269471,"NZ",53.4230055,14.5546254,"Rybacka 1, Szczecin, Poland"," Szczecin"
+"NZ1M","A","Wydział Lekarski CM","Uniwersytet Mikołaja Kopernika w Toruniu",24,3,0.125,2016216,234.63,8593.17222861527,"NZ",53.0195187,18.5711994,"Jurija Gagarina 11, 87-100 Torun, Poland"," Torun"
+"NZ1M","B","Wydział Wychowania Fizycznego","Akademia Wychowania Fizycznego im. Jerzego Kukuczki 
+w Katowicach",4,1,0.25,416000,51.66,8052.65195509098,"NZ",50.24999,19.003171,"Mikolowska 72A, Katowice, Poland"," Katowice"
+"NZ1M","A","Wydział Lekarski","Gdański Uniwersytet Medyczny",57,8,0.140350877192982,4134775,524.75,7879.51405431158,"NZ",54.3662249,18.6298265,"Marii Sklodowskiej-Curie 3A, Gdansk, Poland"," Gdansk"
+"NZ1M","B","Wydział Rehabilitacji","Akademia Wychowania Fizycznego Józefa Piłsudskiego w
+Warszawie",7,1,0.142857142857143,267810,38.75,6911.22580645161,"NZ",52.2852791,20.960219,"Marymoncka 34, 00-968 Warszawa, Poland"," Warszawa"
+"NZ1M","A","Wydział Nauk o Zdrowiu z Oddziałem Pielęgniarstwa i 
+Instytutem Medycyny Morskiej i Tropikalnej","Gdański Uniwersytet Medyczny",19,1,0.0526315789473684,1046100,158.28,6609.17361637604,"NZ",54.3662249,18.6298265,"Marii Sklodowskiej-Curie 3A, Gdansk, Poland"," Gdansk"
+"NZ1M","A","Wydział Lekarsko-Biotechnologiczny i Medycyny 
+Laboratoryjnej","Pomorski Uniwersytet Medyczny w Szczecinie",13,3,0.230769230769231,389090,58.88,6608.18614130435,"NZ",53.4230055,14.5546254,"Rybacka 1, Szczecin, Poland"," Szczecin"
+"NZ1M","A","Wydział Farmaceutyczny z Oddziałem Analityki 
+Medycznej","Uniwersytet Medyczny im. Piastów Śląskich we 
+Wrocławiu",19,3,0.157894736842105,754056,120,6283.8,"NZ",51.0763369,17.0311485,"Borowska 211, 50-556 Wroclaw, Poland"," Wroclaw"
+"NZ1M","A","Wydział Lekarski I","Uniwersytet Medyczny im. Karola Marcinkowskiego w 
+Poznaniu",30,5,0.166666666666667,2311414,374.94,6164.75702779111,"NZ",52.4119264,16.8777962,"Szpitalna 27/33, Poznan, Poland"," Poznan"
+"NZ1M","B","Wydział Nauk o Zdrowiu","Uniwersytet Jana Kochanowskiego w Kielcach",6,1,0.166666666666667,553379,92.5,5982.47567567568,"NZ",50.8733792,20.6374392,"aleja IX Wiek�w Kielc 19, Kielce, Poland"," Kielce"
+"NZ1M","B","","Centrum Medyczne Kształcenia Podyplomowego",13,1,0.0769230769230769,995480,170,5855.76470588235,"NZ",52.2858842,20.9535,"ul. Marymoncka 99/103, 01-813 Warszawa, Poland"," Warszawa"
+"NZ1M","B","Wydział Kultury Fizycznej i Promocji Zdrowia","Uniwersytet Szczeciński",5,1,0.2,242980,42,5785.2380952381,"NZ",53.4177289,14.533089,"Aleja Piast�w 40, Szczecin, Poland"," Szczecin"
+"NZ1M","A","Wydział Lekarski II","Uniwersytet Medyczny im. Karola Marcinkowskiego w 
+Poznaniu",36,4,0.111111111111111,2589391,467.9,5534.06924556529,"NZ",52.4119264,16.8777962,"Szpitalna 27/33, Poznan, Poland"," Poznan"
+"NZ1M","A","Wydział Farmaceutyczny z Oddziałem Analityki 
+Medycznej","Uniwersytet Medyczny w Lublinie",12,2,0.166666666666667,866700,160.8,5389.92537313433,"NZ",51.2481619,22.5488253,"Aleje Raclawickie 1, Lublin, Poland"," Lublin"
+"NZ1M","B","Wydział Lekarski","Uniwersytet Medyczny im. Piastów Śląskich we 
+Wrocławiu",34,2,0.0588235294117647,1517296,302,5024.15894039735,"NZ",51.1120012,17.0677879,"Jana Mikulicza-Radeckiego 5, 50-345 Wroclaw, Poland"," Wroclaw"
+"NZ1M","A","Wydział Farmaceutyczny","Uniwersytet Medyczny w Łodzi",15,1,0.0666666666666667,439300,91,4827.47252747253,"NZ",51.774862,19.49032,"Jana Muszynskiego 1, L�dz, Poland"," L�dz"
+"NZ1M","A","Wydział Farmaceutyczny z Oddziałem Medycyny 
+Laboratoryjnej","Śląski Uniwersytet Medyczny w Katowicach",6,2,0.333333333333333,668249,191.5,3489.55091383812,"NZ",50.2684345,19.1804244,"Jednosci 8, Sosnowiec, Poland"," Sosnowiec"
+"NZ1M","A","Wydział Nauk o Zdrowiu","Uniwersytet Medyczny im. Piastów Śląskich we 
+Wrocławiu",4,2,0.5,298800,86,3474.41860465116,"NZ",51.1096782,17.0717548,"Kazimierza Bartla 5, 50-996 Wroclaw, Poland"," Wroclaw"
+"NZ1M","B","Wydział Wojskowo-Lekarski","Uniwersytet Medyczny w Łodzi",22,1,0.0454545454545455,706807,226,3127.46460176991,"NZ",51.7684668,19.4367858,"plac Hallera 1, 90-647 L�dz, Poland"," L�dz"
+"NZ1M","A","Wydział Lekarski Kształcenia Podyplomowego","Uniwersytet Medyczny im. Piastów Śląskich we 
+Wrocławiu",24,1,0.0416666666666667,940477,316,2976.19303797468,"NZ",51.1120012,17.0677879,"Jana Mikulicza-Radeckiego 5, 50-345 Wroclaw, Poland"," Wroclaw"
+"NZ1M","B","Wydział Nauk Medycznych","Uniwersytet Warmińsko-Mazurski w Olsztynie",17,1,0.0588235294117647,490800,184.5,2660.16260162602,"NZ",53.772302,20.470764,"Aleja Warszawska 30, 11-041 Olsztyn, Poland"," Olsztyn"
+"NZ1M","C","Wydział Wychowania Fizycznego i Sportu","Akademia Wychowania Fizycznego im. Bronisława 
+Czecha w Krakowie",6,1,0.166666666666667,149220,58,2572.75862068966,"NZ",50.0722683,19.9985705,"Aleja Jana Pawla II 78, 31-571 Krak�w, Poland"," Krak�w"
+"NZ1M","A","Wydział Lekarski z Oddziałem Stomatologii i 
+Oddziałem Nauczania w Języku Angielskim","Uniwersytet Medyczny w Białymstoku",14,3,0.214285714285714,783340,373,2100.1072386059,"NZ",53.1305551,23.1652978,"Jana Kilinskiego 1, Bialystok, Poland"," Bialystok"
+"NZ1M","B","Wydział Fizjoterapii","Akademia Wychowania Fizycznego we Wrocławiu",3,1,0.333333333333333,99732,53,1881.7358490566,"NZ",51.1201856,17.0937108,"aleja Ignacego Jana Paderewskiego 35, 51-612 Wroclaw, Poland"," Wroclaw"
+"NZ1M","B","Wydział Lekarsko-Dentystyczny","Warszawski Uniwersytet Medyczny",10,1,0.1,90600,72.25,1253.97923875433,"NZ",52.2061594,20.9850568,"Zwirki i Wigury 61, Warszawa, Poland"," Warszawa"
+"NZ1M","A","II Wydział Lekarski z Oddziałem Anglojęzycznym","Uniwersytet Medyczny w Lublinie",18,1,0.0555555555555556,129000,427,302.107728337237,"NZ",51.2481619,22.5488253,"Aleje Raclawickie 1, Lublin, Poland"," Lublin"
+"NZ1M","A","Wydział Nauki o Zdrowiu z Oddziałem Pielęgniarstwa, 
+Oddziałem Zdrowia Publicznego, Oddziałem Dietetyki","Warszawski Uniwersytet Medyczny",11,0,0,0,114,0,"NZ",52.2061594,20.9850568,"Zwirki i Wigury 61, Warszawa, Poland"," Warszawa"
+"NZ1M","C","Wydział Kultury Fizycznej, Zdrowia i Turystyki","Uniwersytet Kazimierza Wielkiego",5,0,0,0,51,0,"NZ",53.1311376,18.0191983,"Jana Karola Chodkiewicza 30, 85-064 Bydgoszcz, Poland"," Bydgoszcz"
+"NZ1M","A","Wydział Nauk o Zdrowiu","Pomorski Uniwersytet Medyczny w Szczecinie",14,0,0,0,101.5,0,"NZ",53.4230055,14.5546254,"Rybacka 1, Szczecin, Poland"," Szczecin"
+"NZ1M","B","I Wydział Lekarski z Oddziałem Stomatologicznym","Uniwersytet Medyczny w Lublinie",15,0,0,0,383,0,"NZ",51.2481619,22.5488253,"Aleje Raclawickie 1, Lublin, Poland"," Lublin"
+"NZ1M","B","Wydział Nauk o Zdrowiu","Uniwersytet Medyczny im. Karola Marcinkowskiego w 
+Poznaniu",13,0,0,0,195.5,0,"NZ",52.4134179,16.9128637,"Mickiewicza 2, Poznan, Poland"," Poznan"
+"NZ1M","A","Wydział Lekarski z Oddziałem Lekarsko-Dentystycznym 
+w Zabrzu","Śląski Uniwersytet Medyczny w Katowicach",7,0,0,0,282.75,0,"NZ",50.2253016,18.9551294,"Medyk�w 18, Katowice, Poland"," Katowice"
+"NZ1M","B","Wydział Wychowania Fizycznego","Akademia Wychowania Fizycznego we Wrocławiu",11,0,0,0,63,0,"NZ",51.1201856,17.0937108,"aleja Ignacego Jana Paderewskiego 35, 51-612 Wroclaw, Poland"," Wroclaw"
+"NZ1M","B","Wydział Medyczny","Uniwersytet Rzeszowski",8,0,0,0,126,0,"NZ",50.0564414,21.9981104,"Warszawska 26A, Rzesz�w, Poland"," Rzesz�w"
+"NZ1M","B","II Wydział Lekarski z Oddziałem Nauczania w Języku 
+Angielskim, Oddziałem Fizjoterapii","Warszawski Uniwersytet Medyczny",7,0,0,0,182.25,0,"NZ",52.2061594,20.9850568,"Zwirki i Wigury 61, Warszawa, Poland"," Warszawa"
+"NZ1M","B","Wydział Fizjoterapii","Akademia Wychowania Fizycznego im. Jerzego Kukuczki 
+w Katowicach",6,0,0,0,36,0,"NZ",50.24999,19.003171,"Mikolowska 72A, Katowice, Poland"," Katowice"
+"NZ1M","B","Wydział Zdrowia Publicznego","Śląski Uniwersytet Medyczny w Katowicach",6,0,0,0,60,0,"NZ",50.349799,18.9189761,"Piekarska 18, Bytom, Poland"," Bytom"
+"NZ1M","B","Wydział Pielęgniarstwa i Nauk o Zdrowiu","Uniwersytet Medyczny w Lublinie",3,0,0,0,133.5,0,"NZ",51.2481619,22.5488253,"Aleje Raclawickie 1, Lublin, Poland"," Lublin"
+"NZ1M","B","Wydział Turystyki i Rekreacji","Akademia Wychowania Fizycznego i Sportu im. Jędrzeja 
+Śniadeckiego w Gdańsku",1,0,0,0,35.5,0,"NZ",54.4192036,18.5622691,"Kazimierza G�rskiego 1, 80-336 Gdansk, Poland"," Gdansk"
+"NZ1M","B","Zamiejscowy Wydział Kultury Fizycznej w Gorzowie 
+Wielkopolskim","Akademia Wychowania Fizycznego im. Eugeniusza 
+Piaseckiego w Poznaniu",2,0,0,0,29,0,"NZ",52.7319477,15.2298103,"Estkowskiego 13, Gorz�w Wielkopolski, Poland"," Gorz�w Wielkopolski"
+"NZ1M","C","Wydział Wychowania Fizycznego i Fizjoterapii","Politechnika Opolska",4,0,0,0,70,0,"NZ",50.6533107,17.9036057,"46-020 Opole, Poland"," Opole"
+"NZ1M","B","Wydział Nauk o Zdrowiu CM","Uniwersytet Mikołaja Kopernika w Toruniu",4,0,0,0,189.09,0,"NZ",53.0195187,18.5711994,"Jurija Gagarina 11, 87-100 Torun, Poland"," Torun"
+"NZ1M","C","","Państwowa Szkoła Wyższa im. Papieża Jana Pawła II w 
+Białej Podlaskiej",2,0,0,0,37,0,"NZ",52.0236976,23.1589222,"Sidorska 95/97, 21-500 Biala Podlaska, Poland"," Biala Podlaska"
+"NZ1M","B","Wydział Nauk o Zdrowiu","Śląski Uniwersytet Medyczny w Katowicach",2,0,0,0,93.5,0,"NZ",50.2264237,18.955831,"Medyk�w 12, Katowice, Poland"," Katowice"
+"NZ1M","B","Wydział Lekarsko-Stomatologiczny","Uniwersytet Medyczny im. Piastów Śląskich we 
+Wrocławiu",1,0,0,0,77,0,"NZ",51.1088836,17.0689487,"Rektorat, wybrzeze Ludwika Pasteura 1, 50-367 Wroclaw, Poland"," Wroclaw"
+"NZ1M","B","Wydział Turystyki i Rekreacji","Akademia Wychowania Fizycznego im. Eugeniusza 
+Piaseckiego w Poznaniu",2,0,0,0,25,0,"NZ",52.3989561,16.9329197,"Kr�lowej Jadwigi 27/39, 61-871 Poznan, Poland"," Poznan"
+"NZ1M","C","Wydział Turystyki i Rekreacji","Akademia Wychowania Fizycznego Józefa Piłsudskiego w
+Warszawie",2,0,0,0,37,0,"NZ",52.2852791,20.960219,"Marymoncka 34, 00-968 Warszawa, Poland"," Warszawa"
+"NZ1M","B","Wydział Nauk o Sporcie","Akademia Wychowania Fizycznego we Wrocławiu",2,0,0,0,34,0,"NZ",51.1201856,17.0937108,"aleja Ignacego Jana Paderewskiego 35, 51-612 Wroclaw, Poland"," Wroclaw"
+"NZ1M","A","Wydział Nauk o Zdrowiu","Uniwersytet Medyczny w Białymstoku",2,0,0,0,121.18,0,"NZ",53.1215675,23.15808,"Szpitalna 37, Bialystok, Poland"," Bialystok"
+"NZ1M","B","Wydział Lekarsko-Stomatologiczny","Pomorski Uniwersytet Medyczny w Szczecinie",1,0,0,0,87,0,"NZ",53.4230055,14.5546254,"Rybacka 1, Szczecin, Poland"," Szczecin"
+"NZ3M","B","","Instytut Reumatologii im. prof. dr hab. med. Eleonory 
+Reicher",4,2,0.5,2440030,32.21,75753.8031667184,"NZ",52.191172,20.994114,"Spartanska 1, 02-637 Warszawa, Poland"," Warszawa"
+"NZ3M","A+","","Instytut Fizjologii i Patologii Słuchu",7,2,0.285714285714286,674500,16,42156.25,"NZ",54.764351,17.559338,"Obronc�w Westerplatte 3, 84-360 Leba, Poland"," Leba"
+"NZ3M","B","","Instytut Matki i Dziecka",18,4,0.222222222222222,2040820,49.1,41564.5621181263,"NZ",52.2269038,20.9695869,"Kasprzaka 17a, 01-211 Warszawa, Poland"," Warszawa"
+"NZ3M","A","","Instytut Medycyny Pracy im. prof. dr. med. Jerzego 
+Nofera",19,4,0.210526315789474,2512910,103.26,24335.7544063529,"NZ",51.801979,19.43621,"Sw. Teresy od Dzieciatka Jezus 8, 91-348 L�dz, Poland"," L�dz"
+"NZ3M","A","","Instytut Medycyny Wsi im. Witolda Chodźki",20,4,0.2,1263280,52.58,24025.8653480411,"NZ",51.255816,22.5634191,"Doktor Kazimierza Jaczewskiego 2, 20-950 Lublin, Poland"," Lublin"
+"NZ3M","B","","Narodowy Instytut Leków",18,5,0.277777777777778,2423840,111.15,21806.9275753486,"NZ",52.2029056,21.0418198,"Chelmska 30/34, Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Wojskowy Instytut Medycyny Lotniczej",6,1,0.166666666666667,661600,34,19458.8235294118,"NZ",52.2617324,20.9652937,"Krasinskiego 54/56, 01-755 Warszawa, Poland"," Warszawa"
+"NZ3M","A","","Instytut Psychiatrii i Neurologii",25,4,0.16,1094000,80.98,13509.5085206224,"NZ",52.1725862,21.0648178,"Sobieskiego 9, Warszawa, Poland"," Warszawa"
+"NZ3M","A","","Centrum Onkologii - Instytut im. Marii Skłodowskiej-
+Curie",33,8,0.242424242424242,4291129,336,12771.2172619048,"NZ",52.1471215,21.0329068,"Wilhelma Konrada Roentgena 5, 02-781 Warszawa, Poland"," Warszawa"
+"NZ3M","A+","","Instytut ""Pomnik - Centrum Zdrowia Dziecka""",8,2,0.25,958250,88.15,10870.6749858196,"NZ",52.2062428,21.1921354,"aleja Dzieci Polskich 20, 00-999 Warszawa, Poland"," Warszawa"
+"NZ3M","A","","Instytut ""Centrum Zdrowia Matki Polki""",19,1,0.0526315789473684,180200,44.54,4045.80152671756,"NZ",51.7052838,19.4800312,"Rzgowska 281/289, 93-338 L�dz, Poland"," L�dz"
+"NZ3M","B","","Narodowy Instytut Zdrowia Publicznego - Państwowy 
+Zakład Higieny",15,1,0.0666666666666667,98800,60,1646.66666666667,"NZ",52.2106807,21.023082,"Chocimska 24, Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Instytut Biotechnologii i Antybiotyków",7,1,0.142857142857143,150000,92.25,1626.0162601626,"NZ",52.2083998,21.0169891,"Staroscinska 5, 02-516 Warszawa, Poland"," Warszawa"
+"NZ3M","A","","Wojskowy Instytut Medyczny",7,1,0.142857142857143,136310,86,1585,"NZ",52.2510994,21.0885251,"Szaser�w 128, 04-141 Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Wojskowy Instytut Higieny i Epidemiologii im. gen. 
+Karola Kaczkowskiego",7,0,0,0,48.5,0,"NZ",52.2532891,20.9622175,"Kozielska 4, Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Instytut Hematologii i Transfuzjologii",1,0,0,0,40,0,"NZ",52.1452053,21.0321343,"Gandhi 14, Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Instytut Gruźlicy i Chorób Płuc",10,0,0,0,69.2,0,"NZ",52.2357312,20.9660401,"Plocka 26, 01-138 Warszawa, Poland"," Warszawa"
+"NZ3M","B","","Instytut Medycyny Pracy i Zdrowia Środowiskowego",3,0,0,0,40.92,0,"NZ",50.2708124,19.1282058,"Koscielna 13, Sosnowiec, Poland"," Sosnowiec"
+"NZ3M","B","","Instytut Sportu",2,0,0,0,44.5,0,"NZ",52.3092339,20.9249774,"Trylogii 2/16, 01-982 Warszawa, Poland"," Warszawa"
+"NZ1R","A","Wydział Hodowli i Biologii Zwierząt","Uniwersytet Przyrodniczy w Poznaniu",16,9,0.5625,5532244,114,48528.4561403509,"NZ",52.4275734,16.9061137,"Wolynska 33, Poznan, Poland"," Poznan"
+"NZ1R","A","Wydział Nauk o Środowisku","Uniwersytet Warmińsko-Mazurski w Olsztynie",28,8,0.285714285714286,2406008,75,32080.1066666667,"NZ",53.753253,20.4618859,"Aleja Warszawska 117A, 11-041 Olsztyn, Poland"," Olsztyn"
+"NZ1R","A","Wydział Nauk o Żywności i Żywieniu","Uniwersytet Przyrodniczy w Poznaniu",13,6,0.461538461538462,2233110,131,17046.641221374,"NZ",52.4260606,16.903533,"Wojska Polskiego 28, 60-624 Poznan, Poland"," Poznan"
+"NZ1R","A","Wydział Technologii Drewna","Uniwersytet Przyrodniczy w Poznaniu",7,2,0.285714285714286,1077220,69.5,15499.5683453237,"NZ",52.4278714,16.9028842,"Wojska Polskiego 42, 60-628 Poznan, Poland"," Poznan"
+"NZ1R","A","Wydział Medycyny Weterynaryjnej","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",18,4,0.222222222222222,2511326,168,14948.369047619,"NZ",52.1621201,21.0467135,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","A","Wydział Nauk o Żywności","Uniwersytet Przyrodniczy we Wrocławiu",23,5,0.217391304347826,1602217,113.6,14104.0228873239,"NZ",51.0996346,17.0953274,"Chelmonskiego 37/41, 51-630 Wroclaw, Poland"," Wroclaw"
+"NZ1R","B","Wydział Hodowli i Biologii Zwierząt","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",11,4,0.363636363636364,1191395,90,13237.7222222222,"NZ",50.0630014,19.9220714,"aleja Adama Mickiewicza 24/28, Krak�w, Poland"," Krak�w"
+"NZ1R","B","Wydział Ogrodnictwa, Biotechnologii i Architektury 
+Krajobrazu","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",18,4,0.222222222222222,1428190,116,12311.9827586207,"NZ",52.1621201,21.0467135,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","A","Wydział Rolnictwa i Biologii","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",14,4,0.285714285714286,1275480,105.25,12118.5748218527,"NZ",52.1618812,21.0429225,"Nowoursynowska 164, Warszawa, Poland"," Warszawa"
+"NZ1R","B","Wydział Biologiczno-Rolniczy","Uniwersytet Rzeszowski",13,3,0.230769230769231,1272385,117,10875.0854700855,"NZ",50.0302925,22.0156175,"aleja Tadeusza Rejtana 16C, Rzesz�w, Poland"," Rzesz�w"
+"NZ1R","B","Wydział Leśny","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",19,3,0.157894736842105,911206,86,10595.4186046512,"NZ",50.0648943,19.9247568,"aleja Adama Mickiewicza 21, Krak�w, Poland"," Krak�w"
+"NZ1R","A","Wydział Technologii Żywności","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",19,4,0.210526315789474,1022948,104,9836.03846153846,"NZ",50.0804082,19.8648047,"Balicka 122, 30-149 Krak�w, Poland"," Krak�w"
+"NZ1R","A","Wydział Biotechnologii i Nauk o Żywności","Politechnika Łódzka",30,3,0.1,959999,103,9320.3786407767,"NZ",51.7546936,19.4527844,"Stefanowskiego, 91-867 L�dz, Poland"," L�dz"
+"NZ1R","A","Wydział Medycyny Weterynaryjnej","Uniwersytet Warmińsko-Mazurski w Olsztynie",12,2,0.166666666666667,598950,93,6440.32258064516,"NZ",53.7491017,20.4578568,"Michala Oczapowskiego 14, 11-041 Olsztyn, Poland"," Olsztyn"
+"NZ1R","B","Wydział Ogrodniczy","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",14,1,0.0714285714285714,689580,108,6385,"NZ",50.0842774,19.952379,"aleja 29 Listopada 54, Krak�w, Poland"," Krak�w"
+"NZ1R","A","Wydział Nauk o Żywności i Biotechnologii","Uniwersytet Przyrodniczy w Lublinie",8,2,0.25,486800,81,6009.87654320988,"NZ",51.2493753,22.5106325,"Skromna 8, 20-704 Lublin, Poland"," Lublin"
+"NZ1R","A","Wydział Nauk o Żywności","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",7,2,0.285714285714286,406262,90,4514.02222222222,"NZ",52.1599546,21.0445254,"Nowoursynowska 161/35, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","B","Wydział Rolnictwa i Bioinżynierii","Uniwersytet Przyrodniczy w Poznaniu",4,1,0.25,612300,147,4165.30612244898,"NZ",52.4266807,16.9045419,"Wojska Polskiego 28, 60-637 Poznan, Poland"," Poznan"
+"NZ1R","B","Wydział Melioracji i Inżynierii Środowiska","Uniwersytet Przyrodniczy w Poznaniu",8,1,0.125,311766,77,4048.90909090909,"NZ",52.4270929,16.9043702,"Wojska Polskiego 28, Poznan, Poland"," Poznan"
+"NZ1R","A","Wydział Nauk o Zwierzętach","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",13,2,0.153846153846154,305,75,4000,"NZ",52.1583899,21.0473324,"Stary Sluzew, 01-999 Warszawa, Poland"," Warszawa"
+"NZ1R","A","Wydział Medycyny Weterynaryjnej","Uniwersytet Przyrodniczy we Wrocławiu",15,1,0.0666666666666667,402500,122,3299.18032786885,"NZ",51.1121864,17.0647842,"Norwida 31, Wroclaw, Poland"," Wroclaw"
+"NZ1R","A","Wydział Biologii i Hodowli Zwierząt","Uniwersytet Przyrodniczy we Wrocławiu",18,1,0.0555555555555556,149948,81,1851.20987654321,"NZ",51.098902,17.0953211,"Chelmonskiego 38c, Wroclaw, Poland"," Wroclaw"
+"NZ1R","B","Wydział Kształtowania Środowiska i Rolnictwa","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",5,1,0.2,149300,102.25,1460.1466992665,"NZ",53.4475717,14.5284059,"Juliusza Slowackiego 17, 70-953 Szczecin, Poland"," Szczecin"
+"NZ1R","A","Wydział Nauki o Żywności","Uniwersytet Warmińsko-Mazurski w Olsztynie",14,1,0.0714285714285714,149300,104,1435.57692307692,"NZ",53.7601848,20.4608081,"Michala Oczapowskiego 2, Olsztyn, Poland"," Olsztyn"
+"NZ1R","B","Wydział Inżynierii Produkcji","Uniwersytet Przyrodniczy w Lublinie",3,1,0.333333333333333,200500,143,1402.0979020979,"NZ",51.243671,22.5402385,"Akademicka 13, Lublin, Poland"," Lublin"
+"NZ1R","B","Wydział Rolniczo-Ekonomiczny","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",14,2,0.142857142857143,174582,161,1084.3602484472,"NZ",50.0648943,19.9247568,"aleja Adama Mickiewicza 21, Krak�w, Poland"," Krak�w"
+"NZ1R","B","Wydział Rolnictwa i Biotechnologii","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",9,1,0.111111111111111,99957,100,999.57,"NZ",53.1204149,18.0069278,"Bernardynska 6/8, Bydgoszcz, Poland"," Bydgoszcz"
+"NZ1R","B","Wydział Przyrodniczo-Technologiczny","Uniwersytet Przyrodniczy we Wrocławiu",17,2,0.117647058823529,181353,197.55,918.010630220197,"NZ",51.1129879,17.0636344,"Plac Grunwaldzki 24a, Wroclaw, Poland"," Wroclaw"
+"NZ1R","B","Wydział Inżynierii Środowiska i Geodezji","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",11,1,0.0909090909090909,97862,107,914.598130841121,"NZ",50.0648943,19.9247568,"aleja Adama Mickiewicza 21, Krak�w, Poland"," Krak�w"
+"NZ1R","B","Wydział Hodowli i Biologii Zwierząt","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",4,0,0,0,83,0,"NZ",53.1336297,17.9993451,"Mazowiecka 28, Bydgoszcz, Poland"," Bydgoszcz"
+"NZ1R","A","Wydział Bioinżynierii Zwierząt","Uniwersytet Warmińsko-Mazurski w Olsztynie",2,0,0,0,74,0,"NZ",53.7574651,20.4605986,"Oczapowskiego 5, 10-959 Olsztyn, Poland"," Olsztyn"
+"NZ1R","B","Wydział Ogrodnictwa i Architektury Krajobrazu","Uniwersytet Przyrodniczy w Poznaniu",3,0,0,0,98,0,"NZ",52.4179017,16.8840869,"Dabrowskiego 159, 60-995 Poznan, Poland"," Poznan"
+"NZ1R","A","Wydział Kształtowania Środowiska i Rolnictwa","Uniwersytet Warmińsko-Mazurski w Olsztynie",13,0,0,0,149,0,"NZ",53.761313,20.4590415,"Prawochenskiego 21, 10-957 Olsztyn, Poland"," Olsztyn"
+"NZ1R","B","Wydział Biotechnologii i Hodowli Zwierząt","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",3,0,0,0,64.5,0,"NZ",53.4564927,14.5286665,"Doktora Judyma 26, Szczecin, Poland"," Szczecin"
+"NZ1R","B","Wydział Medycyny Weterynaryjnej","Uniwersytet Przyrodniczy w Lublinie",5,0,0,0,119,0,"NZ",51.2413396,22.5425077,"Gleboka 30, 20-612 Lublin, Poland"," Lublin"
+"NZ1R","B","Wydział Leśny","Uniwersytet Przyrodniczy w Poznaniu",2,0,0,0,74.5,0,"NZ",52.4281354,16.8970563,"Wojska Polskiego 71, Poznan, Poland"," Poznan"
+"NZ1R","B","Wydział Leśny","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",2,0,0,0,75,0,"NZ",52.1621201,21.0467135,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","B","Wydział Nauk o Żywieniu Człowieka i Konsumpcji","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",1,0,0,0,117,0,"NZ",52.1621201,21.0467135,"Nowoursynowska 166, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","B","Wydział Technologii Drewna","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",5,0,0,0,56,0,"NZ",52.162014,21.0463199,"Nowoursynowska 161/34, 02-787 Warszawa, Poland"," Warszawa"
+"NZ1R","B","Wydział Przyrodniczy","Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",3,0,0,0,141,0,"NZ",52.1732902,22.2884503,"B. Prusa 14, Siedlce, Poland"," Siedlce"
+"NZ1R","B","Wydział Biologii i Hodowli Zwierząt","Uniwersytet Przyrodniczy w Lublinie",9,0,0,0,133,0,"NZ",51.243671,22.5402385,"Akademicka 13, Lublin, Poland"," Lublin"
+"NZ1R","B","Wydział Ogrodnictwa i Architektury Krajobrazu","Uniwersytet Przyrodniczy w Lublinie",2,0,0,0,110,0,"NZ",51.2436282,22.5401299,"Akademicka 13, Lublin, Poland"," Lublin"
+"NZ1R","C","Wydział Nauk Rolniczych w Zamościu","Uniwersytet Przyrodniczy w Lublinie",1,0,0,0,24,0,"NZ",50.713906,23.2163349,"Szczebrzeska 102, Zamosc, Poland"," Zamosc"
+"NZ1R","B","Wydział Inżynierii Produkcji i Energetyki","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",4,0,0,0,59,0,"NZ",50.0794712,19.8670087,"Balicka 116b, Krak�w, Poland"," Krak�w"
+"NZ1R","B","Wydział Nauk Technicznych","Uniwersytet Warmińsko-Mazurski w Olsztynie",14,0,0,0,88,0,"NZ",53.7545604,20.4594713,"Michala Oczapowskiego 11, 11-041 Olsztyn, Poland"," Olsztyn"
+"NZ2R","C","","Instytut Podstaw Inżynierii Środowiska PAN",12,4,0.333333333333333,1911600,37.66,50759.4264471588,"NZ",50.3162957,18.7713651,"Marii Sklodowskiej-Curie 34, Zabrze, Poland"," Zabrze"
+"NZ2R","A","","Instytut Geofizyki PAN",15,5,0.333333333333333,2498750,66.35,37660.1356443105,"NZ",52.246249,20.9394453,"Ksiecia Janusza 64, 01-452 Warszawa, Poland"," Warszawa"
+"NZ2R","A","","Instytut Genetyki i Hodowli Zwierząt PAN",19,7,0.368421052631579,2113750,63.16,33466.5927802407,"NZ",52.0317392,20.8282724,"Postepu 36A, 05-552, Poland",""
+"NZ2R","A","","Instytut Oceanologii PAN",47,8,0.170212765957447,2695503,92.53,29131.1250405274,"NZ",54.4506771,18.5636439,"Powstanc�w Warszawy 55, Sopot, Poland"," Sopot"
+"NZ2R","A","","Instytut Agrofizyki im. Bohdana Dobrzańskiego PAN",22,5,0.227272727272727,1539670,58,26546.0344827586,"NZ",51.2204815,22.6262898,"Doswiadczalna 4, Lublin, Poland"," Lublin"
+"NZ2R","A","","Instytut Nauk Geologicznych PAN",6,4,0.666666666666667,1361050,76.05,17896.77843524,"NZ",50.0576519,19.9367097,"Senacka 1/3, Krak�w, Poland"," Krak�w"
+"NZ2R","A","","Instytut Fizjologii Roślin im. Franciszka Górskiego PAN",5,2,0.4,513110,39.13,13112.9568106312,"NZ",50.0688916,19.8418292,"Niezapominajek 21, Krak�w, Poland"," Krak�w"
+"NZ2R","B","","Instytut Geografii i Przestrzennego Zagospodarowania 
+im. S. Leszczyckiego PAN",16,3,0.1875,987136,75.4,13091.9893899204,"NZ",NA,NA,NA,NA
+"NZ2R","A+","","Instytut Rozrodu Zwierząt i Badań Żywności PAN",20,6,0.3,1347421,136.6,9863.9897510981,"NZ",53.7548443,20.472469,"Tuwima 10, 10-748 Olsztyn, Poland"," Olsztyn"
+"NZ2R","B","","Instytut Środowiska Rolniczego i Leśnego PAN",12,1,0.0833333333333333,246500,39,6320.51282051282,"NZ",52.407425,16.9056311,"Bukowska 19, Poznan, Poland"," Poznan"
+"NZ2R","B","","Instytut Fizjologii i Żywienia Zwierząt im. Jana 
+Kielanowskiego PAN",5,2,0.4,372946,62,6015.25806451613,"NZ",52.3783631,20.9093696,"Instytucka 3, 05-110 Jablonna, Poland"," Jablonna"
+"NZ2R","B","","Instytut Genetyki Roślin PAN",11,2,0.181818181818182,187230,60.63,3088.07521029193,"NZ",52.4456999,16.9008907,"Strzeszynska 34, Poznan, Poland"," Poznan"
+"NZ3R","A","","Państwowy Instytut Weterynaryjny - Państwowy Instytut 
+Badawczy",38,8,0.210526315789474,3585418,149,24063.2080536913,"NZ",51.4252031,21.9834111,"Aleja Partyzant�w 57, Pulawy, Poland"," Pulawy"
+"NZ3R","B","","Instytut Ekologii Terenów Uprzemysłowionych",3,1,0.333333333333333,877000,46,19065.2173913043,"NZ",50.265647,18.9757934,"Kossutha 6, Katowice, Poland"," Katowice"
+"NZ3R","B","","Instytut Uprawy Nawożenia i Gleboznawstwa - 
+Państwowy Instytut Badawczy",14,2,0.142857142857143,772000,93.5,8256.68449197861,"NZ",51.412328,21.959356,"Czartoryskich 8, Pulawy, Poland"," Pulawy"
+"NZ3R","A","","Instytut Ogrodnictwa",13,2,0.153846153846154,1267532,183.2,6918.84279475983,"NZ",51.9604702,20.1435507,"3, Konstytucji 3 Maja 1, 96-100 Skierniewice, Poland"," Skierniewice"
+"NZ3R","B","","Instytut Hodowli i Aklimatyzacji Roślin - Państwowy 
+Instytut Badawczy",8,2,0.25,1150571,186.25,6177.56241610738,"NZ",52.2138937,20.6440957,"Radzik�w, 05-870 Blonie, Poland"," Blonie"
+"NZ3R","A","","Instytut Zootechniki - Państwowy Instytut Badawczy",5,1,0.2,611000,120.9,5053.76344086022,"NZ",50.0570049,19.9408282,"J�zefa Sarego 2, Krak�w, Poland"," Krak�w"
+"NZ3R","A","","Instytut Ochrony Środowiska - Państwowy Instytut 
+Badawczy",3,1,0.333333333333333,150000,56,2678.57142857143,"NZ",52.273729,20.9719961,"Kolektorska 4, Warszawa, Poland"," Warszawa"
+"NZ3R","B","","Instytut Ochrony Roślin - Państwowy Instytut Badawczy",8,2,0.25,305,180,1666.66666666667,"NZ",52.3941957,16.8559283,"Wegorka 20, Poznan, Poland"," Poznan"
+"NZ3R","B","","Instytut Badawczy Leśnictwa",4,0,0,0,149.37,0,"NZ",52.1010081,20.8822551,"Braci Lesnej 3, 05-090 Sekocin Stary, Poland"," Sekocin Stary"
+"NZ3R","B","","Instytut Biotechnologii Przemysłu Rolno-Spożywczego",3,0,0,0,130.2,0,"NZ",52.2068851,21.0005306,"Rakowiecka 36, Warszawa, Poland"," Warszawa"
+"NZ3R","B","","Instytut Rybactwa Śródlądowego im. S. Sakowicza",1,0,0,0,70,0,"NZ",54.3306681,18.355285,"Rutki, 83-330 Zukowo, Poland"," Zukowo"
+"NZ3R","B","","Instytut Technologii Drewna",5,0,0,0,59.15,0,"NZ",52.4286189,16.9080545,"Winiarska 1, Poznan, Poland"," Poznan"
+"NZ3R","B","","Instytut Włókien Naturalnych i Roślin Zielarskich",9,0,0,0,82.95,0,"NZ",52.4268694,16.8950489,"Wojska Polskiego 71B, 60-630 Poznan, Poland"," Poznan"
+"NZ3R","A","","Morski Instytut Rybacki – Państwowy Instytut Badawczy",3,0,0,0,60.65,0,"NZ",54.5202086,18.5249021,"Hugo Kollataja 1, Gdynia, Poland"," Gdynia"
+"NZ1Z","A","Wydział Nauk o Ziemi","Uniwersytet Śląski w Katowicach",24,8,0.333333333333333,4651231,148.15,31395.4168072899,"NZ",50.2988847,19.1340152,"Bedzinska 60, Sosnowiec, Poland"," Sosnowiec"
+"NZ1Z","B","Wydział Geografii i Studiów Regionalnych","Uniwersytet Warszawski",16,7,0.4375,1610473,79.5,20257.5220125786,"NZ",52.2399882,21.0170817,"Sr�dmiescie P�lnocne, Warszawa, Poland"," Warszawa"
+"NZ1Z","B","Wydział Nauk o Ziemi i Kształtowania Środowiska","Uniwersytet Wrocławski",28,6,0.214285714285714,1958849,109,17971.0917431193,"NZ",51.1141884,17.0345968,"plac Uniwersytecki 1, Wroclaw, Poland"," Wroclaw"
+"NZ1Z","A","Wydział Nauk Geograficznych i Geologicznych","Uniwersytet im. Adama Mickiewicza w Poznaniu",51,9,0.176470588235294,2805003,161.33,17386.7414616004,"NZ",52.4639717,16.9422782,"Dziegielowa 27, Poznan, Poland"," Poznan"
+"NZ1Z","A","Wydział Geologii, Geofizyki i Ochrony Środowiska","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",23,7,0.304347826086957,2276236,202,11268.495049505,"NZ",50.0640852,19.9233627,"Reymonta, 30-962 Krak�w, Poland"," Krak�w"
+"NZ1Z","B","Wydział Nauk o Ziemi","Uniwersytet Mikołaja Kopernika w Toruniu",11,2,0.181818181818182,633990,60.5,10479.173553719,"NZ",53.0214164,18.5684288,"Lwowska, Torun, Poland"," Torun"
+"NZ1Z","A","Wydział Geologii","Uniwersytet Warszawski",11,3,0.272727272727273,727256,86,8456.46511627907,"NZ",52.211315,20.9856677,"Zwirki i Wigury 93, 02-089 Warszawa, Poland"," Warszawa"
+"NZ1Z","B","Wydział Oceanografii i Geografii","Uniwersytet Gdański",20,4,0.2,677863,141.42,4793.26120774997,"NZ",54.5092795,18.5411131,"Aleja Marszalka J�zefa Pilsudskiego 46, 81-378 Gdynia, Poland"," Gdynia"
+"NZ1Z","B","Wydział Nauk o Ziemi i Gospodarki Przestrzennej","Uniwersytet Marii Curie-Skłodowskiej",4,1,0.25,454700,97.5,4663.58974358974,"NZ",51.2478595,22.5233353,"Al. Krasnicka 2 cd, 20-718 Lublin, Poland"," Lublin"
+"NZ1Z","B","Wydział Nauk o Ziemi","Uniwersytet Szczeciński",17,3,0.176470588235294,281132,68,4134.29411764706,"NZ",53.4357273,14.534211,"Adama Mickiewicza 16-18, 70-383 Szczecin, Poland"," Szczecin"
+"NZ1Z","B","Wydział Nauk Geograficznych","Uniwersytet Łódzki",9,1,0.111111111111111,148975,83,1794.87951807229,"NZ",51.7731247,19.481115,"ul. Prez. Gabriela Narutowicza 88, 90-139 L�dz, Poland"," L�dz"
+"NZ3Z","B","","Państwowy Instytut Geologiczny - Państwowy Instytut 
+Badawczy",8,3,0.375,1883680,343.95,5476.60997237971,"NZ",52.208847,21.013097,"Rakowiecka 4, 00-975 Warszawa, Poland"," Warszawa"
+"SI1BA","A","Wydział Inżynierii Lądowej i Środowiska","Politechnika Gdańska",8,1,0.125,1521354,166.5,9137.26126126126,"SI",54.3714118,18.6191494,"Gabriela Narutowicza 11/12, Gdansk, Poland"," Gdansk"
+"SI1BA","A","Wydział Inżynierii Środowiska","Politechnika Wrocławska",14,1,0.0714285714285714,597920,107.5,5562.04651162791,"SI",51.1129341,17.0637482,"plac Grunwaldzki 24, Wroclaw, Poland"," Wroclaw"
+"SI1BA","B","Wydział Budownictwa i Inżynierii Środowiska","Politechnika Poznańska",9,1,0.111111111111111,621830,147,4230.13605442177,"SI",52.4010639,16.9497961,"Piotrowo, 60-995 Poznan, Poland"," Poznan"
+"SI1BA","B","Wydział Architektury","Politechnika Gdańska",4,1,0.25,221383,65,3405.89230769231,"SI",54.3715571,18.6192567,"300-500, Gabriela Narutowicza 11/12, Gdansk, Poland"," Gdansk"
+"SI1BA","A","Wydział Budownictwa i Inżynierii Środowiska","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",8,1,0.125,50000,99,505.050505050505,"SI",52.1610372,21.0463024,"Nowoursynowska 159, Warszawa, Poland"," Warszawa"
+"SI1BA","B","Wydział Budownictwa i Inżynierii Środowiska","Politechnika Białostocka",10,0,0,0,134.5,0,"SI",53.1182888,23.1497203,"Wiejska 45A, Bialystok, Poland"," Bialystok"
+"SI1BA","A","Wydział Budownictwa i Architektury","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",4,0,0,0,135.8,0,"SI",53.425332,14.537311,"Aleja Piast�w 50, 71-899 Szczecin, Poland"," Szczecin"
+"SI1BA","B","Wydział Inżynierii Lądowej","Politechnika Warszawska",8,0,0,0,120,0,"SI",52.2177357,21.0124303,"aleja Armii Ludowej 16, 00-637 Warszawa, Poland"," Warszawa"
+"SI1BA","A","Wydział Architektury","Politechnika Wrocławska",13,0,0,0,132,0,"SI",51.1188987,17.0546115,"Prusa 53/55, 50-377 Wroclaw, Poland"," Wroclaw"
+"SI1BA","B","Wydział Architektury","Politechnika Śląska",11,0,0,0,70.5,0,"SI",50.2896615,18.6787642,"Akademicka 7, 44-100 Gliwice, Poland"," Gliwice"
+"SI1BA","A","Wydział Budownictwa, Architektury i Inżynierii 
+Środowiska","Politechnika Łódzka",7,0,0,0,88.5,0,"SI",51.7478755,19.4519941,"aleja Politechniki 6, L�dz, Poland"," L�dz"
+"SI1BA","A","Wydział Architektury","Politechnika Krakowska im. Tadeusza Kościuszki",10,0,0,0,191,0,"SI",50.0717659,19.942229,"Warszawska 24, Krak�w, Poland"," Krak�w"
+"SI1BA","B","Wydział Inżynierii Środowiska","Politechnika Krakowska im. Tadeusza Kościuszki",7,0,0,0,99.5,0,"SI",50.0723328,19.9439492,"Warszawska 24, Krak�w, Poland"," Krak�w"
+"SI1BA","B","Wydział Inżynierii Lądowej","Politechnika Krakowska im. Tadeusza Kościuszki",4,0,0,0,239,0,"SI",50.0716684,19.9428581,"Warszawska 24, 31-155 Krak�w, Poland"," Krak�w"
+"SI1BA","B","Wydział Budownictwa i Inżynierii Środowiska","Politechnika Rzeszowska im. Ignacego Łukasiewicza",5,0,0,0,128,0,"SI",50.0192846,21.9818696,"Aleja Powstanc�w Warszawy 12, 35-959 Rzesz�w, Poland"," Rzesz�w"
+"SI1BA","B","Wydział Budownictwa Lądowego i Wodnego","Politechnika Wrocławska",4,0,0,0,175,0,"SI",51.108919,17.058141,"plac Grunwaldzki 11, 50-377 Wroclaw, Poland"," Wroclaw"
+"SI1BA","A","Wydział Budownictwa i Architektury","Politechnika Lubelska",7,0,0,0,80,0,"SI",51.2355527,22.5480867,"Nadbystrzycka 40, 20-618 Lublin, Poland"," Lublin"
+"SI1BA","B","Wydział Budownictwa","Politechnika Śląska",8,0,0,0,113,0,"SI",50.2900291,18.6778522,"Akademicka 5, Gliwice, Poland"," Gliwice"
+"SI1BA","B","Wydział Inżynierii Lądowej, Środowiska i Geodezji","Politechnika Koszalińska",4,0,0,0,95,0,"SI",54.2037344,16.1970773,"Sniadeckich 2, Koszalin, Poland"," Koszalin"
+"SI1BA","B","Wydział Budownictwa","Politechnika Częstochowska",3,0,0,0,59,0,"SI",50.8224711,19.1161618,"gen. Jana Henryka Dabrowskiego 69, Czestochowa, Poland"," Czestochowa"
+"SI1BA","A","Wydział Architektury","Politechnika Poznańska",2,0,0,0,44,0,"SI",52.4164623,16.9804926,"Nieszawska 13C, 61-021 Poznan, Poland"," Poznan"
+"SI1BA","B","Wydział Budownictwa, Mechaniki i Petrochemii","Politechnika Warszawska",5,0,0,0,103.75,0,"SI",52.2212012,21.0080857,"plac Politechniki 1, 00-661 Warszawa, Poland"," Warszawa"
+"SI1BA","B","Wydział Budownictwa, Architektury i Inżynierii 
+Środowiska","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",3,0,0,0,99,0,"SI",53.1420294,18.1325225,"Prof. S.Kaliskiego 7, 85-796 Bydgoszcz, Poland"," Bydgoszcz"
+"SI1BA","B","Wydział Inżynierii Lądowej i Środowiska","Uniwersytet Zielonogórski",2,0,0,0,94,0,"SI",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"SI1BA","B","Wydział Architektury","Politechnika Białostocka",1,0,0,0,49.5,0,"SI",53.1182888,23.1497203,"Wiejska 45A, Bialystok, Poland"," Bialystok"
+"SI1BA","A","Wydział Architektury","Politechnika Warszawska",2,0,0,0,80.3,0,"SI",52.2221116,21.0131746,"Koszykowa 55, 00-659 Warszawa, Poland"," Warszawa"
+"SI2BA","A","","Instytut Budownictwa Wodnego PAN",5,0,0,0,38,0,"SI",54.4083523,18.5425214,"Koscierska 7, Gdansk, Poland"," Gdansk"
+"SI1CT","A+","Centrum Nowych Technologii","Uniwersytet Warszawski",23,14,0.608695652173913,10764643,41.15,261595.212636695,"SI",52.2118537,20.9841764,"Banacha 2C, 02-097 Warszawa, Poland"," Warszawa"
+"SI1CT","A","Interdyscyplinarne Centrum Modelowania 
+Matematycznego i Komputerowego","Uniwersytet Warszawski",12,4,0.333333333333333,2020504,16,126281.5,"SI",52.206982,20.979874,"Adolfa Pawinskiego 5A, 02-106 Warszawa, Poland"," Warszawa"
+"SI1CT","A+","Wydział Chemii","Uniwersytet Warszawski",58,30,0.517241379310345,12234204,143,85553.8741258741,"SI",52.215004,20.982698,"Ludwika Pasteura 1, 02-093 Warszawa, Poland"," Warszawa"
+"SI1CT","A+","Wydział Chemii","Uniwersytet Jagielloński",71,24,0.338028169014085,12580647,156,80645.1730769231,"SI",50.0622585,19.9202859,"Romana Ingardena 3, Krak�w, Poland"," Krak�w"
+"SI1CT","A","Wydział Chemii","Uniwersytet Mikołaja Kopernika w Toruniu",46,14,0.304347826086957,5855029,91.5,63989.3879781421,"SI",53.0190237,18.5693032,"Jurija Gagarina 7, 87-100 Torun, Poland"," Torun"
+"SI1CT","A","Wydział Technologii Chemicznej","Politechnika Poznańska",35,12,0.342857142857143,5335128,92,57990.5217391304,"SI",52.404913,16.950369,"Berdychowo 4, Poznan, Poland"," Poznan"
+"SI1CT","A","Wydział Chemii","Uniwersytet Łódzki",33,7,0.212121212121212,4163530,78.7,52903.8119440915,"SI",51.7802666,19.4882066,"Tamka 12, 91-403 L�dz, Poland"," L�dz"
+"SI1CT","A","Wydział Chemii","Uniwersytet im. Adama Mickiewicza w Poznaniu",60,12,0.2,9058259,204,44403.2303921569,"SI",52.4675783,16.9216053,"Umultowska 89B, 61-614 Poznan, Poland"," Poznan"
+"SI1CT","A","Wydział Chemiczny","Politechnika Łódzka",43,10,0.232558139534884,6234287,153.25,40680.5024469821,"SI",51.753854,19.450961,"Stefana Zeromskiego 116, 90-924 L�dz, Poland"," L�dz"
+"SI1CT","A","Wydział Chemiczny","Politechnika Gdańska",99,18,0.181818181818182,5182317,138,37553.0217391304,"SI",54.3716751,18.6163277,"Gabriela Narutowicza 11/12, 80-233 Gdansk, Poland"," Gdansk"
+"SI1CT","A","Wydział Chemii","Uniwersytet Gdański",62,9,0.145161290322581,2940809,81.3,36172.3124231242,"SI",54.3938332,18.577044,"Wita Stwosza 63, 80-308 Gdansk, Poland"," Gdansk"
+"SI1CT","A","Wydział Chemiczny","Politechnika Warszawska",41,10,0.24390243902439,5006118,143.85,34800.9593326382,"SI",52.2217608,21.0091346,"Noakowskiego 3, 00-664 Warszawa, Poland"," Warszawa"
+"SI1CT","A","Wydział Chemiczny","Politechnika Wrocławska",62,22,0.354838709677419,7056243,218.43,32304.3675319324,"SI",51.1082324,17.0603782,"Norwida 4/6, 50-373 Wroclaw, Poland"," Wroclaw"
+"SI1CT","A","Wydział Chemii","Uniwersytet Marii Curie-Skłodowskiej",24,6,0.25,4539090,160,28369.3125,"SI",51.2445802,22.5420409,"Plac Marii Sklodowskiej-Curie 2, 20-031 Lublin, Poland"," Lublin"
+"SI1CT","A","Wydział Chemiczny","Politechnika Śląska",48,11,0.229166666666667,2967225,105,28259.2857142857,"SI",50.2930771,18.6736029,"ks. Marcina Strzody 9, Gliwice, Poland"," Gliwice"
+"SI1CT","A","Wydział Chemii","Uniwersytet Opolski",6,1,0.166666666666667,936180,43,21771.6279069767,"SI",50.673644,17.9325546,"Oleska 48, 45-052 Opole, Poland"," Opole"
+"SI1CT","B","Wydział Nauk Ścisłych","Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",5,1,0.2,355131,71,5001.84507042254,"SI",52.1642202,22.2727392,"3 Maja 54, 08-110 Siedlce, Poland"," Siedlce"
+"SI1CT","B","Instytut Papiernictwa i Poligrafii","Politechnika Łódzka",2,0,0,0,15,0,"SI",51.7461038,19.454696,"W�lczanska 223, 90-924 L�dz, Poland"," L�dz"
+"SI1CT","B","","Szkoła Główna Służby Pożarniczej",2,0,0,0,154,0,"SI",52.2716914,20.9784205,"Slowackiego 52/54, Warszawa, Poland"," Warszawa"
+"SI2CT","A","","Instytut Chemii Organicznej PAN",18,15,0.833333333333333,8440650,99.2,85087.1975806452,"SI",52.2286717,20.9635418,"Kasprzaka 44/52, 01-224 Warszawa, Poland"," Warszawa"
+"SI2CT","A","","Instytut Katalizy i Fizykochemii Powierzchni im. Jerzego 
+Habera PAN",32,14,0.4375,7297930,87.9,83025.369738339,"SI",50.0690306,19.842006,"Niezapominajek 8, Krak�w, Poland"," Krak�w"
+"SI2CT","B","","Centrum Materiałów Polimerowych i Węglowych PAN",18,5,0.277777777777778,2409980,64.95,37105.1578137028,"SI",50.3147928,18.7733012,"Marii Sklodowskiej-Curie 34, 41-819 Zabrze, Poland"," Zabrze"
+"SI2CT","B","","Centrum Badań Molekularnych i Makromolekularnych 
+PAN",23,7,0.304347826086957,4673187,125.95,37103.5093290988,"SI",51.7508151,19.4642304,"Sienkiewicza 112, L�dz, Poland"," L�dz"
+"SI2CT","A","","Instytut Chemii Fizycznej PAN",32,7,0.21875,3653531,203.3,17971.1313330054,"SI",52.2289158,20.9655026,"Kasprzaka 44/52, 01-224 Warszawa, Poland"," Warszawa"
+"SI1EA","A","Wydział Informatyki","Politechnika Poznańska",23,7,0.304347826086957,7380084,95,77685.0947368421,"SI",52.402075,16.950215,"Piotrowo 3A, 60-965 Poznan, Poland"," Poznan"
+"SI1EA","A+","Wydział Elektroniki Mikrosystemów i Fotoniki","Politechnika Wrocławska",19,9,0.473684210526316,4094802,71.08,57608.3567810917,"SI",51.1089675,17.0609348,"Janiszewskiego 11/17, 50-372 Wroclaw, Poland"," Wroclaw"
+"SI1EA","A","Wydział Elektroniki, Telekomunikacji i Informatyki","Politechnika Gdańska",30,8,0.266666666666667,3064315,143,21428.7762237762,"SI",54.3716718,18.6122363,"Gabriela Narutowicza 11/12, 80-233 Gdansk, Poland"," Gdansk"
+"SI1EA","A","Wydział Informatyki, Elektroniki i Telekomunikacji","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",24,11,0.458333333333333,3440239,183.5,18747.8964577657,"SI",50.0668858,19.9136192,"aleja Adama Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"SI1EA","B","Wydział Elektryczny","Akademia Morska w Gdyni",4,1,0.25,1027725,65,15811.1538461538,"SI",54.5263664,18.5106408,"Morska 81-87, 81-225 Gdynia, Poland"," Gdynia"
+"SI1EA","B","Wydział Elektryczny","Politechnika Białostocka",7,2,0.285714285714286,974460,69,14122.6086956522,"SI",53.1182888,23.1497203,"Wiejska 45A, Bialystok, Poland"," Bialystok"
+"SI1EA","A","Wydział Elektryczny","Politechnika Warszawska",17,5,0.294117647058824,1713114,128.5,13331.626459144,"SI",52.2204961,21.0103333,"Pl. Politechniki 1, Warszawa, Poland"," Warszawa"
+"SI1EA","A","Wydział Automatyki, Elektroniki i Informatyki","Politechnika Śląska",18,6,0.333333333333333,3155744,273.85,11523.6224210334,"SI",50.2886195,18.6772889,"Akademicka 16, 44-100 Gliwice, Poland"," Gliwice"
+"SI1EA","B","Wydział Informatyki","Politechnika Białostocka",14,4,0.285714285714286,768650,68,11303.6764705882,"SI",53.1182888,23.1497203,"Wiejska 45A, Bialystok, Poland"," Bialystok"
+"SI1EA","B","Wydział Elektrotechniki i Automatyki","Politechnika Gdańska",24,2,0.0833333333333333,958700,93,10308.6021505376,"SI",54.3714311,18.6191708,"Gabriela Narutowicza 11/12, 80-980 Gdansk, Poland"," Gdansk"
+"SI1EA","A","Wydział Elektrotechniki, Elektroniki, Informatyki i 
+Automatyki","Politechnika Łódzka",37,4,0.108108108108108,2048278,207.2,9885.51158301158,"SI",51.7526588,19.4532019,"Bohdana Stefanowskiego 18/22, Poland",""
+"SI1EA","A","Wydział Elektryczny","Politechnika Wrocławska",8,1,0.125,827060,88,9398.40909090909,"SI",51.110332,17.059632,"Wydzialowy Zaklad Biochemi Politechniki Wroclawskiej, Gdanska 7/9, 50-370 Wroclaw, Poland"," Wroclaw"
+"SI1EA","A","Wydział Elektrotechniki, Automatyki, Informatyki i 
+Inżynierii Biomedycznej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",21,2,0.0952380952380952,1987490,225.83,8800.82362839304,"SI",50.0660719,19.9194252,"al. A. Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"SI1EA","A+","Wydział Elektroniki i Technik Informacyjnych","Politechnika Warszawska",37,8,0.216216216216216,2118758,265.55,7978.75353040859,"SI",52.2191042,21.011607,"Nowowiejska 15/19, 00-665 Warszawa, Poland"," Warszawa"
+"SI1EA","B","Wydział Elektryczny","Politechnika Śląska",8,1,0.125,998250,127,7860.23622047244,"SI",50.2909142,18.6747034,"Boleslawa Krzywoustego 2, 44-100 Gliwice, Poland"," Gliwice"
+"SI1EA","A","Instytut Optoelektroniki","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",9,3,0.333333333333333,762480,102,7475.29411764706,"SI",52.2531491,20.9002153,"Kaliskiego 2, 01-476 Warszawa, Poland"," Warszawa"
+"SI1EA","B","Wydział Informatyki","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",11,1,0.0909090909090909,421800,62.6,6738.01916932907,"SI",53.4469859,14.492308,"Zolnierska 49, Szczecin, Poland"," Szczecin"
+"SI1EA","B","Wydział Informatyki i Zarządzania","Politechnika Wrocławska",17,2,0.117647058823529,1060150,174.6,6071.87857961054,"SI",51.1081204,17.0655632,"Lukasiewicza 5, 50-370 Wroclaw, Poland"," Wroclaw"
+"SI1EA","B","Wydział Elektrotechniki, Automatyki i Informatyki","Politechnika Opolska",10,1,0.1,456400,84,5433.33333333333,"SI",50.6541023,17.9049737,"Pr�szkowska 76, 45-272 Opole, Poland"," Opole"
+"SI1EA","B","Wydział Elektryczny","Politechnika Poznańska",20,2,0.1,479080,152,3151.84210526316,"SI",52.4023582,16.9505762,"Piotrowo 3, Poznan, Poland"," Poznan"
+"SI1EA","A","Wydział Elektroniki i Telekomunikacji","Politechnika Poznańska",3,1,0.333333333333333,118600,54,2196.2962962963,"SI",52.4018035,16.9511465,"Piotrowo 3a, Poznan, Poland"," Poznan"
+"SI1EA","B","Wydział Elektrotechniki, Informatyki i Telekomunikacji","Uniwersytet Zielonogórski",6,1,0.166666666666667,127222,71,1791.85915492958,"SI",51.9412433,15.5294887,"Szafrana 2, 65-980 Zielona G�ra, Poland"," Zielona G�ra"
+"SI1EA","B","Wydział Inżynierii Produkcji i Logistyki","Politechnika Opolska",7,1,0.142857142857143,55440,88,630,"SI",50.6541172,17.9050434,"Pr�szkowska 76, 45-758 Opole, Poland"," Opole"
+"SI1EA","B","Wydział Informatyki Stosowanej","Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie",3,0,0,0,26.1,0,"SI",50.0489064,21.9817016,"mjr. Henryka Sucharskiego 2, Rzesz�w, Poland"," Rzesz�w"
+"SI1EA","B","Wydział Elektrotechniki i Informatyki","Politechnika Rzeszowska im. Ignacego Łukasiewicza",3,0,0,0,108,0,"SI",50.0268627,21.9853512,"Wincentego Pola 2, 35-021 Rzesz�w, Poland"," Rzesz�w"
+"SI1EA","A","Wydział Elektryczny","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",4,0,0,0,82.1,0,"SI",53.4248772,14.533968,"Sikorskiego 37, Szczecin, Poland"," Szczecin"
+"SI1EA","A","Wydział Elektryczny","Politechnika Częstochowska",9,0,0,0,72.17,0,"SI",50.8209028,19.1171451,"aleja Armii Krajowej 17, 42-218 Czestochowa, Poland"," Czestochowa"
+"SI1EA","B","Wydział Elektroniki i Informatyki","Politechnika Koszalińska",7,0,0,0,42.75,0,"SI",54.2036041,16.1972088,"Sniadeckich 2, 75-900 Koszalin, Poland"," Koszalin"
+"SI1EA","A","Wydział Elektrotechniki i Informatyki","Politechnika Lubelska",2,0,0,0,95.5,0,"SI",51.2367719,22.5487465,"Nadbystrzycka 38A, 20-618 Lublin, Poland"," Lublin"
+"SI1EA","B","Wydział Elektrotechniki, Automatyki i Informatyki","Politechnika Świętokrzyska",2,0,0,0,67,0,"SI",50.8798959,20.6401886,"aleja Tysiaclecia Panstwa Polskiego 7, Kielce, Poland"," Kielce"
+"SI1EA","B","Wydział Telekomunikacji, Informatyki i Elektrotechniki","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",1,0,0,0,52,0,"SI",53.1420899,18.1325511,"Aleja prof. Sylwestra Kaliskiego 7, Bydgoszcz, Poland"," Bydgoszcz"
+"SI1EA","B","Wydział Elektroniki","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",2,0,0,0,91.75,0,"SI",52.2191042,21.011607,"Nowowiejska 15/19, 00-665 Warszawa, Poland"," Warszawa"
+"SI1EA","C","Wydział Inżynierii Elektrycznej i Komputerowej","Politechnika Krakowska im. Tadeusza Kościuszki",1,0,0,0,72,0,"SI",50.07101,19.943078,"Warszawska 24, 31-155 Krak�w, Poland"," Krak�w"
+"SI1EA","B","Wydział Cybernetyki","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",3,0,0,0,111,0,"SI",52.2531491,20.9002153,"Kaliskiego 2, 01-476 Warszawa, Poland"," Warszawa"
+"SI1FA","A+","Wydział Fizyki","Uniwersytet Warszawski",65,39,0.6,24246732,241.38,100450.459855829,"SI",52.2125173,20.9830633,"Pasteura 5, 02-093 Warszawa, Poland"," Warszawa"
+"SI1FA","B","Wydział Matematyczno-Fizyczny","Uniwersytet Szczeciński",12,3,0.25,4228360,44.5,95019.3258426966,"SI",53.435347,14.5426825,"Wielkopolska 15, Szczecin, Poland"," Szczecin"
+"SI1FA","A+","Wydział Fizyki, Astronomii i Informatyki Stosowanej","Uniwersytet Jagielloński",66,35,0.53030303030303,15113479,227.05,66564.540850033,"SI",50.0294191,19.9059173,"Lojasiewicza 11, 30-348 Krak�w, Poland"," Krak�w"
+"SI1FA","A","Wydział Fizyki","Uniwersytet w Białymstoku",6,2,0.333333333333333,2290090,35,65431.1428571429,"SI",53.1086127,23.1543436,"Konstantego Ciolkowskiego 1L, 15-245 Bialystok, Poland"," Bialystok"
+"SI1FA","A","Wydział Fizyki","Uniwersytet im. Adama Mickiewicza w Poznaniu",32,13,0.40625,6977289,152.3,45812.7971109652,"SI",52.4661837,16.9302146,"Umultowska 85, 61-614 Poznan, Poland"," Poznan"
+"SI1FA","A","Wydział Podstawowych Problemów Techniki","Politechnika Wrocławska",38,16,0.421052631578947,8450452,192.66,43861.9952247483,"SI",51.1077004,17.0626136,"wybrzeze Stanislawa Wyspianskiego 27, 50-370 Wroclaw, Poland"," Wroclaw"
+"SI1FA","A","Wydział Fizyki","Politechnika Warszawska",26,5,0.192307692307692,3778986,88.9,42508.2789651294,"SI",52.2214586,21.0071086,"Koszykowa 75, 00-662 Warszawa, Poland"," Warszawa"
+"SI1FA","A","Wydział Fizyki i Astronomii","Uniwersytet Zielonogórski",15,3,0.2,1266270,34,37243.2352941177,"SI",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"SI1FA","A","Wydział Fizyki, Astronomii i Informatyki Stosowanej","Uniwersytet Mikołaja Kopernika w Toruniu",30,7,0.233333333333333,4812972,137.5,35003.4327272727,"SI",53.017207,18.603142,"Grudziadzka 5, Torun, Poland"," Torun"
+"SI1FA","B","Wydział Fizyki Technicznej i Matematyki Stosowanej","Politechnika Gdańska",14,1,0.0714285714285714,1499220,68,22047.3529411765,"SI",54.3716751,18.6163277,"Gabriela Narutowicza 11/12, 80-233 Gdansk, Poland"," Gdansk"
+"SI1FA","A","Wydział Matematyki, Fizyki i Chemii","Uniwersytet Śląski w Katowicach",36,11,0.305555555555556,4629855,220.5,20997.074829932,"SI",50.2606503,19.0282989,"Bankowa 14, Katowice, Poland"," Katowice"
+"SI1FA","A","Wydział Fizyki i Informatyki Stosowanej","Uniwersytet Łódzki",7,2,0.285714285714286,1200410,59,20345.9322033898,"SI",51.7767493,19.4892258,"Pomorska 149/153, 90-236 L�dz, Poland"," L�dz"
+"SI1FA","A+","Wydział Fizyki i Informatyki Stosowanej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",24,7,0.291666666666667,2478087,144,17208.9375,"SI",50.0668858,19.9136192,"aleja Adama Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"SI1FA","A","Wydział Fizyki i Astronomii","Uniwersytet Wrocławski",23,4,0.173913043478261,1566475,94.5,16576.455026455,"SI",51.1162444,17.0279825,"Plac Maksa Borna 9, Wroclaw, Poland"," Wroclaw"
+"SI1FA","A","Wydział Matematyki, Fizyki i Informatyki","Uniwersytet Gdański",9,4,0.444444444444444,1656910,103,16086.5048543689,"SI",54.3957015,18.5733943,"Wita Stwosza 57, 80-952 Gdansk, Poland"," Gdansk"
+"SI1FA","B","Wydział Matematyki, Fizyki i Informatyki","Uniwersytet Opolski",9,1,0.111111111111111,672512,48,14010.6666666667,"SI",50.6733544,17.9315453,"Oleska 48, 45-910 Opole, Poland"," Opole"
+"SI1FA","B","Wydział Matematyczno-Przyrodniczy","Uniwersytet Jana Kochanowskiego w Kielcach",23,5,0.217391304347826,2084970,161,12950.1242236025,"SI",50.881092,20.656507,"Swietokrzyska 15, Kielce, Poland"," Kielce"
+"SI1FA","B","Wydział Matematyczno-Przyrodniczy","Akademia im. Jana Długosza w Częstochowie",18,3,0.166666666666667,952110,121,7868.67768595041,"SI",50.8196723,19.1170831,"aleja Armii Krajowej 13/15, Czestochowa, Poland"," Czestochowa"
+"SI1FA","B","Wydział Fizyki Technicznej","Politechnika Poznańska",15,3,0.2,291130,45,6469.55555555556,"SI",52.4025241,16.9507132,"60 965, Piotrowo 3A, 60-965 Poznan, Poland"," Poznan"
+"SI1FA","B","Wydział Matematyczno-Przyrodniczy","Uniwersytet Rzeszowski",9,2,0.222222222222222,722560,133.5,5412.43445692884,"SI",50.0302925,22.0156175,"aleja Tadeusza Rejtana 16C, Rzesz�w, Poland"," Rzesz�w"
+"SI1FA","B","Wydział Matematyki, Fizyki i Techniki","Uniwersytet Kazimierza Wielkiego",7,1,0.142857142857143,472500,96,4921.875,"SI",53.1311376,18.0191983,"Jana Karola Chodkiewicza 30, 85-064 Bydgoszcz, Poland"," Bydgoszcz"
+"SI1FA","A","Instytut Fizyki - Centrum Naukowo-Dydaktyczne","Politechnika Śląska",4,1,0.25,49000,38,1289.47368421053,"SI",50.291651,18.674531,"Akademicka 2A, 44-100 Gliwice, Poland"," Gliwice"
+"SI1FA","B","Środowiskowe Laboratorium Ciężkich Jonów","Uniwersytet Warszawski",2,0,0,0,29,0,"SI",52.2125013,20.984391,"Ludwika Pasteura 5A, 02-093 Warszawa, Poland"," Warszawa"
+"SI1FA","C","Wydział Fizyki, Matematyki i Informatyki","Politechnika Krakowska im. Tadeusza Kościuszki",4,0,0,0,108,0,"SI",50.0755992,19.9087026,"Podchorazych 1, 30-084 Krak�w, Poland"," Krak�w"
+"SI1FA","B","Wydział Matematyczno-Przyrodniczy","Uniwersytet Kardynała Stefana Wyszyńskiego w 
+Warszawie",2,0,0,0,47,0,"SI",52.2952917,20.9600312,"Dewajtis 5, Warszawa, Poland"," Warszawa"
+"SI2EA","A","","Instytut Informatyki Teoretycznej i Stosowanej PAN",7,2,0.285714285714286,750774,30,25025.8,"SI",50.2913347,18.6375635,"Baltycka 5, Gliwice, Poland"," Gliwice"
+"SI2EA","A","","Instytut Podstaw Informatyki PAN",5,4,0.8,679640,47.55,14293.1650893796,"SI",52.2258788,20.9498374,"Instytut Podstaw Informatyki PAN, Jana Kazimierza 5, 01-248 Warszawa, Poland"," Warszawa"
+"SI2EA","A","","Instytut Badań Systemowych PAN",6,1,0.166666666666667,498755,61.8,8070.46925566343,"SI",52.245885,20.94025,"Newelska 6, Warszawa, Poland"," Warszawa"
+"SI2EA","A","","Instytut Biocybernetyki i Inżynierii Biomedycznej im. 
+Macieja Nałęcza PAN",19,1,0.0526315789473684,150000,69.98,2143.46956273221,"SI",52.2062408,20.9785545,"Ksiecia Trojdena 4, 02-109 Warszawa, Poland"," Warszawa"
+"SI2FA","A+","","Centrum Astronomiczne im. Mikołaja Kopernika PAN",22,12,0.545454545454545,5683180,51.5,110353.009708738,"SI",52.2130598,21.0677153,"Bartycka 18, Warszawa, Poland"," Warszawa"
+"SI2FA","A","","Instytut Fizyki PAN",42,25,0.595238095238095,21599643,258.22,83648.2185733096,"SI",52.17725,21.0089375,"aleja Lotnik�w 32/46, 02-668 Warszawa, Poland"," Warszawa"
+"SI2FA","A+","","Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego
+PAN",61,23,0.377049180327869,18489304,350.6,52736.1779806047,"SI",50.0896898,19.890318,"Radzikowskiego 152, 31-342 Krak�w, Poland"," Krak�w"
+"SI2FA","A","","Centrum Fizyki Teoretycznej PAN",7,4,0.571428571428571,1190920,23,51779.1304347826,"SI",52.1767413,21.0085241,"aleja Lotnik�w 32/46, Warszawa, Poland"," Warszawa"
+"SI2FA","A+","","Instytut Niskich Temperatur i Badań Strukturalnych im. 
+Włodzimierza Trzebiatowskiego PAN",21,5,0.238095238095238,4107565,105.05,39101.0471204189,"SI",51.1011461,17.067691,"Ok�lna 2, 50-422 Wroclaw, Poland"," Wroclaw"
+"SI2FA","A","","Centrum Badań Kosmicznych PAN",21,4,0.19047619047619,1890728,60,31512.1333333333,"SI",52.214538,21.067525,"Bartycka 18A, Warszawa, Poland"," Warszawa"
+"SI2FA","A","","Instytut Fizyki Molekularnej PAN",12,1,0.0833333333333333,1098500,87.75,12518.5185185185,"SI",52.3951301,16.8463498,"Smoluchowskiego 17, Poznan, Poland"," Poznan"
+"SI2FA","A","","Instytut Wysokich Ciśnień PAN",15,3,0.2,926196,81,11434.5185185185,"SI",52.2387776,20.958981,"Sokolowska 29, 01-142 Warszawa, Poland"," Warszawa"
+"SI1GE","A","Wydział Mechaniczny Energetyki i Lotnictwa","Politechnika Warszawska",35,8,0.228571428571429,3024614,133.7,22622.3934181002,"SI",52.2213088,21.0052586,"Nowowiejska 24, 00-001 Warszawa, Poland"," Warszawa"
+"SI1GE","A","Wydział Energetyki i Paliw","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",12,4,0.333333333333333,1571058,99,15869.2727272727,"SI",50.0657792,19.9174941,"Reymonta, Krak�w, Poland"," Krak�w"
+"SI1GE","A","Wydział Geoinżynierii, Górnictwa i Geologii","Politechnika Wrocławska",13,2,0.153846153846154,574590,57.5,9992.86956521739,"SI",51.1047312,17.0540428,"Na Grobli 15, Na Grobli, 50-421 Wroclaw, Poland"," Wroclaw"
+"SI1GE","B","Wydział Geodezji i Gospodarki Przestrzennej","Uniwersytet Warmińsko-Mazurski w Olsztynie",9,3,0.333333333333333,1145636,129,8880.8992248062,"SI",53.7615762,20.4605338,"Jana Heweliusza 4, 11-041 Olsztyn, Poland"," Olsztyn"
+"SI1GE","A","Wydział Inżynierii Środowiska i Energetyki","Politechnika Śląska",29,3,0.103448275862069,968488,200,4842.44,"SI",50.2934774,18.6800229,"Stanislawa Konarskiego 18, 44-100 Gliwice, Poland"," Gliwice"
+"SI1GE","B","Wydział Inżynierii Lądowej i Geodezji","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",2,1,0.5,99800,57.8,1726.64359861592,"SI",52.2535159,20.9042566,"Fort Radiowo, Warszawa, Poland"," Warszawa"
+"SI1GE","B","Wydział Geodezji i Kartografii","Politechnika Warszawska",2,1,0.5,75440,72,1047.77777777778,"SI",52.2206495,21.0098332,"Politechniki 1, Warszawa, Poland"," Warszawa"
+"SI1GE","B","Wydział Geodezji Górniczej i Inżynierii Środowiska","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",4,0,0,0,114.17,0,"SI",50.0659242,19.9202962,"aleja Adama Mickiewicza 30/pawilon C-4, 30-059 Krak�w, Poland"," Krak�w"
+"SI1GE","B","Wydział Transportu i Elektrotechniki","Uniwersytet Technologiczno-Humanistyczny im. 
+Kazimierza Pułaskiego w Radomiu",31,0,0,0,67,0,"SI",51.4085222,21.1517072,"Jacka Malczewskiego 29, 26-639 Radom, Poland"," Radom"
+"SI1GE","A","Wydział Maszyn Roboczych i Transportu","Politechnika Poznańska",8,0,0,0,132.5,0,"SI",52.3943066,16.9181951,"Plac Marii Sklodowskiej-Curie 5, 60-965 Poznan, Poland"," Poznan"
+"SI1GE","B","Wydział Górnictwa i Geologii","Politechnika Śląska",5,0,0,0,142.5,0,"SI",50.2908869,18.6747932,"Akademicka 2, Gliwice, Poland"," Gliwice"
+"SI1GE","B","Wydział Transportu","Politechnika Warszawska",3,0,0,0,77,0,"SI",52.2224498,21.0079086,"Koszykowa 75, Warszawa, Poland"," Warszawa"
+"SI1GE","B","Wydział Nawigacyjny","Akademia Morska w Szczecinie",6,0,0,0,80.5,0,"SI",53.4291002,14.5641787,"Waly Chrobrego 1, 70-500 Szczecin, Poland"," Szczecin"
+"SI1GE","B","Wydział Górnictwa i Geoinżynierii","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",5,0,0,0,165.5,0,"SI",50.0654555,19.9199831,"Krowodrza, 30-962 Krak�w, Poland"," Krak�w"
+"SI1GE","B","Wydział Nawigacji i Uzbrojenia Okrętowego","Akademia Marynarki Wojennej im. Bohaterów 
+Westerplatte",7,0,0,0,33,0,"SI",54.5438708,18.5450238,"Inzyniera Jana Smidowicza 69, Gdynia, Poland"," Gdynia"
+"SI1GE","A","Wydział Wiertnictwa, Nafty i Gazu","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",1,0,0,0,58,0,"SI",50.0654503,19.920022,"Krowodrza, 33-332 Krak�w, Poland"," Krak�w"
+"SI1GE","B","Wydział Inżynieryjno-Ekonomiczny Transportu","Akademia Morska w Szczecinie",1,0,0,0,49,0,"SI",53.4321178,14.5636355,"Henryka Poboznego 11, Szczecin, Poland"," Szczecin"
+"SI1GE","B","Wydział Nawigacyjny","Akademia Morska w Gdyni",1,0,0,0,43,0,"SI",54.5183407,18.5549418,"Aleja Jana Pawla II 3, Gdynia, Poland"," Gdynia"
+"SI2GE","A","","Instytut Mechaniki Górotworu PAN",4,1,0.25,399010,42,9500.2380952381,"SI",50.0669247,19.9083538,"Reymonta 27, Krak�w, Poland"," Krak�w"
+"SI2GE","A","","Instytut Gospodarki Surowcami Mineralnymi i Energią 
+PAN",1,0,0,0,60.2,0,"SI",50.0835755,19.9268905,"J�zefa Wybickiego 7, Krak�w, Poland"," Krak�w"
+"SI3EG","A+","","Instytut Chemii i Techniki Jądrowej",11,2,0.181818181818182,984400,99.13,9930.39443155452,"SI",52.3021267,20.9825671,"Dorodna 16, Warszawa, Poland"," Warszawa"
+"SI3EG","A","","Narodowe Centrum Badań Jądrowych",19,6,0.315789473684211,2601865,417.36,6234.10245351735,"SI",52.1229713,21.3440967,"Andrzeja Soltana 7, 05-400, Poland",""
+"SI3EG","A","","Instytut Nafty i Gazu",7,1,0.142857142857143,149860,206.55,725.538610505931,"SI",50.075382,19.965655,"Ignacego Lukasiewicza 1, Krak�w, Poland"," Krak�w"
+"SI3EG","A","","Główny Instytut Górnictwa",6,0,0,0,286.8,0,"SI",50.2706495,19.0260351,"plac Gwark�w 1, 40-166 Katowice, Poland"," Katowice"
+"SI3EG","A","","Instytut Fizyki Plazmy i Laserowej Mikrosyntezy im. 
+Sylwestra Kaliskiego",2,0,0,0,54.58,0,"SI",52.2499519,20.9075967,"01 497, Hery 23, 01-497 Warszawa, Poland"," Warszawa"
+"SI3EG","A","","Instytut Chemicznej Przeróbki Węgla",2,0,0,0,91.75,0,"SI",50.328696,18.827541,"Zamkowa 1, Zabrze, Poland"," Zabrze"
+"SI3EG","B","","Instytut Technik Innowacyjnych EMAG",1,0,0,0,131.92,0,"SI",50.2723272,19.0459188,"Leopolda 31, Katowice, Poland"," Katowice"
+"SI3EG","B","","Poltegor - Instytut Górnictwa Odkrywkowego",1,0,0,0,49,0,"SI",51.113177,17.073311,"Parkowa 25, Wroclaw, Poland"," Wroclaw"
+"SI1IM","A+","Wydział Inżynierii Materiałowej","Politechnika Warszawska",19,10,0.526315789473684,4528530,41,110451.951219512,"SI",52.2013217,20.9995294,"Woloska 141, Warszawa, Poland"," Warszawa"
+"SI1IM","A","Wydział Nowych Technologii i Chemii","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",45,13,0.288888888888889,6944209,90.85,76435.9823885526,"SI",52.2531491,20.9002153,"Kaliskiego 2, 01-476 Warszawa, Poland"," Warszawa"
+"SI1IM","A","Wydział Technologii Materiałowych i Wzornictwa 
+Tekstyliów","Politechnika Łódzka",14,3,0.214285714285714,2702220,69,39162.6086956522,"SI",51.7537146,19.4517176,"Stefana Zeromskiego 116, 90-924 L�dz, Poland"," L�dz"
+"SI1IM","B","Wydział Inżynierii Procesowej i Ochrony Środowiska","Politechnika Łódzka",14,5,0.357142857142857,2334530,67,34843.7313432836,"SI",51.7537146,19.4517176,"Stefana Zeromskiego 116, 90-924 L�dz, Poland"," L�dz"
+"SI1IM","A","Wydział Inżynierii Materiałowej i Ceramiki","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",44,12,0.272727272727273,3867064,111,34838.4144144144,"SI",50.0658878,19.9164374,"Krowodrza, 30-962 Krak�w, Poland"," Krak�w"
+"SI1IM","A","Wydział Inżynierii Chemicznej i Procesowej","Politechnika Warszawska",17,5,0.294117647058824,1350170,44,30685.6818181818,"SI",52.2138259,21.0147821,"Ludwika Warynskiego 1, 00-645 Warszawa, Poland"," Warszawa"
+"SI1IM","A","Wydział Metali Nieżelaznych","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",14,2,0.142857142857143,1658023,67,24746.6119402985,"SI",50.0668858,19.9136192,"aleja Adama Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"SI1IM","B","Wydział Inżynierii Metali i Informatyki Przemysłowej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",49,9,0.183673469387755,4070554,165,24670.0242424242,"SI",50.0670341,19.9169326,"Czarnowiejska 66, 30-059 Krak�w, Poland"," Krak�w"
+"SI1IM","B","Wydział Technologii i Inżynierii Chemicznej","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",16,3,0.1875,1104192,77,14340.1558441558,"SI",53.1222226,17.9819638,"Seminaryjna 3, Bydgoszcz, Poland"," Bydgoszcz"
+"SI1IM","B","Wydział Inżynierii Materiałowej i Metalurgii","Politechnika Śląska",15,2,0.133333333333333,1381279,99,13952.3131313131,"SI",50.2554373,19.0341648,"Krasinskiego 8, Katowice, Poland"," Katowice"
+"SI1IM","B","Wydział Odlewnictwa","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",15,2,0.133333333333333,948390,75,12645.2,"SI",50.0667021,19.9109978,"Reymonta 23, Krak�w, Poland"," Krak�w"
+"SI1IM","B","Wydział Inżynierii i Technologii Chemicznej","Politechnika Krakowska im. Tadeusza Kościuszki",13,2,0.153846153846154,1314125,113,11629.4247787611,"SI",50.0714237,19.9409044,"Warszawska 24, 31-155 Krak�w, Poland"," Krak�w"
+"SI1IM","B","Wydział Inżynierii Produkcji i Technologii Materiałów","Politechnika Częstochowska",9,1,0.111111111111111,581552,103,5646.1359223301,"SI",50.82177,19.11681,"aleja Armii Krajowej 19, 42-200 Czestochowa, Poland"," Czestochowa"
+"SI1IM","B","Wydział Informatyki i Nauki o Materiałach","Uniwersytet Śląski w Katowicach",17,1,0.0588235294117647,461970,109,4238.25688073394,"SI",50.2607501,19.0287157,"Bankowa 12, 40-007 Katowice, Poland"," Katowice"
+"SI1IM","B","Wydział Chemiczny","Politechnika Rzeszowska im. Ignacego Łukasiewicza",3,1,0.333333333333333,208000,95,2189.47368421053,"SI",51.1082324,17.0603782,"Norwida 4/6, 50-373 Wroclaw, Poland"," Wroclaw"
+"SI1IM","B","Wydział Inżynierii Środowiska i Biotechnologii","Politechnika Częstochowska",6,2,0.333333333333333,150000,72,2083.33333333333,"SI",50.8224711,19.1161618,"gen. Jana Henryka Dabrowskiego 69, Czestochowa, Poland"," Czestochowa"
+"SI1IM","B","Wydział Inżynierii Środowiska, Geomatyki i Energetyki","Politechnika Świętokrzyska",3,0,0,0,45,0,"SI",50.8798959,20.6401886,"aleja Tysiaclecia Panstwa Polskiego 7, Kielce, Poland"," Kielce"
+"SI1IM","B","Wydział Materiałoznawstwa, Technologii i Wzornictwa","Uniwersytet Technologiczno-Humanistyczny im. 
+Kazimierza Pułaskiego w Radomiu",4,0,0,0,25,0,"SI",51.4075408,21.1511487,"Jacka Malczewskiego 29, Radom, Poland"," Radom"
+"SI1IM","B","Wydział Nauk o Materiałach i Środowisku","Akademia Techniczno-Humanistyczna w Bielsku-Białej",3,0,0,0,55,0,"SI",49.7841414,19.0577026,"Willowa 2, Bielsko-Biala, Poland"," Bielsko-Biala"
+"SI1IM","B","Wydział Inżynierii Środowiska","Politechnika Lubelska",3,0,0,0,34,0,"SI",51.2346122,22.5477809,"Nadbystrzycka 40B, 20-618 Lublin, Poland"," Lublin"
+"SI2IM","A","","Instytut Metalurgii i Inżynierii Materiałowej im. 
+Aleksandra Krupkowskiego PAN",23,10,0.434782608695652,3111402,61.75,50387.0769230769,"SI",50.0667227,19.9095316,"Reymonta 25, Krak�w, Poland"," Krak�w"
+"SI1MH","A","Wydział Mechaniczny","Politechnika Łódzka",39,9,0.230769230769231,6967724,184,37868.0652173913,"SI",51.7525828,19.4520454,"Stefanowskiego 1/15, L�dz, Poland"," L�dz"
+"SI1MH","A","Wydział Mechatroniki","Politechnika Warszawska",15,5,0.333333333333333,1847507,92.54,19964.4153879403,"SI",52.2030115,21.0007583,"sw. Andrzeja Boboli 8, 02-525 Warszawa, Poland"," Warszawa"
+"SI1MH","A","Wydział Mechaniczny Technologiczny","Politechnika Śląska",40,5,0.125,3771235,203.95,18490.9781809267,"SI",50.2925397,18.6810542,"Stanislawa Konarskiego 18A, 44-100 Gliwice, Poland"," Gliwice"
+"SI1MH","A","Wydział Mechaniczny","Politechnika Lubelska",16,2,0.125,1221200,129,9466.66666666667,"SI",51.2366653,22.5502861,"Rury, Lublin, Poland"," Lublin"
+"SI1MH","A","Wydział Budowy Maszyn i Zarządzania","Politechnika Poznańska",14,5,0.357142857142857,1219094,144.35,8445.40353307932,"SI",52.402131,16.9502992,"Piotrowo 3, 60-965 Poznan, Poland"," Poznan"
+"SI1MH","B","Wydział Inżynierii Mechanicznej i Informatyki","Politechnika Częstochowska",23,3,0.130434782608696,1218560,162,7521.97530864198,"SI",50.823233,19.1160608,"aleja Armii Krajowej 21, 42-201 Czestochowa, Poland"," Czestochowa"
+"SI1MH","B","Wydział Mechaniczny","Akademia Morska w Gdyni",4,1,0.25,479720,64,7495.625,"SI",54.5263709,18.511666,"Morska 87, Gdynia, Poland"," Gdynia"
+"SI1MH","A","Wydział Mechaniczny","Politechnika Wrocławska",20,2,0.1,1603220,250.31,6404.93787703248,"SI",51.1081115,17.0650293,"Lukasiewicza 5-7, 50-370 Wroclaw, Poland"," Wroclaw"
+"SI1MH","B","Wydział Mechaniczny","Politechnika Gdańska",6,1,0.166666666666667,317590,72.58,4375.72333976302,"SI",54.3707157,18.6153326,"Siedlicka 4, Gdansk, Poland"," Gdansk"
+"SI1MH","B","Wydział Mechaniczno-Energetyczny","Politechnika Wrocławska",6,1,0.166666666666667,397200,93,4270.96774193548,"SI",51.1086726,17.0601578,"wybrzeze Stanislawa Wyspianskiego 27, 50-370 Wroclaw, Poland"," Wroclaw"
+"SI1MH","A","Wydział Mechaniczny","Politechnika Białostocka",16,1,0.0625,317300,87,3647.12643678161,"SI",53.1182888,23.1497203,"Wiejska 45A, Bialystok, Poland"," Bialystok"
+"SI1MH","B","Wydział Inżynierii Produkcji","Politechnika Warszawska",5,1,0.2,292000,107.6,2713.75464684015,"SI",52.203308,21.002758,"ul. Narbutta 85, 02-524 Warszawa, Poland"," Warszawa"
+"SI1MH","B","Wydział Mechaniczny","Politechnika Krakowska im. Tadeusza Kościuszki",10,2,0.2,630087,278.5,2262.43087971275,"SI",50.0716684,19.9428581,"Warszawska 24, 31-155 Krak�w, Poland"," Krak�w"
+"SI1MH","A","Wydział Mechaniczny","Politechnika Opolska",6,2,0.333333333333333,152792,81.15,1882.83425754775,"SI",50.683044,17.944614,"St. Mikolajczyka 5, Opole, Poland"," Opole"
+"SI1MH","B","Wydział Budowy Maszyn i Lotnictwa","Politechnika Rzeszowska im. Ignacego Łukasiewicza",11,2,0.181818181818182,299500,200,1497.5,"SI",50.0193113,21.9872448,"Budynek S, Aleja Powstanc�w Warszawy 10, 35-959 Rzesz�w, Poland"," Rzesz�w"
+"SI1MH","A","Instytut Technologii i Edukacji","Politechnika Koszalińska",5,1,0.2,62448,57,1095.57894736842,"SI",54.2036014,16.1971806,"Sniadeckich 2, Koszalin, Poland"," Koszalin"
+"SI1MH","A","Wydział Inżynierii Mechanicznej i Robotyki","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",21,0,0,0,219.83,0,"SI",50.065966,19.9187755,"aleja Adama Mickiewicza 30, 30-059 Krak�w, Poland"," Krak�w"
+"SI1MH","A","Wydział Inżynierii Biomedycznej","Politechnika Śląska",5,0,0,0,43,0,"SI",50.2962133,18.7784939,"Roosevelta 40, Zabrze, Poland"," Zabrze"
+"SI1MH","B","Wydział Zarządzania i Modelowania Komputerowego","Politechnika Świętokrzyska",1,0,0,0,47,0,"SI",50.8798959,20.6401886,"aleja Tysiaclecia Panstwa Polskiego 7, Kielce, Poland"," Kielce"
+"SI1MH","A","Wydział Inżynierii Mechanicznej i Mechatroniki","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",3,0,0,0,99.05,0,"SI",53.4236198,14.5351142,"Aleja Piast�w 19, Szczecin, Poland"," Szczecin"
+"SI1MH","B","Wydział Mechaniczny","Politechnika Koszalińska",5,0,0,0,92,0,"SI",54.1867806,16.1939389,"Raclawicka 15, Koszalin, Poland"," Koszalin"
+"SI1MH","B","Wydział Inżynierii Mechanicznej","Uniwersytet Technologiczno-Przyrodniczy im. Jana i 
+Jędrzeja Śniadeckich w Bydgoszczy",5,0,0,0,88,0,"SI",53.1238534,17.9890905,"Ksiedza Augustyna Kordeckiego 20, Bydgoszcz, Poland"," Bydgoszcz"
+"SI1MH","B","Wydział Mechaniczny","Uniwersytet Zielonogórski",3,0,0,0,63,0,"SI",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"SI1MH","B","Wydział Mechaniczno-Elektryczny","Akademia Marynarki Wojennej im. Bohaterów 
+Westerplatte",5,0,0,0,49,0,"SI",54.5438708,18.5450238,"Inzyniera Jana Smidowicza 69, Gdynia, Poland"," Gdynia"
+"SI1MH","B","Wydział Budowy Maszyn i Informatyki","Akademia Techniczno-Humanistyczna w Bielsku-Białej",1,0,0,0,78,0,"SI",49.7841414,19.0577026,"Willowa 2, Bielsko-Biala, Poland"," Bielsko-Biala"
+"SI1MH","B","Wydział Techniki Morskiej i Transportu","Zachodniopomorski Uniwersytet Technologiczny w 
+Szczecinie",2,0,0,0,36.5,0,"SI",53.4199639,14.5351068,"Aleja Piast�w 41, Szczecin, Poland"," Szczecin"
+"SI1MH","B","Wydział Oceanotechniki i Okrętownictwa","Politechnika Gdańska",2,0,0,0,73,0,"SI",54.3728273,18.6131358,"Siedlicka, 80-980 Gdansk, Poland"," Gdansk"
+"SI1MH","B","Wydział Mechatroniki i Lotnictwa","Wojskowa Akademia Techniczna im. Jarosława 
+Dąbrowskiego",1,0,0,0,82.43,0,"SI",52.2531491,20.9002153,"Kaliskiego 2, 01-476 Warszawa, Poland"," Warszawa"
+"SI1MH","B","Wydział Samochodów i Maszyn Roboczych","Politechnika Warszawska",4,0,0,0,111.03,0,"SI",52.2042337,21.0022867,"Narbutta 84, 01-999 Warszawa, Poland"," Warszawa"
+"SI1MH","B","Wydział Podstaw Techniki","Politechnika Lubelska",2,0,0,0,26,0,"SI",NA,NA,NA,NA
+"SI1MH","B","Wydział Mechaniczny","Uniwersytet Technologiczno-Humanistyczny im. 
+Kazimierza Pułaskiego w Radomiu",1,0,0,0,91,0,"SI",51.3925115,21.1231148,"Janka Krasickiego 54, Radom, Poland"," Radom"
+"SI1MH","B","Wydział Lotnictwa","Wyższa Szkoła Oficerska Sił Powietrznych",1,0,0,0,40,0,"SI",51.5549667,21.8667929,"Dywizjonu 303 35, 08-521 Deblin, Poland"," Deblin"
+"SI2MH","A+","","Instytut Podstawowych Problemów Techniki PAN",30,10,0.333333333333333,4597704,147,31276.8979591837,"SI",52.206655,20.9812528,"Adolfa Pawinskiego 5b, 02-106 Warszawa, Poland"," Warszawa"
+"SI2MH","A","","Instytut Maszyn Przepływowych im. Roberta 
+Szewalskiego PAN",18,6,0.333333333333333,2418749,121,19989.6611570248,"SI",54.3729088,18.6149908,"Generala J�zefa Fiszera 14, Gdansk, Poland"," Gdansk"
+"SI1MI","A+","Wydział Matematyki, Informatyki i Mechaniki","Uniwersytet Warszawski",47,29,0.617021276595745,9770438,171.5,56970.4839650146,"SI",52.2117831,20.9820146,"Banacha 2, 02-097 Warszawa, Poland"," Warszawa"
+"SI1MI","A+","Wydział Matematyki i Informatyki","Uniwersytet Jagielloński",54,11,0.203703703703704,5165306,103,50148.6019417476,"SI",50.0306759,19.906671,"Lojasiewicza 6, 30-348 Krak�w, Poland"," Krak�w"
+"SI1MI","A","Wydział Matematyki i Informatyki","Uniwersytet Wrocławski",20,15,0.75,3889755,97,40100.5670103093,"SI",51.1094229,17.0611032,"Janiszewskiego 14a, 50-372 Wroclaw, Poland"," Wroclaw"
+"SI1MI","A","Wydział Matematyki i Informatyki","Uniwersytet im. Adama Mickiewicza w Poznaniu",14,9,0.642857142857143,2712380,104.3,26005.5608820709,"SI",52.467272,16.92726,"Umultowska 87, 61-001 Poznan, Poland"," Poznan"
+"SI1MI","A","Wydział Matematyki i Informatyki","Uniwersytet Mikołaja Kopernika w Toruniu",13,6,0.461538461538462,1607960,62.5,25727.36,"SI",53.0101555,18.5946688,"Fryderyka Chopina 12/18, 87-100 Torun, Poland"," Torun"
+"SI1MI","A","Wydział Fizyki Technicznej, Informatyki i Matematyki 
+Stosowanej","Politechnika Łódzka",12,4,0.333333333333333,1825616,88,20745.6363636364,"SI",51.747288,19.453818,"W�lczanska 215, L�dz, Poland"," L�dz"
+"SI1MI","A","Wydział Matematyki i Nauk Informacyjnych","Politechnika Warszawska",10,4,0.4,1296930,69,18796.0869565217,"SI",52.2221573,21.0071308,"Koszykowa 75, Warszawa, Poland"," Warszawa"
+"SI1MI","A","Wydział Matematyki, Informatyki i Ekonometrii","Uniwersytet Zielonogórski",6,2,0.333333333333333,354906,45,7886.8,"SI",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"SI1MI","A","Wydział Matematyki i Fizyki Stosowanej","Politechnika Rzeszowska im. Ignacego Łukasiewicza",4,1,0.25,382200,53,7211.32075471698,"SI",51.1094229,17.0611032,"Janiszewskiego 14a, 50-372 Wroclaw, Poland"," Wroclaw"
+"SI1MI","B","Wydział Matematyki i Informatyki","Uniwersytet Łódzki",7,2,0.285714285714286,310170,73,4248.90410958904,"SI",51.7765826,19.487004,"Stefana Banacha 22, 90-238 L�dz, Poland"," L�dz"
+"SI1MI","B","Wydział Matematyki Stosowanej","Politechnika Śląska",2,1,0.5,70000,36,1944.44444444444,"SI",50.291423,18.680459,"Kaszubska 23, 44-100 Gliwice, Poland"," Gliwice"
+"SI1MI","A","Wydział Matematyki Stosowanej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",11,1,0.0909090909090909,120000,64,1875,"SI",50.0673777,19.9164793,"Czarnowiejska 70, 33-332 Krak�w, Poland"," Krak�w"
+"SI1MI","C","Wydział Matematyki i Informatyki","Uniwersytet w Białymstoku",2,1,0.5,98340,57,1725.26315789474,"SI",53.1083518,23.1545609,"Konstantego Ciolkowskiego 1M, 15-245 Bialystok, Poland"," Bialystok"
+"SI1MI","C","Wydział Matematyki, Informatyki i Architektury 
+Krajobrazu","Katolicki Uniwersytet Lubelski Jana Pawła II",5,0,0,0,53,0,"SI",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"SI1MI","B","Wydział Matematyczno-Fizyczno-Techniczny","Uniwersytet Pedagogiczny im. Komisji Edukacji 
+Narodowej w Krakowie",14,0,0,0,106,0,"SI",50.0737364,19.9088735,"Podchorazych 2, Krak�w, Poland"," Krak�w"
+"SI1MI","B","Wydział Matematyki i Informatyki","Uniwersytet Warmińsko-Mazurski w Olsztynie",4,0,0,0,67,0,"SI",53.7438123,20.455904,"Sloneczna 54, 10-710 Olsztyn, Poland"," Olsztyn"
+"SI2MI","A+","","Instytut Matematyczny PAN",28,17,0.607142857142857,9080460,81.25,111759.507692308,"SI",52.2214125,21.0147439,"Sniadeckich 8, 00-656 Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Napędów i Maszyn Elektrycznych KOMEL",4,1,0.25,789500,18.9,41772.4867724868,"SI",50.2667038,19.0563038,"aleja Rozdzienskiego 188, Katowice, Poland"," Katowice"
+"SI3EI","A+","","Instytut Technologii Elektronowej",20,3,0.15,1498380,118.7,12623.251895535,"SI",52.1767413,21.0085241,"aleja Lotnik�w 32/46, Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Elektrotechniki",8,2,0.25,174900,177.1,987.577639751553,"SI",52.2074667,21.1748133,"Pozaryskiego 28, 04-703 Warszawa, Poland"," Warszawa"
+"SI3EI","A","","Przemysłowy Instytut Automatyki i Pomiarów PIAP",2,1,0.5,49990,115.2,433.940972222222,"SI",52.193539,20.921743,"Aleje Jerozolimskie 202, Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Łączności - Państwowy Instytut Badawczy",1,0,0,0,125.6,0,"SI",52.1725499,21.1962881,"Szachowa 1, 04-894 Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Maszyn Matematycznych",2,0,0,0,20.25,0,"SI",52.2217387,21.0003092,"Ludwika Krzywickiego 34, Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Optyki Stosowanej",2,0,0,0,21.46,0,"SI",52.2476305,21.0606194,"Kamionkowska 18, Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Instytut Techniki i Aparatury Medycznej ITAM",5,0,0,0,19.63,0,"SI",50.293841,18.7623596,"Roosevelta 118, 41-800 Zabrze, Poland"," Zabrze"
+"SI3EI","A","","Instytut Tele- i Radiotechniczny",2,0,0,0,104.4,0,"SI",52.2583477,21.0325371,"Ratuszowa 11, Warszawa, Poland"," Warszawa"
+"SI3EI","B","","Wojskowy Instytut Łączności im. prof. dr. hab. Janusza 
+Groszkowskiego",1,0,0,0,71,0,"SI",52.453133,21.003953,"Warszawska 22A, 05-130 Zegrze Poludniowe, Poland"," Zegrze Poludniowe"
+"SI3IO","B","","Instytut Geodezji i Kartografii",3,0,0,0,41.87,0,"SI",52.178695,21.0135868,"Modzelewskiego 27, 02-679 Warszawa, Poland"," Warszawa"
+"SI3IO","A","","Instytut Badawczy Dróg i Mostów",2,0,0,0,103,0,"SI",52.2675386,21.0245491,"Instytutowa 1, Warszawa, Poland"," Warszawa"
+"SI3IO","B","","Instytut Ceramiki i Materiałów Budowlanych",5,0,0,0,181.85,0,"SI",50.6243815,17.9642025,"Oswiecimska 21, Opole, Poland"," Opole"
+"SI3IO","B","","Instytut Gospodarki Przestrzennej i Mieszkalnictwa",1,0,0,0,26.1,0,"SI",52.25123,21.0385378,"Targowa 45, Warszawa, Poland"," Warszawa"
+"SI3IO","B","","Instytut Meteorologii i Gospodarki Wodnej - Państwowy 
+Instytut Badawczy",11,0,0,0,51,0,"SI",52.2808914,20.9612704,"Podlesna 61, Warszawa, Poland"," Warszawa"
+"SI3IO","B","","Instytut Rozwoju Miast",6,0,0,0,33.3,0,"SI",50.0748106,19.929683,"Cieszynska 2, 30-015 Krak�w, Poland"," Krak�w"
+"SI3MU","B","","Instytut Mechaniki Precyzyjnej",3,0,0,0,89.1,0,"SI",52.2568284,20.9711586,"Duchnicka 3, Warszawa, Poland"," Warszawa"
+"SI3MU","B","","Instytut Obróbki Plastycznej",2,0,0,0,56.25,0,"SI",52.4047098,16.9530874,"Jana Pawla II 14, 61-139 Poznan, Poland"," Poznan"
+"SI3MU","A","","Instytut Techniczny Wojsk Lotniczych",3,0,0,0,340,0,"SI",52.2521326,20.9344392,"Ksiecia Boleslawa 6, 01-494 Warszawa, Poland"," Warszawa"
+"SI3MU","A","","Instytut Technologii Eksploatacji - Państwowy Instytut 
+Badawczy",2,0,0,0,96,0,"SI",51.4244761,21.1530106,"Kazimierza Pulaskiego 6/10, Radom, Poland"," Radom"
+"SI3MU","B","","Instytut Zaawansowanych Technologii Wytwarzania",1,0,0,0,65,0,"SI",50.0782326,19.926796,"Wroclawska 37A, 30-011 Krak�w, Poland"," Krak�w"
+"SI3MU","B","","Przemysłowy Instytut Maszyn Rolniczych",1,0,0,0,76.35,0,"SI",52.3719166,16.9356836,"Starolecka 31, Poznan, Poland"," Poznan"
+"SI3MU","B","","Wojskowy Instytut Techniki Pancernej i Samochodowej",2,0,0,0,33.75,0,"SI",52.2518207,21.2863618,"Okuniewska 1, 05-070 Sulej�wek, Poland"," Sulej�wek"
+"SI3TB","A","","Instytut Transportu Samochodowego",2,1,0.5,145600,65,2240,"SI",52.2705299,21.0199431,"Jagiellonska 80, 03-301 Warszawa, Poland"," Warszawa"
+"SI3TB","A","","Ośrodek Przetwarzania Informacji",5,1,0.2,134175,69.35,1934.75126171593,"SI",52.2126739,21.0082454,"Niepodleglosci 188 b, Warszawa, Poland"," Warszawa"
+"SI3TB","B","","Centralne Laboratorium Ochrony Radiologicznej",1,0,0,0,18.43,0,"SI",52.3014709,20.9867543,"Konwaliowa 7, 03-194 Warszawa, Poland"," Warszawa"
+"SI3TB","A","","Instytut Lotnictwa",4,0,0,0,936.3,0,"SI",52.1793086,20.9476645,"Krakowska 110/114, 02-256 Warszawa, Poland"," Warszawa"
+"SI3TB","B","","Wojskowy Instytut Chemii i Radiometrii",1,0,0,0,46.05,0,"SI",52.2691151,21.1727446,"aleja Generala Antoniego Chrusciela �Montera� 105, 00-910 Warszawa, Poland"," Warszawa"
+"SI3TM","A","","Instytut Odlewnictwa",12,3,0.25,1613150,124,13009.2741935484,"SI",50.019996,19.928877,"ul. Zakopianska 73, (wjazd od ul. Zbrojarzy), 30-418 Krak�w, Poland"," Krak�w"
+"SI4TM","C","","Fundacja Uniwersytetu im. A. Mickiewicza Poznański 
+Park NaukowoTechnologiczny",1,1,1,318660,33,9656.36363636364,"SI",52.454669,16.954039,"Rubiez 46, 61-001 Poznan, Poland"," Poznan"
+"SI3TM","B","","Instytut Inżynierii Materiałów Polimerowych i 
+Barwników",4,1,0.25,460000,55,8363.63636363636,"SI",52.1741876,20.8413948,"Harcerska 30, Piast�w, Poland"," Piast�w"
+"SI3TM","B","","Instytut Chemii Przemysłowej im. prof. Ignacego 
+Mościckiego",5,1,0.2,1118800,144.05,7766.74765706352,"SI",52.2616076,20.9740454,"Rydygiera 8, Warszawa, Poland"," Warszawa"
+"SI3TM","B","","Instytut Metali Nieżelaznych",11,5,0.454545454545455,1375680,214,6428.41121495327,"SI",50.2954638,18.633656,"Gliwice, Poland","Gliwice"
+"SI3TM","A","","Instytut Nawozów Sztucznych",2,0,0,0,42,0,"SI",51.0037127,16.3422825,"Goczalk�w G�rny 8, 58-152 Goczalk�w G�rny, Poland"," Goczalk�w G�rny"
+"SI3TM","B","","CORBO - Instytut Badawczy Opakowań",1,0,0,0,28,0,"SI",52.1881893,21.0588112,"Konstancinska 11, Warszawa, Poland"," Warszawa"
+"SI3TM","A","","Instytut Ciężkiej Syntezy Organicznej ""Blachownia""",2,0,0,0,105.55,0,"SI",50.35963,18.286957,"Energetyk�w 9, 47-225 Kedzierzyn-Kozle, Poland"," Kedzierzyn-Kozle"
+"SI3TM","A","","Instytut Metalurgii Żelaza im. Stanisława Staszica",5,0,0,0,78.8,0,"SI",50.2948102,18.656952,"44-100 Gliwice; Miarki 12-14, 44-120, Poland",""
+"SI3TM","B","","Instytut Przemysłu Skórzanego",2,0,0,0,42.26,0,"SI",51.792686,19.4489988,"Zgierska 73, L�dz, Poland"," L�dz"
+"SI3TM","A","","Instytut Włókiennictwa",4,0,0,0,79.36,0,"SI",51.794642,19.504981,"Brzezinska 5/15, 92-103 L�dz, Poland"," L�dz"
+"TA1MZ","B","Wydział Dyrygentury, Kompozycji i Teorii Muzyki","Akademia Muzyczna im. Stanisława Moniuszki w 
+Gdańsku",1,0,0,0,24,0,"TA",54.3461734,18.6635507,"Lakowa 1-2, 80-743 Gdansk, Poland"," Gdansk"
+"TA1MZ","B","Wydział Wokalno-Aktorski","Akademia Muzyczna im. Ignacego Jana Paderewskiego w
+Poznaniu",1,0,0,0,19,0,"TA",52.4072597,16.9157763,"Swiety Marcin 87, Poznan, Poland"," Poznan"
+"TA1MZ","A","Wydział Dyrygentury Chóralnej, Edukacji Muzycznej i 
+Rytmiki","Akademia Muzyczna im. Stanisława Moniuszki w 
+Gdańsku",1,0,0,0,37,0,"TA",54.3461734,18.6635507,"Lakowa 1-2, 80-743 Gdansk, Poland"," Gdansk"
+"TA1MZ","A+","Wydział Twórczości, Interpretacji i Edukacji Muzycznej","Akademia Muzyczna w Krakowie",1,0,0,0,47,0,"TA",50.0616854,19.9433677,"Swietego Tomasza 43, 31-027 Krak�w, Poland"," Krak�w"
+"TA1MZ","B","Wydział Instrumentalny","Akademia Muzyczna w Krakowie",1,0,0,0,84.75,0,"TA",50.0616854,19.9433677,"Swietego Tomasza 43, 31-027 Krak�w, Poland"," Krak�w"
+"TA1PK","A+","Wydział Konserwacji i Restauracji Dzieł Sztuki","Akademia Sztuk Pięknych w Warszawie",6,3,0.5,1091790,56,19496.25,"TA",52.2394019,21.0150792,"Krakowskie Przedmiescie 5, 00-068 Warszawa, Poland"," Warszawa"
+"TA1PK","A","Wydział Sztuk Pięknych","Uniwersytet Mikołaja Kopernika w Toruniu",1,1,1,467500,127,3681.10236220472,"TA",53.0143784,18.5810635,"Henryka Sienkiewicza 30/32, Torun, Poland"," Torun"
+"TA1PK","B","Wydział Konserwacji i Restauracji Dzieł Sztuki","Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",3,0,0,0,35,0,"TA",50.0662182,19.94165,"plac Jana Matejki 13, 31-157 Krak�w, Poland"," Krak�w"
+"TA1PK","B","Wydział Sztuki","Akademia im. Jana Długosza w Częstochowie",3,0,0,0,47,0,"TA",50.8101247,19.1163831,"Jerzego Waszyngtona 4/8, Czestochowa, Poland"," Czestochowa"
+"TA1PK","A","Wydział Pedagogiczny i Artystyczny","Uniwersytet Jana Kochanowskiego w Kielcach",4,0,0,0,98,0,"TA",50.863841,20.6232691,"Krakowska 11, 25-029 Kielce, Poland"," Kielce"
+"TA1PK","B","Wydział Grafiki","Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",2,0,0,0,44,0,"TA",50.0662182,19.94165,"plac Jana Matejki 13, 31-157 Krak�w, Poland"," Krak�w"
+"TA1PK","A","Wydział Intermediów","Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",1,0,0,0,12,0,"TA",50.0592747,19.9259317,"J�zefa Pilsudskiego 38, 33-332 Krak�w, Poland"," Krak�w"
+"TA1PK","A","Wydział Pedagogiczno-Artystyczny w Kaliszu","Uniwersytet im. Adama Mickiewicza w Poznaniu",1,0,0,0,65,0,"TA",51.7539636,18.0905751,"Nowy Swiat 28/30, Kalisz, Poland"," Kalisz"
+"TA1PK","A","Wydział Artystyczny","Uniwersytet Marii Curie-Skłodowskiej",3,0,0,0,100.5,0,"TA",51.2479416,22.5223268,"Aleja Krasnicka 2b, Lublin, Poland"," Lublin"
+"TA1PK","A","Wydział Grafiki i Sztuki Mediów","Akademia Sztuk Pięknych im. Eugeniusza Gepperta we 
+Wrocławiu",3,0,0,0,38.1,0,"TA",51.1113857,17.0431459,"plac Polski 3/4, Wroclaw, Poland"," Wroclaw"
+"TA1PK","B","Wydział Artystyczny w Cieszynie","Uniwersytet Śląski w Katowicach",1,0,0,0,101,0,"TA",49.7485046,18.6493524,"ul. J.U.Niemcewicza 2, 43-400 CIESZYN, Poland"," CIESZYN"
+"TA1PK","B","Wydział Sztuki","Uniwersytet Warmińsko-Mazurski w Olsztynie",2,0,0,0,45,0,"TA",53.7601848,20.4608081,"Michala Oczapowskiego 2, Olsztyn, Poland"," Olsztyn"
+"TA1PK","B","Wydział Malarstwa","Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",1,0,0,0,46,0,"TA",50.0662182,19.94165,"plac Jana Matejki 13, 31-157 Krak�w, Poland"," Krak�w"
+"TA1PK","B","Wydział Rzeźby","Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",1,0,0,0,28,0,"TA",50.0662182,19.94165,"plac Jana Matejki 13, 31-157 Krak�w, Poland"," Krak�w"
+"TA1PK","B","Wydział Artystyczny","Uniwersytet Zielonogórski",1,0,0,0,46,0,"TA",51.936343,15.5071594,"Licealna 9, Zielona G�ra, Poland"," Zielona G�ra"
+"TA1PK","A","Wydział Edukacji Artystycznej","Uniwersytet Artystyczny w Poznaniu",1,0,0,0,19,0,"TA",52.4100265,16.9287931,"Aleje Marcinkowskiego 29, 60-967 Poznan, Poland"," Poznan"
+"TA1PR","B","Wydział Projektowy","Akademia Sztuk Pięknych w Katowicach",2,0,0,0,31,0,"TA",50.2549429,19.0019623,"Raciborska 37, Katowice, Poland"," Katowice"
+"TA1PR","C","Wydział Architektury i Wzornictwa","Akademia Sztuk Pięknych w Gdańsku",1,0,0,0,42,0,"TA",54.350707,18.6489594,"Targ Weglowy 6, Gdansk, Poland"," Gdansk"
+"TA1TF","B","Wydział Radia i Telewizji im. K. Kieślowskiego","Uniwersytet Śląski w Katowicach",1,0,0,0,25,0,"TA",50.2906887,19.0035031,"Bytkowska 1b, Katowice, Poland"," Katowice"
+"TA1TF","B","Wydział Wiedzy o Teatrze","Akademia Teatralna im. Aleksandra Zelwerowicza w 
+Warszawie",1,0,0,0,17.7,0,"TA",52.2484363,21.0072086,"Miodowa 22/24, 00-246 Warszawa, Poland"," Warszawa"
+"TA1TF","A","Wydział Operatorski i Realizacji Telewizyjnej","Państwowa Wyższa Szkoła Filmowa, Telewizyjna i 
+Teatralna im. Leona Schillera w Łodzi",1,0,0,0,74,0,"TA",51.7573516,19.4730521,"Targowa 61/63, 90-323 L�dz, Poland"," L�dz"
+"TA1TF","A","Wydział Reżyserii Filmowej i Telewizyjnej","Państwowa Wyższa Szkoła Filmowa, Telewizyjna i 
+Teatralna im. Leona Schillera w Łodzi",2,0,0,0,57,0,"TA",51.7573516,19.4730521,"Targowa 61/63, 90-323 L�dz, Poland"," L�dz"
+"TA1TF","B","Wydział Aktorski","Państwowa Wyższa Szkoła Filmowa, Telewizyjna i 
+Teatralna im. Leona Schillera w Łodzi",1,0,0,0,36,0,"TA",51.7573516,19.4730521,"Targowa 61/63, 90-323 L�dz, Poland"," L�dz"
+"BRAK DANYCH",NA,"Małopolskie Centrum Biotechnologii","Uniwersytet Jagielloński",3,3,1,7782316,NA,NA,"--",50.026896,19.900781,"Gronostajowa 7A, 30-387 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"Jagiellońskie Centrum Rozwoju Leków (JCET)","Uniwersytet Jagielloński",12,6,0.5,2087712,4,521928,"--",50.0609623,19.9341074,"Golebia 24, 31-007 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"Centrum Studiów Niemieckich i Europejskich im. Willy 
+Brandta","Uniwersytet Wrocławski",3,2,0.666666666666667,332721,6,55453.5,"--",NA,NA,NA,NA
+"BRAK DANYCH",NA,"Wydział Zamiejscowy w Katowicach","Uniwersytet SWPS",4,1,0.25,223860,NA,NA,"--",50.2735544,19.0613173,"Technik�w 9, 40-326 Katowice, Poland"," Katowice"
+"BRAK DANYCH",NA,"Instytut Kultury Europejskiej","Uniwersytet im. Adama Mickiewicza w Poznaniu",11,2,0.181818181818182,211478,28,7552.78571428571,"--",52.4083974,16.915402,"Wieniawskiego 1, 61-712 Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa im. Angelusa 
+Silesiusa w Wałbrzychu",1,1,1,162725,101,1611.13861386139,"--",50.7625917,16.2823506,"Zamkowa 4, 58-300 Walbrzych, Poland"," Walbrzych"
+"BRAK DANYCH",NA,"Wydział Wychowania Fizycznego","Akademia Wychowania Fizycznego i Sportu im. Jędrzeja 
+Śniadeckiego w Gdańsku",1,1,1,122866,117,1050.13675213675,"--",54.4192036,18.5622691,"Kazimierza G�rskiego 1, 80-336 Gdansk, Poland"," Gdansk"
+"BRAK DANYCH",NA,"Wydział Biznesu","Akademia Finansów i Biznesu Vistula",1,0,0,0,NA,NA,"--",52.1589318,21.0344789,"Stoklosy 3, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"Akademickie Centrum Komputerowe Cyfronet AGH","Akademia Górniczo-Hutnicza im. Stanisława Staszica w 
+Krakowie",1,0,0,0,NA,NA,"--",50.0689816,19.9092075,"Nawojki 11, 30-950 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"Biblioteka Główna","Akademia Muzyczna im. Ignacego Jana Paderewskiego w
+Poznaniu",1,0,0,0,NA,NA,"--",52.4072597,16.9157763,"Swiety Marcin 87, Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"Międzywydziałowy Instytut Nauk o Sztuce","Akademia Sztuk Pięknych w Gdańsku",1,0,0,0,13,0,"--",54.350707,18.6489594,"Targ Weglowy 6, Gdansk, Poland"," Gdansk"
+"BRAK DANYCH",NA,"Instytut Badań Przestrzeni Publicznej","Akademia Sztuk Pięknych w Warszawie",1,0,0,0,NA,NA,"--",52.23979,21.016332,"Krakowskie Przedmiescie 5, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"Wydział Zarządzania Sportem i Turystyką","Akademia Wychowania Fizycznego im. Jerzego Kukuczki 
+w Katowicach",1,0,0,0,50,0,"--",50.24999,19.003171,"Mikolowska 72A, Katowice, Poland"," Katowice"
+"BRAK DANYCH",NA,"Wydział Nauk Społecznych","Dolnośląska Wyższa Szkoła Przedsiębiorczości i Techniki 
+w Polkowicach",1,0,0,0,NA,NA,"--",51.1409634,17.0691973,"Koszarowa 3, 51-149 Wroclaw, Poland"," Wroclaw"
+"BRAK DANYCH",NA,"Wydział Turystyki i Promocji Zdrowia","Górnośląska Wyższa Szkoła Handlowa im. W. Korfantego 
+w Katowicach",2,0,0,0,NA,NA,"--",50.212247,18.976978,"Harcerzy Wrzesnia 1939 3, 40-659 Katowice, Poland"," Katowice"
+"BRAK DANYCH",NA,"Instytut Leksykografii","Katolicki Uniwersytet Lubelski Jana Pawła II",2,0,0,0,NA,NA,"--",51.2476612,22.5448037,"Aleje Raclawickie 14, 20-950 Lublin, Poland"," Lublin"
+"BRAK DANYCH",NA,"","Kujawsko-Pomorska Szkoła Wyższa w Bydgoszczy",2,0,0,0,111,0,"--",53.1191675,18.0210034,"B, Torunska 55-57/7B, Bydgoszcz, Poland"," Bydgoszcz"
+"BRAK DANYCH",NA,"Katedra Ekonomii i Studiów Europejskich","Małopolska Wyższa Szkoła Ekonomiczna w Tarnowie",1,0,0,0,NA,NA,"--",50.0146385,20.9928785,"Warynskiego 14, 33-100 Tarn�w, Poland"," Tarn�w"
+"BRAK DANYCH",NA,"Instytut Inżynierii Technicznej","Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. 
+ks. Bronisława Markiewicza w Jarosławiu",2,0,0,0,83,0,"--",50.0124535,22.6743919,"Czarnieckiego 16, 37-500 Jaroslaw, Poland"," Jaroslaw"
+"BRAK DANYCH",NA,"Instytut Socjologii","Państwowa Wyższa Szkoła Wschodnioeuropejska w 
+Przemyślu",1,0,0,0,NA,NA,"--",49.7741575,22.7934337,"Ksiazat Lubomiskich 6, 37-700 Przemysl, Poland"," Przemysl"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa im. Prezydenta 
+Stanisława Wojciechowskiego w Kaliszu",1,0,0,0,287,0,"--",51.7571011,18.0851679,"Nowy Swiat 4, Kalisz, Poland"," Kalisz"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa im. prof. Edwarda 
+F. Szczepanika w Suwałkach",1,0,0,0,NA,NA,"--",54.0966714,22.9327021,"Teofila Noniewicza 10, Suwalki, Poland"," Suwalki"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa w Głogowie",1,0,0,0,63,0,"--",51.661117,16.096593,"Piotra Skargi 5, Glog�w, Poland"," Glog�w"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa w Głogowie",1,0,0,0,NA,NA,"--",51.661117,16.096593,"Piotra Skargi 5, Glog�w, Poland"," Glog�w"
+"BRAK DANYCH",NA,"","Państwowa Wyższa Szkoła Zawodowa w Gorzowie 
+Wielkopolskim",3,0,0,0,NA,NA,"--",52.7319783,15.2527036,"Teatralna 25, Gorz�w Wielkopolski, Poland"," Gorz�w Wielkopolski"
+"BRAK DANYCH",NA,"Wydział Humanistyczny","Politechnika Koszalińska",5,0,0,0,14,0,"--",54.2036014,16.1971806,"Sniadeckich 2, Koszalin, Poland"," Koszalin"
+"BRAK DANYCH",NA,"Biblioteka Politechniki Łódzkiej","Politechnika Łódzka",1,0,0,0,4,0,"--",51.745625,19.454432,"W�lczanska 223, L�dz, Poland"," L�dz"
+"BRAK DANYCH",NA,"Laboratorium Badań Materiałów dla Przemysłu 
+Lotniczego","Politechnika Rzeszowska im. Ignacego Łukasiewicza",1,0,0,0,NA,NA,"--",NA,NA,NA,NA
+"BRAK DANYCH",NA,"Centrum Biotechnologii","Politechnika Śląska",4,0,0,0,NA,NA,"--",50.291651,18.674531,"Akademicka 2A, 44-100 Gliwice, Poland"," Gliwice"
+"BRAK DANYCH",NA,"Studium Nauk Humanistycznych","Politechnika Wrocławska",3,0,0,0,17,0,"--",51.1090493,17.0579588,"plac Grunwaldzki 11, 50-377 Wroclaw, Poland"," Wroclaw"
+"BRAK DANYCH",NA,"Ośrodek Badań Europejskich im. Józefa Retingera","Uniwersytet Ekonomiczny w Krakowie",3,0,0,0,NA,NA,"--",50.0685649,19.9551201,"Rakowicka 27, 31-510 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"Centrum Doskonałości dla Zrównoważonego Rozwoju 
+przy Uniwersytecie Ekonomicznym","Uniwersytet Ekonomiczny we Wrocławiu",1,0,0,0,NA,NA,"--",51.0900717,17.0263517,"Komandorska 118/120, Wroclaw, Poland"," Wroclaw"
+"BRAK DANYCH",NA,"Centrum Zaawansowanych Technologii","Uniwersytet im. Adama Mickiewicza w Poznaniu",2,0,0,0,6,0,"--",52.4684644,16.9179281,"Umultowska 89C, 61-614 Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"Międzywydziałowa Pracownia Pytań Granicznych","Uniwersytet im. Adama Mickiewicza w Poznaniu",1,0,0,0,4,0,"--",52.4083974,16.915402,"Wieniawskiego 1, 61-712 Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"Stacja Ekologiczna  w Jeziorach","Uniwersytet im. Adama Mickiewicza w Poznaniu",1,0,0,0,NA,NA,"--",52.4083974,16.915402,"Wieniawskiego 1, 61-712 Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"Muzeum","Uniwersytet Jagielloński",1,0,0,0,NA,NA,"--",50.0615639,19.9339308,"Jagiellonska 15, 31-010 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"Uniwersyteckie Centrum Zdalnego Nauczania i Kursów 
+Otwartych","Uniwersytet Marii Curie-Skłodowskiej",1,0,0,0,NA,NA,"--",51.2455166,22.5414484,"Plac Marii Sklodowskiej-Curie 5, Lublin, Poland"," Lublin"
+"BRAK DANYCH",NA,"Wydział Wychowania Fizycznego","Uniwersytet Rzeszowski",4,0,0,0,64,0,"--",50.0416228,21.9936698,"Ambrozego Towarnickiego 3, Rzesz�w, Poland"," Rzesz�w"
+"BRAK DANYCH",NA,"Katedra Teologii Prawosławnej","Uniwersytet w Białymstoku",1,0,0,0,3,0,"--",53.1279257,23.1586545,"ul. Marii Sklodowskiej-Curie 14, 15-097 Bialystok, Poland"," Bialystok"
+"BRAK DANYCH",NA,"Biblioteka Uniwersytecka","Uniwersytet Warszawski",1,0,0,0,15,0,"--",52.242647,21.0248865,"Dobra 56/66, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Administracji Publicznej im. Stanisława 
+Staszica w Białymstoku",3,0,0,0,NA,NA,"--",53.1086578,23.208806,"Ksiedza Stanislawa Suchowolca 6, 15-567 Bialystok, Poland"," Bialystok"
+"BRAK DANYCH",NA,"Wydział Pedagogiki i Nauk o Zdrowiu","Wyższa Szkoła Biznesu i Przedsiębiorczości w Ostrowcu 
+Świętokrzyskim",1,0,0,0,NA,NA,"--",50.9518123,21.3894643,"Akademicka 12, 27-400 Ostrowiec Swietokrzyski, Poland"," Ostrowiec Swietokrzyski"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Ekonomiczno-Społeczna w Ostrołęce",1,0,0,0,13,0,"--",53.091898,21.607503,"Kolobrzeska 15, Ostroleka, Poland"," Ostroleka"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Ekonomii, Prawa i Nauk Medycznych im. 
+prof. Edwarda Lipińskiego w Kielcach",1,0,0,0,70,0,"--",50.8670289,20.6022119,"Jagiellonska 109a, Kielce, Poland"," Kielce"
+"BRAK DANYCH",NA,"Wydział Informatyki i Zarządzania","Wyższa Szkoła Informatyki i Umiejętności w Łodzi",2,0,0,0,NA,NA,"--",51.7379182,19.4671674,"Rzgowska 17A, L�dz, Poland"," L�dz"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Przedsiębiorczości i Administracji w 
+Lublinie",1,0,0,0,84,0,"--",51.2701525,22.5692642,"Bursaki 12, 20-150 Lublin, Poland"," Lublin"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Techniczno-Ekonomiczna w Warszawie",1,0,0,0,10,0,"--",52.172392,21.1940539,"Szachowa 1, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Turystyki i Języków Obcych",1,0,0,0,NA,NA,"--",52.2213554,20.9602846,"Aleja Prymasa Tysiaclecia 38, 00-999 Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Zarządzania i Administracji w Opolu",2,0,0,0,53,0,"--",50.6630093,17.9207422,"Mieczyslawa Niedzialkowskiego 18, 46-020 Opole, Poland"," Opole"
+"BRAK DANYCH",NA,"","Wyższa Szkoła Zarządzania i Prawa im. Heleny 
+Chodkowskiej",3,0,0,0,NA,NA,"--",52.2715208,21.0194424,"Jagiellonska 82F, 03-301 Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Zachodniopomorska Szkoła Biznesu",1,0,0,0,NA,NA,"--",53.4490269,14.4919693,"Zolnierska 53, 71-210 Szczecin, Poland"," Szczecin"
+"BRAK DANYCH",NA,"Wydział Zamiejscowy Informatyki w Bytomiu","Polsko-Japońska Wyższa Szkoła Technik Komputerowych 
+w Warszawie",1,0,0,0,NA,NA,"--",50.353447,18.917097,"aleja Legion�w 2, Bytom, Poland"," Bytom"
+"BRAK DANYCH",NA,"","Szczecińska Szkoła Wyższa Collegium Balticum",1,0,0,0,NA,NA,"--",53.408555,14.517892,"Mieszka I 61 C, 71-011 Szczecin, Poland"," Szczecin"
+"BRAK DANYCH",NA,"","Wielkopolska Wyższa Szkoła Społeczno-Ekonomiczna w 
+Środzie Wielkopolskiej",1,0,0,0,43,0,"--",52.2349685,17.2675788,"Surzynskich 2, 63-000 Sroda Wielkopolska, Poland"," Sroda Wielkopolska"
+"BRAK DANYCH",NA,"","Zakład Antropologii PAN we Wrocławiu",1,0,0,0,NA,NA,"--",51.105672,17.041888,"Podwale 75, 50-449 Wroclaw, Poland"," Wroclaw"
+"BRAK DANYCH",NA,"","Zakład Ichtiobiologii i Gospodarki Rybackiej PAN w 
+Gołyszu",2,0,0,0,2,0,"--",NA,NA,NA,NA
+"BRAK DANYCH",NA,"","Wielkopolskie Centrum Onkologii",7,3,0.428571428571429,1689650,NA,NA,"--",52.4024086,16.9363974,"Garbary 15, Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"","Ogród Botaniczny - Centrum Zachowania Różnorodności 
+Biologicznej PAN w Powsinie",3,1,0.333333333333333,1340258,NA,NA,"--",52.1048884,21.0950198,"Prawdziwka 2, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Krakowski Szpital Specjalistyczny im. Jana Pawła II",6,2,0.333333333333333,1286884,NA,NA,"--",50.0907901,19.9383318,"Pradnicka 80, Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"","Apeiron Synthesis Sp. z o. o.",1,1,1,500700,NA,NA,"--",51.1103337,16.9733888,"Dunska 9, 54-427 Wroclaw, Poland"," Wroclaw"
+"BRAK DANYCH",NA,"","Centrum Polsko-Rosyjskiego Dialogu i Porozumienia",3,1,0.333333333333333,476342,NA,NA,"--",NA,NA,NA,NA
+"BRAK DANYCH",NA,"","Projekt Nauka. Fundacja na rzecz promocji nauki polskiej",2,1,0.5,405512,NA,NA,"--",NA,NA,NA,NA
+"BRAK DANYCH","A","","Polska Akademia Umiejętności",6,1,0.166666666666667,405,NA,NA,"--",50.06446,19.938333,"Slawkowska 17, Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"","Centrum Badań Ekologicznych PAN",4,1,0.25,351440,NA,NA,"--",52.3452535,20.8566856,"Marii Konopnickiej 1, 05-092 Dziekan�w Lesny, Poland"," Dziekan�w Lesny"
+"BRAK DANYCH",NA,"","Muzeum Archeologiczne w Krakowie",2,2,1,336922,NA,NA,"--",50.0577049,19.9359222,"Senacka 3, 31-002 Krak�w, Poland"," Krak�w"
+"BRAK DANYCH",NA,"","Towarzystwo Naukowe Katolickiego Uniwersytetu 
+Lubelskiego Jana Pawła II",22,3,0.136363636363636,227425,NA,NA,"--",51.2434642,22.5539887,"Fryderyka Chopina 29/11, Lublin, Poland"," Lublin"
+"BRAK DANYCH",NA,"","Fundacja Onkologii Doświadczalnej i Klinicznej",9,1,0.111111111111111,149700,NA,NA,"--",52.2180936,21.0169559,"Mokotowska 4/6, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Muzeum Archeologiczne w Poznaniu",3,1,0.333333333333333,136850,NA,NA,"--",52.4074504,16.9346004,"Wodna 27, 61-781 Poznan, Poland"," Poznan"
+"BRAK DANYCH",NA,"","Muzeum Starożytnego Hutnictwa Mazowieckiego im. 
+Stefana Woydy",2,1,0.5,107110,NA,NA,"--",52.1646962,20.8086773,"plac Jana Pawla II 2, 05-800 Pruszk�w, Poland"," Pruszk�w"
+"BRAK DANYCH",NA,"","Fundacja Patrimonium",1,1,1,98858,NA,NA,"--",52.2405603,20.9987846,"Elektoralna 17, Warszawa, Poland"," Warszawa"
+"BRAK DANYCH",NA,"","Polskie Centrum Studiów Afrykanistycznych",1,1,1,70397,NA,NA,"--",-8.783195,34.508523,"Africa","Africa"
+"BRAK DANYCH",NA,"","Warszawska Metropolia Prawosławna - Polski 
+Autokefaliczny Kościół  Prawosławny",1,1,1,56500,NA,NA,"--",NA,NA,NA,NA
+"BRAK DANYCH",NA,"","Szpital Kliniczny im. Heliodora Święcickiego 
+Uniwersytetu Medycznego w Poznaniu",4,0,0,0,NA,NA,"--",52.4038688,16.8870646,"Przybyszewskiego 49, Poznan, Poland"," Poznan"

@@ -1,0 +1,796 @@
+GWO,"Kategoria naukowa",Nazwa jednostki uczelnianej,Nazwa jednostki głównej,Wnioski złożone,Pozyskane granty,Współczynnik sukcesu,Przyznana kwota,Pracownicy naukowi,"Kwota/pracownicy naukowi"
+HS1EK,A+,Wydział Nauk Ekonomicznych,Uniwersytet Warszawski,31,15,48%,3 220 559 zł,"85,5",37 667 zł
+HS1EK,A,"Wydział Informatyki i Gospodarki Elektronicznej",Uniwersytet Ekonomiczny w Poznaniu,18,4,22%,1 084 776 zł,44,24 654 zł
+HS1EK,A,Wydział Zarządzania,Uniwersytet Ekonomiczny w Poznaniu,45,9,20%,2 380 339 zł,115,20 699 zł
+HS1EK,A,Wydział Zarządzania,Uniwersytet Ekonomiczny w Katowicach,15,7,47%,2 152 028 zł,110,19 564 zł
+HS1EK,A,Kolegium Gospodarki Światowej,Szkoła Główna Handlowa w Warszawie,24,5,21%,1 567 585 zł,"85,3",18 377 zł
+HS1EK,A,Wydział Ekonomii,Uniwersytet Ekonomiczny w Poznaniu,38,11,29%,1 506 605 zł,104,14 487 zł
+HS1EK,A+,Kolegium Analiz Ekonomicznych,Szkoła Główna Handlowa w Warszawie,12,6,50%,1 455 460 zł,"114,5",12 711 zł
+HS1EK,B,Wydział Gospodarki Międzynarodowej,Uniwersytet Ekonomiczny w Poznaniu,31,4,13%,592 738 zł,50,11 855 zł
+HS1EK,A,"",Akademia Leona Koźmińskiego,45,7,16%,1 387 900 zł,"152,5",9 101 zł
+HS1EK,B,Wydział Organizacji i Zarządzania,Politechnika Łódzka,16,3,19%,636 865 zł,79,8 062 zł
+HS1EK,B,Wydział Ekonomiczny,Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,2,1,50%,219 180 zł,31,7 070 zł
+HS1EK,A,"Wydział Ekonomii i Stosunków Międzynarodowych",Uniwersytet Ekonomiczny w Krakowie,34,8,24%,1 132 929 zł,168,6 744 zł
+HS1EK,B,Wydział Zarządzania i Ekonomii,Politechnika Gdańska,6,2,33%,478 420 zł,87,5 499 zł
+HS1EK,A,Wydział Finansów,Uniwersytet Ekonomiczny w Krakowie,12,4,33%,683 723 zł,129,5 300 zł
+HS1EK,A,Wydział Towaroznawstwa,Uniwersytet Ekonomiczny w Poznaniu,17,1,6%,376 350 zł,74,5 086 zł
+HS1EK,B,Wydział Ekonomiczny,Uniwersytet Marii Curie-Skłodowskiej,23,3,13%,509 683 zł,104,4 901 zł
+HS1EK,A,"Wydział Zarządzania, Informatyki i Finansów",Uniwersytet Ekonomiczny we Wrocławiu,45,4,9%,951 800 zł,202,4 712 zł
+HS1EK,A,Wydział Ekonomiczno-Socjologiczny,Uniwersytet Łódzki,58,9,16%,1 643 660 zł,"354,08",4 642 zł
+HS1EK,A+,Kolegium Zarządzania i Finansów,Szkoła Główna Handlowa w Warszawie,17,2,12%,517 403 zł,131,3 950 zł
+HS1EK,A,Kolegium Ekonomiczno-Społeczne,Szkoła Główna Handlowa w Warszawie,11,1,9%,287 950 zł,74,3 891 zł
+HS1EK,B,Wydział Nauk Ekonomicznych i Zarządzania,Uniwersytet Mikołaja Kopernika w Toruniu,17,2,12%,348 530 zł,92,3 788 zł
+HS1EK,A,Kolegium Nauk o Przedsiębiorstwie,Szkoła Główna Handlowa w Warszawie,12,2,17%,294 100 zł,90,3 268 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczno-Społeczny,Uniwersytet Przyrodniczy w Poznaniu,13,3,23%,238 880 zł,81,2 949 zł,MNiSW 2014
+HS1EK,A,Wydział Towaroznawstwa,Uniwersytet Ekonomiczny w Krakowie,8,1,13%,171 900 zł,59,2 914 zł,MNiSW 2014
+HS1EK,A,Wydział Nauk Ekonomicznych,Uniwersytet Ekonomiczny we Wrocławiu,35,3,9%,470 216 zł,169,2 782 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania,Uniwersytet Ekonomiczny w Krakowie,23,4,17%,433 620 zł,158,2 744 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",10,1,10%,299 000 zł,121,2 471 zł,MNiSW 2014
+HS1EK,B,Wydział Informatyki i Komunikacji,Uniwersytet Ekonomiczny w Katowicach,8,1,13%,157 500 zł,66,2 386 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomii i Zarządzania,Uniwersytet w Białymstoku,11,2,18%,155 340 zł,77,2 017 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,Politechnika Białostocka,12,1,8%,197 330 zł,116,1 701 zł,MNiSW 2014
+HS1EK,B,Wydział Nauk Ekonomicznych,Uniwersytet Warmińsko-Mazurski w Olsztynie,4,1,25%,172 610 zł,111,1 555 zł,MNiSW 2014
+HS1EK,A,Wydział Inżynieryjno-Ekonomiczny,Uniwersytet Ekonomiczny we Wrocławiu,13,2,15%,163 078 zł,109,1 496 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania,Uniwersytet Warszawski,13,1,8%,67 782 zł,46,1 474 zł,MNiSW 2014
+HS1EK,B,Wydział Finansów i Zarządzania,Wyższa Szkoła Bankowa we Wrocławiu,12,1,8%,75 760 zł,135,561 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,"Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",1,0,0%,0 zł,39,0 zł,MNiSW 2014
+HS1EK,B,Wydział Nauk Ekonomicznych i Prawnych,"Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",1,0,0%,0 zł,50,0 zł,MNiSW 2014
+HS1EK,B,"",Wyższa Szkoła Bankowa w Gdańsku,2,0,0%,0 zł,62,0 zł,MNiSW 2014
+HS1EK,A,Wydział Zastosowań Informatyki i Matematyki,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",2,0,0%,0 zł,74,0 zł,MNiSW 2014
+HS1EK,B,Wydział Nauk Społecznych i Informatyki,Wyższa Szkoła Biznesu - National Louis University,2,0,0%,0 zł,48,0 zł,MNiSW 2014
+HS1EK,B,Wydział Finansów i Bankowości,Wyższa Szkoła Bankowa w Poznaniu,2,0,0%,0 zł,85,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomii i Zarządzania,Uczelnia Łazarskiego,2,0,0%,0 zł,40,0 zł,MNiSW 2014
+HS1EK,B,"","Wyższa Szkoła Gospodarki Euroregionalnej im. Alcide De Gasperi w Józefowie",2,0,0%,0 zł,52,0 zł,POLON 2014
+HS1EK,B,Wydział Turystyki i Rekreacji,Szkoła Główna Turystyki i Rekreacji,2,0,0%,0 zł,19,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczno-Informatyczny w Wilnie,Uniwersytet w Białymstoku,2,0,0%,0 zł,"15,33",0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczno-Menedżerski,Wyższa Szkoła Handlowa we Wrocławiu,2,0,0%,0 zł,34,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczny,Uniwersytet Opolski,3,0,0%,0 zł,47,0 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,Politechnika Rzeszowska im. Ignacego Łukasiewicza,3,0,0%,0 zł,126,0 zł,MNiSW 2014
+HS1EK,B,"",Wyższa Szkoła Bankowa w Toruniu,3,0,0%,0 zł,64,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczny,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",3,0,0%,0 zł,"58,5",0 zł,MNiSW 2014
+HS1EK,A,"Wydział Zarządzania, Informatyki i Nauk Społecznych",Wyższa Szkoła Biznesu w Dąbrowie Górniczej,3,0,0%,0 zł,62,0 zł,MNiSW 2014
+HS1EK,B,Wydział Przedsiębiorczości i Towaroznawstwa,Akademia Morska w Gdyni,4,0,0%,0 zł,101,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomii i Zarządzania,Politechnika Opolska,4,0,0%,0 zł,"55,5",0 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,Politechnika Lubelska,4,0,0%,0 zł,60,0 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania,Społeczna Akademia Nauk,4,0,0%,0 zł,131,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczny,"Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu",5,0,0%,0 zł,49,0 zł,MNiSW 2014
+HS1EK,A,"Wydział Ekonomii, Zarządzania i Turystyki",Uniwersytet Ekonomiczny we Wrocławiu,6,0,0%,0 zł,91,0 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania i Logistyki,Wyższa Szkoła Logistyki w Poznaniu,6,0,0%,0 zł,24,0 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,Politechnika Częstochowska,7,0,0%,0 zł,204,0 zł,MNiSW 2014
+HS1EK,B,Wydział Finansów i Ubezpieczeń,Uniwersytet Ekonomiczny w Katowicach,7,0,0%,0 zł,94,0 zł,MNiSW 2014
+HS1EK,B,Wydział Nauk Ekonomicznych,Politechnika Koszalińska,8,0,0%,0 zł,52,0 zł,MNiSW 2014
+HS1EK,B,Wydział Inżynierii Zarządzania,Politechnika Poznańska,8,0,0%,0 zł,106,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomiczny,Uniwersytet Gdański,9,0,0%,0 zł,121,0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomii,Uniwersytet Rzeszowski,9,0,0%,0 zł,45,0 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania i Finansów,Wyższa Szkoła Finansów i Zarządzania w Warszawie,10,0,0%,0 zł,38,0 zł,MNiSW 2014
+HS1EK,A,Wydział Zarządzania,Uniwersytet Łódzki,11,0,0%,0 zł,"110,5",0 zł,MNiSW 2014
+HS1EK,B,Wydział Ekonomii i Zarządzania,Uniwersytet Zielonogórski,11,0,0%,0 zł,68,0 zł,MNiSW 2014
+HS1EK,B,Wydział Nauk Ekonomicznych,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",15,0,0%,0 zł,121,0 zł,MNiSW 2014
+HS1EK,B,Wydział Zarządzania,Uniwersytet Gdański,16,0,0%,0 zł,142,0 zł,MNiSW 2014
+HS1EK,B,Wydział Organizacji i Zarządzania,Politechnika Śląska,17,0,0%,0 zł,152,0 zł,MNiSW 2014
+HS1EK,A,Wydział Nauk Ekonomicznych i Zarządzania,Uniwersytet Szczeciński,23,0,0%,0 zł,"168,5",0 zł
+HS1EK,B,Wydział Zarządzania i Informatyki,"Akademia Techniczno-Humanistyczna w Bielsku-Białej",1,1,100%,149 230 zł,BRAK DANYCH,BRAK DANYCH
+HS1EK,C,Wydział Nauk Technicznych,Dolnośląska Szkoła Wyższa,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1EK,B,"",Szkoła Wyższa im. Bogdana Jańskiego,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1EK,B,Instytut Zarządzania Ryzykiem,Akademia Finansów i Biznesu Vistula,3,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1EK,B,Wydział Menedżerski,Wyższa Szkoła Menedżerska w Warszawie,3,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1FB,A,Wydział Anglistyki,Uniwersytet im. Adama Mickiewicza w Poznaniu,25,6,24%,1 460 898 zł,89,16 415 zł
+HS1FB,A,Wydział Polonistyki,Uniwersytet Warszawski,53,12,23%,2 300 740 zł,"162,1",14 193 zł
+HS1FB,A+,Wydział Polonistyki,Uniwersytet Jagielloński,61,10,16%,1 253 199 zł,145,8 643 zł
+HS1FB,A,Wydział Lingwistyki Stosowanej,Uniwersytet Warszawski,23,2,9%,828 900 zł,117,7 085 zł
+HS1FB,A,Wydział Orientalistyczny,Uniwersytet Warszawski,21,2,10%,513 955 zł,80,6 424 zł
+HS1FB,A,Wydział Filologiczny,Uniwersytet Śląski w Katowicach,22,5,23%,1 676 571 zł,"374,5",4 477 zł
+HS1FB,B,Wydział Neofilologii,Uniwersytet im. Adama Mickiewicza w Poznaniu,28,4,14%,968 212 zł,"245,5",3 944 zł
+HS1FB,B,Instytut Anglistyki,Społeczna Akademia Nauk,2,1,50%,203 978 zł,53,3 849 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Szczeciński,10,2,20%,461 520 zł,129,3 578 zł
+HS1FB,A,Wydział Filologiczny,Uniwersytet Mikołaja Kopernika w Toruniu,14,2,14%,358 333 zł,129,2 778 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Jagielloński,26,6,23%,631 051 zł,"237,36",2 659 zł
+HS1FB,A+,Wydział Filologii Polskiej i Klasycznej,Uniwersytet im. Adama Mickiewicza w Poznaniu,28,5,18%,555 846 zł,217,2 562 zł
+HS1FB,B,Wydział Filologiczny,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",16,1,6%,371 610 zł,175,2 123 zł
+HS1FB,B,Wydział Humanistyczny,Uniwersytet Marii Curie-Skłodowskiej,19,3,16%,669 770 zł,360,1 860 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Łódzki,25,1,4%,436 900 zł,297,1 471 zł
+HS1FB,A,Wydział „Artes Liberales”,Uniwersytet Warszawski,14,1,7%,67 340 zł,"46,3",1 454 zł
+HS1FB,B,Wydział Nauk Humanistycznych,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",7,1,14%,70 200 zł,65,1 080 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet w Białymstoku,8,1,13%,100 620 zł,"94,5",1 065 zł
+HS1FB,B,Wydział Nauk Humanistycznych,Katolicki Uniwersytet Lubelski Jana Pawła II,18,2,11%,133 248 zł,258,516 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Gdański,12,1,8%,99 480 zł,241,413 zł
+HS1FB,B,Wydział Humanistyczno-Społeczny,"Akademia Techniczno-Humanistyczna w Bielsku-Białej",1,0,0%,0 zł,"57,5",0 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Opolski,3,0,0%,0 zł,113,0 zł
+HS1FB,B,Wydział Filologiczny,Uniwersytet Rzeszowski,4,0,0%,0 zł,112,0 zł
+HS1FB,B,Wydział Neofilologii,Uniwersytet Warszawski,9,0,0%,0 zł,"166,25",0 zł
+HS1FB,B,Wydział Humanistyczny,Uniwersytet Warmińsko-Mazurski w Olsztynie,17,0,0%,0 zł,177,0 zł
+HS1FB,B,Wydział Kulturoznawstwa i Filologii,Uniwersytet SWPS,12,1,8%,828 230 zł,BRAK DANYCH,BRAK DANYCH
+HS1FT,A+,Wydział Humanistyczny,Uniwersytet Mikołaja Kopernika w Toruniu,29,6,21%,899 340 zł,"63,5",14 163 zł
+HS1FT,A,Wydział Teologiczny,Uniwersytet Mikołaja Kopernika w Toruniu,1,1,100%,332 020 zł,"31,5",10 540 zł
+HS1FT,A,Wydział Filozoficzny,Uniwersytet Papieski Jana Pawła II w Krakowie,7,1,14%,143 260 zł,28,5 116 zł
+HS1FT,A,Wydział Filozofii,Katolicki Uniwersytet Lubelski Jana Pawła II,16,4,25%,289 292 zł,"78,75",3 674 zł
+HS1FT,A,Wydział Filozofii Chrześcijańskiej,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",12,1,8%,295 664 zł,88,3 360 zł
+HS1FT,B,Wydział Teologiczny,Uniwersytet Śląski w Katowicach,3,1,33%,62 517 zł,"37,75",1 656 zł
+HS1FT,B,Wydział Teologiczny,Chrześcijańska Akademia Teologiczna w Warszawie,2,0,0%,0 zł,18,0 zł
+HS1FT,A,Wydział Teologiczny,Uniwersytet im. Adama Mickiewicza w Poznaniu,5,0,0%,0 zł,59,0 zł
+HS1FT,A,Wydział Teologii,Uniwersytet Warmińsko-Mazurski w Olsztynie,6,0,0%,0 zł,43,0 zł
+HS1FT,B,Wydział Filozoficzny,Akademia Ignatianum w Krakowie,7,0,0%,0 zł,56,0 zł
+HS1FT,A,Wydział Teologii,Katolicki Uniwersytet Lubelski Jana Pawła II,9,0,0%,0 zł,145,0 zł
+HS1FT,A,Wydział Teologiczny,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",14,0,0%,0 zł,"110,19",0 zł
+HS1FT,B,Wydział Teologiczny,Uniwersytet Papieski Jana Pawła II w Krakowie,18,0,0%,0 zł,56,0 zł
+HS1HS,B,"Centrum Archeologii Śródziemnomorskiej im. prof. Kazimierza Michałowskiego",Uniwersytet Warszawski,10,4,40%,1 004 313 zł,14,71 737 zł
+HS1HS,A,"Ośrodek Badań nad Antykiem Europy Południowo-Wschodniej",Uniwersytet Warszawski,5,1,20%,319 120 zł,"6,5",49 095 zł
+HS1HS,A+,Wydział Nauk Historycznych i Pedagogicznych,Uniwersytet Wrocławski,49,16,33%,5 451 882 zł,248,21 983 zł
+HS1HS,A+,Wydział Historyczny,Uniwersytet im. Adama Mickiewicza w Poznaniu,74,13,18%,3 795 555 zł,"211,95",17 908 zł
+HS1HS,A+,Wydział Historyczny,Uniwersytet Warszawski,82,17,21%,4 729 367 zł,267,17 713 zł
+HS1HS,A,Wydział Nauk Historycznych,Uniwersytet Mikołaja Kopernika w Toruniu,31,4,13%,1 019 640 zł,125,8 157 zł
+HS1HS,A,Wydział Historyczno-Socjologiczny,Uniwersytet w Białymstoku,19,2,11%,611 120 zł,"82,5",7 408 zł
+HS1HS,B,Wydział Socjologiczno-Historyczny,Uniwersytet Rzeszowski,15,3,20%,684 120 zł,123,5 562 zł
+HS1HS,B,Wydział Historii i Dziedzictwa Kulturowego,Uniwersytet Papieski Jana Pawła II w Krakowie,11,2,18%,228 160 zł,52,4 388 zł
+HS1HS,B,Wydział Humanistyczny,Uniwersytet Jana Kochanowskiego w Kielcach,14,2,14%,467 064 zł,124,3 767 zł
+HS1HS,B,Wydział Humanistyczny,Uniwersytet Kazimierza Wielkiego,4,2,50%,551 043 zł,154,3 578 zł
+HS1HS,B,Wydział Filozoficzno-Historyczny,Uniwersytet Łódzki,24,2,8%,178 144 zł,"130,5",1 365 zł
+HS1HS,B,Wydział Humanistyczny,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",20,2,10%,91 286 zł,123,742 zł
+HS1HS,A,Wydział Historyczny,Uniwersytet Gdański,10,1,10%,42 560 zł,82,519 zł
+HS1HS,B,"Filia w Piotrkowie Trybunalskim Wydział Filologiczno-Historyczny",Uniwersytet Jana Kochanowskiego w Kielcach,2,0,0%,0 zł,49,0 zł
+HS1HS,B,Wydział Filologiczno-Historyczny,Akademia Pomorska w Słupsku,2,0,0%,0 zł,96,0 zł
+HS1HS,B,Wydział Humanistyczny,Uniwersytet Szczeciński,13,0,0%,0 zł,"199,5",0 zł
+HS1HS,B,Wydział Humanistyczny,Uniwersytet Zielonogórski,14,0,0%,0 zł,149,0 zł
+HS1HS,B,Wydział Filologiczno-Historyczny,Akademia im. Jana Długosza w Częstochowie,18,0,0%,0 zł,106,0 zł
+HS1PR,B,Wydział Prawa i Nauk Społecznych,Uniwersytet SWPS,4,2,50%,637 797 zł,21,30 371 zł
+HS1PR,B,"Wydział Prawa, Administracji i Stosunków Międzynarodowych","Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",7,3,43%,588 300 zł,76,7 741 zł
+HS1PR,A,Wydział Prawa i Administracji,Uniwersytet Warszawski,23,8,35%,1 191 756 zł,162,7 357 zł
+HS1PR,A+,Wydział Prawa i Administracji,Uniwersytet Jagielloński,36,9,25%,1 158 239 zł,"188,33",6 150 zł
+HS1PR,B,Wydział Prawa i Administracji,Uniwersytet Opolski,5,1,20%,259 209 zł,46,5 635 zł
+HS1PR,B,Wydział Prawa Kanonicznego,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",1,1,100%,133 481 zł,25,5 339 zł
+HS1PR,A,Wydział Prawa i Administracji,Uniwersytet Gdański,19,5,26%,614 525 zł,119,5 164 zł
+HS1PR,B,Wydział Prawa i Administracji,Uniwersytet Marii Curie-Skłodowskiej,4,2,50%,527 950 zł,132,4 000 zł
+HS1PR,A,Wydział Prawa i Administracji,Uniwersytet Śląski w Katowicach,16,3,19%,240 162 zł,"102,5",2 343 zł
+HS1PR,B,Wydział Prawa i Administracji,Uniwersytet Łódzki,7,2,29%,390 520 zł,"171,41",2 278 zł
+HS1PR,A,Wydział Prawa i Administracji,Uniwersytet im. Adama Mickiewicza w Poznaniu,26,4,15%,256 197 zł,"121,3",2 112 zł
+HS1PR,B,"Wydział Prawa, Prawa Kanonicznego i Administracji",Katolicki Uniwersytet Lubelski Jana Pawła II,18,1,6%,180 600 zł,135,1 338 zł
+HS1PR,B,Wydział Prawa i Administracji,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",8,1,13%,76 897 zł,99,777 zł
+HS1PR,A,Wydział Prawa,Uniwersytet w Białymstoku,24,1,4%,67 600 zł,105,644 zł
+HS1PR,B,"Wydział Prawa, Administracji i Ekonomii",Uniwersytet Wrocławski,30,2,7%,109 200 zł,206,530 zł
+HS1PR,B,"Wydział Zamiejscowy Nauk Prawnych i Ekonomicznych w Tomaszowie Lubelskim",Katolicki Uniwersytet Lubelski Jana Pawła II,4,0,0%,0 zł,37,0 zł
+HS1PR,B,Wydział Prawa i Administracji,Wyższa Szkoła Finansów i Zarządzania w Warszawie,5,0,0%,0 zł,16,0 zł
+HS1PR,B,Wydział Prawa i Administracji,Uniwersytet Warmińsko-Mazurski w Olsztynie,6,0,0%,0 zł,143,0 zł
+HS1PR,B,Wydział Prawa i Administracji,Uczelnia Łazarskiego,10,0,0%,0 zł,"39,5",0 zł
+HS1SP,A+,Wydział Zamiejscowy we Wrocławiu,Uniwersytet SWPS,11,6,55%,1 996 569 zł,"30,5",65 461 zł
+HS1SP,A,"Instytut Studiów Społecznych im. prof. Roberta B. Zajonca",Uniwersytet Warszawski,17,3,18%,548 256 zł,9,60 917 zł
+HS1SP,A,Wydział Psychologii,Uniwersytet SWPS,25,10,40%,3 655 687 zł,73,50 078 zł
+HS1SP,A,Ośrodek Badań nad Migracjami,Uniwersytet Warszawski,6,3,50%,443 455 zł,"9,7",45 717 zł
+HS1SP,A+,Wydział Psychologii,Uniwersytet Warszawski,31,8,26%,2 067 608 zł,77,26 852 zł
+HS1SP,A,Wydział Nauk Politycznych i Dziennikarstwa,Uniwersytet im. Adama Mickiewicza w Poznaniu,36,4,11%,1 543 060 zł,69,22 363 zł
+HS1SP,A,Wydział Filozofii i Socjologii,Uniwersytet Warszawski,59,16,27%,3 053 300 zł,137,22 287 zł
+HS1SP,A,Wydział Filozoficzny,Uniwersytet Jagielloński,106,20,19%,4 634 932 zł,236,19 640 zł
+HS1SP,A,Wydział Nauk Społecznych,Uniwersytet im. Adama Mickiewicza w Poznaniu,52,9,17%,2 964 242 zł,"216,5",13 692 zł
+HS1SP,A,Wydział Zarządzania i Komunikacji Społecznej,Uniwersytet Jagielloński,30,6,20%,2 344 380 zł,"183,5",12 776 zł
+HS1SP,A,Instytut Ameryk i Europy,Uniwersytet Warszawski,7,1,14%,350 638 zł,39,8 991 zł
+HS1SP,B,"Wydział Studiów Międzynarodowych i Politologicznych",Uniwersytet Łódzki,22,3,14%,537 212 zł,62,8 665 zł
+HS1SP,A,"Wydział Politologii i Studiów Międzynarodowych",Uniwersytet Mikołaja Kopernika w Toruniu,9,1,11%,401 075 zł,59,6 798 zł
+HS1SP,A,Wydział Nauk Społecznych,Katolicki Uniwersytet Lubelski Jana Pawła II,18,2,11%,1 363 340 zł,209,6 523 zł,MNiSW 2014
+HS1SP,B,"Wydział Stosowanych Nauk Społecznych i Resocjalizacji",Uniwersytet Warszawski,21,2,10%,601 680 zł,95,6 333 zł,MNiSW 2014
+HS1SP,A,Wydział Dziennikarstwa i Nauk Politycznych,Uniwersytet Warszawski,33,6,18%,994 305 zł,189,5 261 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Pedagogicznych,Dolnośląska Szkoła Wyższa,2,1,50%,308 544 zł,"62,25",4 957 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Pedagogicznych,"Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej",10,1,10%,410 865 zł,139,2 956 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Uniwersytet Wrocławski,35,4,11%,550 969 zł,202,2 728 zł,MNiSW 2014
+HS1SP,B,Wydział Stosowanych Nauk Społecznych,"Akademia Pedagogiki Specjalnej im. Marii Grzegorzewskiej",5,1,20%,238 160 zł,89,2 676 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Uniwersytet Gdański,24,1,4%,646 633 zł,256,2 526 zł,MNiSW 2014
+HS1SP,B,"Wydział Studiów Międzynarodowych i Politycznych",Uniwersytet Jagielloński,53,4,8%,383 424 zł,"185,83",2 063 zł,MNiSW 2014
+HS1SP,B,Wydział Politologii,Uniwersytet Marii Curie-Skłodowskiej,15,2,13%,187 850 zł,93,2 020 zł,MNiSW 2014
+HS1SP,A,Wydział Psychologii,Wyższa Szkoła Finansów i Zarządzania w Warszawie,7,1,14%,68 445 zł,37,1 850 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Uniwersytet Papieski Jana Pawła II w Krakowie,3,1,33%,60 643 zł,38,1 596 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Historycznych i Społecznych,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",19,2,11%,193 493 zł,148,1 307 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiki i Psychologii,Uniwersytet Śląski w Katowicach,1,1,100%,174 200 zł,135,1 290 zł,MNiSW 2014
+HS1SP,B,Wydział Historyczno-Pedagogiczny,Uniwersytet Opolski,8,1,13%,208 520 zł,167,1 249 zł,MNiSW 2014
+HS1SP,B,Wydział Filozofii i Socjologii,Uniwersytet Marii Curie-Skłodowskiej,5,1,20%,84 240 zł,82,1 027 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Uniwersytet Śląski w Katowicach,31,1,3%,77 930 zł,166,469 zł,MNiSW 2014
+HS1SP,B,Wydział Administracji i Nauk Społecznych,Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,1,0,0%,0 zł,45,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych i Dziennikarstwa,Dolnośląska Szkoła Wyższa,1,0,0%,0 zł,33,0 zł,MNiSW 2014
+HS1SP,B,"Wydział Zamiejscowy Nauk o Społeczeństwie w Stalowej Woli",Katolicki Uniwersytet Lubelski Jana Pawła II,1,0,0%,0 zł,93,0 zł,MNiSW 2014
+HS1SP,B,Wydział Politologii,Wyższa Szkoła Finansów i Zarządzania w Warszawie,1,0,0%,0 zł,11,0 zł,MNiSW 2014
+HS1SP,B,Wydział Studiów nad Rodziną,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",1,0,0%,0 zł,17,0 zł,MNiSW 2014
+HS1SP,B,Centrum Europejskie,Uniwersytet Warszawski,1,0,0%,0 zł,28,0 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiczny,Akademia Ignatianum w Krakowie,1,0,0%,0 zł,102,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk o Bezpieczeństwie,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",1,0,0%,0 zł,15,0 zł,MNiSW 2014
+HS1SP,B,"Filia w Piotrkowie Trybunalskim Wydział Nauk Społecznych",Uniwersytet Jana Kochanowskiego w Kielcach,1,0,0%,0 zł,53,0 zł,MNiSW 2014
+HS1SP,B,Wydział Filologiczno-Pedagogiczny,"Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu",1,0,0%,0 zł,31,0 zł,MNiSW 2014
+HS1SP,C,Wydział Studiów Społecznych w Poznaniu,Wyższa Szkoła Bezpieczeństwa,1,0,0%,0 zł,41,0 zł,MNiSW 2014
+HS1SP,B,Wydział Humanistyczny,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",2,0,0%,0 zł,"47,5",0 zł,MNiSW 2014
+HS1SP,B,Wydział Psychologii i Nauk Humanistycznych,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",2,0,0%,0 zł,53,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Humanistycznych i Społecznych,"Akademia Marynarki Wojennej im. Bohaterów Westerplatte",2,0,0%,0 zł,19,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Pedagogicznych,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",2,0,0%,0 zł,32,0 zł,MNiSW 2014
+HS1SP,B,Wydział Administracji i Nauk Społecznych,Uniwersytet Kazimierza Wielkiego,2,0,0%,0 zł,54,0 zł,MNiSW 2014
+HS1SP,A,Wydział Zarządzania i Dowodzenia,Akademia Obrony Narodowej,2,0,0%,0 zł,105,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",2,0,0%,0 zł,54,0 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiczny,Akademia im. Jana Długosza w Częstochowie,2,0,0%,0 zł,"72,16",0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk o Bezpieczeństwie,"Wyższa Szkoła Oficerska Wojsk Lądowych im. Generała Tadeusza Kościuszki we Wrocławiu",2,0,0%,0 zł,36,0 zł,MNiSW 2014
+HS1SP,B,Wydział Administracji i Nauk Społecznych,Politechnika Warszawska,3,0,0%,0 zł,"57,9",0 zł,MNiSW 2014
+HS1SP,B,"Wydział Pedagogiki, Socjologii i Nauk o Zdrowiu",Uniwersytet Zielonogórski,4,0,0%,0 zł,106,0 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiczny,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",4,0,0%,0 zł,172,0 zł,MNiSW 2014
+HS1SP,B,Wydział Zarządzania i Komunikacji Społecznej,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",4,0,0%,0 zł,43,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk o Wychowaniu,Uniwersytet Łódzki,5,0,0%,0 zł,111,0 zł,MNiSW 2014
+HS1SP,A,"",Collegium Civitas,5,0,0%,0 zł,30,0 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiki i Psychologii,Uniwersytet Marii Curie-Skłodowskiej,6,0,0%,0 zł,119,0 zł,MNiSW 2014
+HS1SP,B,Wydział Humanistyczny,"Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",6,0,0%,0 zł,147,0 zł,MNiSW 2014
+HS1SP,B,Wydział Pedagogiki i Psychologii,Uniwersytet w Białymstoku,8,0,0%,0 zł,96,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Akademia im. Jana Długosza w Częstochowie,8,0,0%,0 zł,53,0 zł,MNiSW 2014
+HS1SP,B,Wydział Nauk Społecznych,Uniwersytet Warmińsko-Mazurski w Olsztynie,9,0,0%,0 zł,121,0 zł,MNiSW 2014
+HS1SP,A,Wydział Studiów Edukacyjnych,Uniwersytet im. Adama Mickiewicza w Poznaniu,10,0,0%,0 zł,123,0 zł
+HS1SP,B,Wydział Pedagogiczny,Uniwersytet Warszawski,10,0,0%,0 zł,51,0 zł
+HS1SP,B,Wydział Pedagogiki i Psychologii,Uniwersytet Kazimierza Wielkiego,11,0,0%,0 zł,90,0 zł
+HS1SP,B,"Wydział Etnologii i Nauk o Edukacji w Cieszynie",Uniwersytet Śląski w Katowicach,13,0,0%,0 zł,84,0 zł
+HS1SP,A,Wydział Nauk Pedagogicznych,Uniwersytet Mikołaja Kopernika w Toruniu,13,0,0%,0 zł,"51,5",0 zł
+HS1SP,B,"Instytut Spraw Społecznych i Stosunków Międzynarodowych",Akademia Finansów i Biznesu Vistula,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1SP,B,Wydział Nauk Humanistycznych i Społecznych,Wyższa Szkoła Administracji w Bielsku-Białej,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1SP,B,"",Wyższa Szkoła Humanitas,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS1SP,C,"",Wyższa Szkoła Promocji,6,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+HS2EK,A,"",Instytut Rozwoju Wsi i Rolnictwa PAN,9,3,33%,976 403 zł,"22,35",43 687 zł
+HS2EK,B,"",Instytut Nauk Ekonomicznych PAN,7,2,29%,500 000 zł,26,19 231 zł
+HS2FB,A,"",Instytut Slawistyki PAN,14,3,21%,1 749 673 zł,"64,16",27 270 zł
+HS2FB,A+,"",Instytut Badań Literackich PAN,21,4,19%,812 449 zł,"101,5",8 004 zł
+HS2FB,A,"",Instytut Języka Polskiego PAN,15,1,7%,227 610 zł,76,2 995 zł
+HS2HS,A,"",Instytut Archeologii i Etnologii PAN,38,14,37%,5 547 125 zł,"127,4",43 541 zł
+HS2HS,B,"","Instytut Kultur Śródziemnomorskich i Orientalnych PAN",4,1,25%,477 525 zł,"24,35",19 611 zł
+HS2HS,A+,"",Instytut Sztuki PAN,10,3,30%,448 649 zł,"57,5",7 803 zł
+HS2HS,A,"","Instytut Historii Nauki im. Ludwika i Aleksandra Birkenmajerów PAN",6,2,33%,245 500 zł,33,7 439 zł
+HS2HS,A+,"",Instytut Historii im. Tadeusza Manteuffla PAN,22,6,27%,767 760 zł,"113,75",6 750 zł
+HS2PR,A,"",Instytut Nauk Prawnych PAN,21,6,29%,1 278 690 zł,63,20 297 zł
+HS2SP,A,"",Instytut Studiów Politycznych PAN,16,3,19%,2 248 308 zł,76,29 583 zł
+HS2SP,A+,"",Instytut Filozofii i Socjologii PAN,31,4,13%,1 054 261 zł,62,17 004 zł
+HS2SP,A,"",Instytut Psychologii PAN,12,1,8%,98 090 zł,30,3 270 zł
+HS3EK,A,"",Instytut Pracy i Spraw Socjalnych,6,1,17%,287 208 zł,46,6 244 zł
+HS3EK,B,"","Instytut Badań Rynku, Konsumpcji i Koniunktur",4,0,0%,0 zł,"34,5",0 zł
+HS3HS,A,"","Instytut Zachodni - Instytut Naukowo-Badawczy im. Zygmunta Wojciechowskiego",7,1,14%,70 000 zł,18,3 889 zł
+HS3HS,B,"","Państwowy Instytut Naukowy - Instytut Śląski w Opolu",1,0,0%,0 zł,18,0 zł
+HS3HS,B,"",Instytut Europy Środkowo-Wschodniej,3,0,0%,0 zł,7,0 zł
+HS3SP,B,"",Instytut Badań Edukacyjnych,4,0,0%,0 zł,"58,15",0 zł
+NZ1B,A+,"Wydział Biochemii, Biofizyki i Biotechnologii",Uniwersytet Jagielloński,62,18,29%,17 260 687 zł,158,109 245 zł
+NZ1B,A+,Wydział Biotechnologii,Uniwersytet Wrocławski,46,12,26%,5 124 088 zł,52,98 540 zł
+NZ1B,A,Wydział Biologii,Uniwersytet im. Adama Mickiewicza w Poznaniu,74,21,28%,12 030 744 zł,210,57 289 zł
+NZ1B,A,Wydział Biologii,Uniwersytet Gdański,46,10,22%,6 396 852 zł,"138,28",46 260 zł
+NZ1B,A,Wydział Biologii,Uniwersytet Warszawski,68,18,26%,8 209 729 zł,185,44 377 zł
+NZ1B,A,Wydział Biologii i Ochrony Środowiska,Uniwersytet Łódzki,75,17,23%,5 698 898 zł,200,28 494 zł
+NZ1B,B,Wydział Biologii i Biotechnologii,Uniwersytet Marii Curie-Skłodowskiej,27,5,19%,2 816 730 zł,125,22 534 zł
+NZ1B,A,Wydział Biologii i Nauk o Ziemi,Uniwersytet Jagielloński,75,14,19%,5 428 086 zł,"256,35",21 175 zł
+NZ1B,A,"Międzyuczelniany Wydział Biotechnologii Uniwersytetu Gdańskiego i Gdańskiego","Uniwersytet GdańskiGdański Uniwersytet Medyczny",40,8,20%,1 303 577 zł,"67,75",19 241 zł
+NZ1B,A,"Pozawydziałowy Zamiejscowy Instytut Biotechnologii Stosowanej i Nauk",Uniwersytet Rzeszowski,18,1,6%,488 402 zł,27,18 089 zł
+NZ1B,B,Wydział Biologii i Ochrony Środowiska,Uniwersytet Mikołaja Kopernika w Toruniu,30,5,17%,1 778 930 zł,103,17 271 zł
+NZ1B,A,Wydział Biologii i Ochrony Środowiska,Uniwersytet Śląski w Katowicach,33,7,21%,1 681 588 zł,130,12 935 zł
+NZ1B,A,Wydział Biologiczno-Chemiczny,Uniwersytet w Białymstoku,44,6,14%,1 466 163 zł,"117,7",12 457 zł
+NZ1B,A,Wydział Nauk Biologicznych,Uniwersytet Wrocławski,19,3,16%,1 227 455 zł,119,10 315 zł
+NZ1B,A,Wydział Biologii i Biotechnologii,Uniwersytet Warmińsko-Mazurski w Olsztynie,25,3,12%,293 275 zł,79,3 712 zł
+NZ1B,B,Wydział Nauk Biologicznych,Uniwersytet Zielonogórski,2,1,50%,148 760 zł,41,3 628 zł
+NZ1B,B,Wydział Nauk Przyrodniczych,Uniwersytet Kazimierza Wielkiego,2,0,0%,0 zł,44,0 zł
+NZ1B,B,Wydział Biologii i Nauk o Środowisku,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",3,0,0%,0 zł,30,0 zł
+NZ1B,C,Wydział Matematyczno-Przyrodniczy,Akademia Pomorska w Słupsku,6,0,0%,0 zł,87,0 zł
+NZ1B,B,Wydział Biologii,Uniwersytet Szczeciński,9,0,0%,0 zł,77,0 zł
+NZ1B,B,Wydział Biotechnologii i Nauk o Środowisku,Katolicki Uniwersytet Lubelski Jana Pawła II,11,0,0%,0 zł,73,0 zł
+NZ1B,C,Wydział Geograficzno-Biologiczny,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",14,0,0%,0 zł,116,0 zł
+NZ1M,A,Wydział Nauk o Zdrowiu,"Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",6,1,17%,1 890 681 zł,86,21 985 zł
+NZ1M,A,"Wydział Lekarsko-Biotechnologiczny i Medycyny Laboratoryjnej",Pomorski Uniwersytet Medyczny w Szczecinie,14,4,29%,1 199 793 zł,"58,88",20 377 zł
+NZ1M,A,I Wydział Lekarski,Warszawski Uniwersytet Medyczny,104,18,17%,11 458 290 zł,"582,08",19 685 zł
+NZ1M,A,Wydział Farmaceutyczny CM,Uniwersytet Jagielloński,50,9,18%,2 949 489 zł,"159,5",18 492 zł
+NZ1M,A,"Wydział Nauk Biomedycznych i Kształcenia Podyplomowego",Uniwersytet Medyczny w Łodzi,23,3,13%,811 250 zł,"54,5",14 885 zł
+NZ1M,A,"Wydział Farmaceutyczny z Oddziałem Analityki Medycznej",Uniwersytet Medyczny w Lublinie,13,4,31%,2 253 871 zł,"160,8",14 017 zł
+NZ1M,A,"Wydział Nauki o Zdrowiu z Oddziałem Pielęgniarstwa, Oddziałem Zdrowia",Warszawski Uniwersytet Medyczny,5,2,40%,1 491 115 zł,114,13 080 zł
+NZ1M,A,Wydział Lekarski,Uniwersytet Medyczny w Łodzi,66,12,18%,4 781 528 zł,"375,81",12 723 zł
+NZ1M,A,Wydział Lekarski CM,Uniwersytet Jagielloński,108,18,17%,9 549 189 zł,"800,67",11 926 zł
+NZ1M,B,Wydział Fizjoterapii,Akademia Wychowania Fizycznego we Wrocławiu,5,1,20%,542 584 zł,53,10 237 zł
+NZ1M,B,"",Centrum Medyczne Kształcenia Podyplomowego,12,2,17%,1 483 118 zł,170,8 724 zł
+NZ1M,A+,"Wydział Farmaceutyczny z Oddziałem Medycyny Laboratoryjnej",Gdański Uniwersytet Medyczny,20,5,25%,1 143 850 zł,"132,25",8 649 zł
+NZ1M,A,Wydział Farmaceutyczny,"Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu",57,4,7%,1 191 990 zł,141,8 454 zł
+NZ1M,A,"II Wydział Lekarski z Oddziałem Anglojęzycznym",Uniwersytet Medyczny w Lublinie,25,4,16%,3 437 713 zł,427,8 051 zł
+NZ1M,A,Wydział Lekarski II,"Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu",40,5,13%,3 759 150 zł,"467,9",8 034 zł
+NZ1M,B,Wydział Lekarski,"Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",32,4,13%,2 348 273 zł,302,7 776 zł
+NZ1M,A,"Wydział Farmaceutyczny z Oddziałem Medycyny Laboratoryjnej",Warszawski Uniwersytet Medyczny,28,4,14%,1 301 680 zł,173,7 524 zł
+NZ1M,A,Wydział Farmaceutyczny,Uniwersytet Medyczny w Łodzi,26,2,8%,669 570 zł,91,7 358 zł
+NZ1M,A+,"Wydział Farmaceutyczny z Oddziałem Medycyny Laboratoryjnej",Uniwersytet Medyczny w Białymstoku,11,1,9%,837 668 zł,"123,5",6 783 zł
+NZ1M,B,Wydział Wojskowo-Lekarski,Uniwersytet Medyczny w Łodzi,28,1,4%,1 168 700 zł,226,5 171 zł
+NZ1M,A,"Wydział Nauk o Zdrowiu z Oddziałem Pielęgniarstwa i Instytutem Medycyny",Gdański Uniwersytet Medyczny,23,2,9%,652 540 zł,"158,28",4 123 zł
+NZ1M,A,Wydział Nauk o Zdrowiu CM,Uniwersytet Jagielloński,13,2,15%,620 698 zł,"153,5",4 044 zł
+NZ1M,A,Wydział Lekarski Kształcenia Podyplomowego,"Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu",28,3,11%,1 079 602 zł,316,3 416 zł
+NZ1M,A,Wydział Farmaceutyczny CM,Uniwersytet Mikołaja Kopernika w Toruniu,15,3,20%,329 577 zł,"109,91",2 999 zł
+NZ1M,A,Wydział Lekarski,Gdański Uniwersytet Medyczny,55,3,5%,1 432 818 zł,"524,75",2 730 zł
+NZ1M,A,"Wydział Lekarski z Oddziałem Nauczania w Języku Angielskim",Pomorski Uniwersytet Medyczny w Szczecinie,17,2,12%,550 550 zł,"211,08",2 608 zł
+NZ1M,A,"Wydział Lekarski z Oddziałem Stomatologii i Oddziałem Nauczania w Języku Angielskim",Uniwersytet Medyczny w Białymstoku,14,2,14%,928 942 zł,373,2 490 zł
+NZ1M,B,"Wydział Wychowania Fizycznego, Sportu i Rehabilitacji","Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu",5,1,20%,293 240 zł,148,1 981 zł
+NZ1M,A,Wydział Nauk o Zdrowiu,Uniwersytet Medyczny w Łodzi,22,1,5%,190 750 zł,121,1 576 zł
+NZ1M,C,"Wydział Kultury Fizycznej, Zdrowia i Turystyki",Uniwersytet Kazimierza Wielkiego,2,1,50%,51 900 zł,51,1 018 zł
+NZ1M,A,Wydział Lekarski w Katowicach,Śląski Uniwersytet Medyczny w Katowicach,16,1,6%,150 000 zł,"292,13",513 zł
+NZ1M,B,"",Wyższa Szkoła Gospodarki w Bydgoszczy,1,0,0%,0 zł,172,0 zł
+NZ1M,B,Wydział Turystyki i Rekreacji,"Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu",1,0,0%,0 zł,25,0 zł
+NZ1M,C,Wydział Turystyki i Rekreacji,"Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie",1,0,0%,0 zł,37,0 zł
+NZ1M,B,Wydział Nauk o Sporcie,Akademia Wychowania Fizycznego we Wrocławiu,1,0,0%,0 zł,34,0 zł
+NZ1M,A,Wydział Nauk o Zdrowiu,Uniwersytet Medyczny w Białymstoku,1,0,0%,0 zł,"121,18",0 zł
+NZ1M,C,Wydział Turystyki i Rekreacji,"Akademia Wychowania Fizycznego im. Bronisława Czecha w Krakowie",1,0,0%,0 zł,40,0 zł
+NZ1M,B,"","Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży",1,0,0%,0 zł,44,0 zł
+NZ1M,B,Wydział Wychowania Fizycznego,"Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie",2,0,0%,0 zł,54,0 zł
+NZ1M,B,Wydział Nauk o Zdrowiu,Uniwersytet Jana Kochanowskiego w Kielcach,2,0,0%,0 zł,"92,5",0 zł
+NZ1M,B,Wydział Fizjoterapii,"Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",2,0,0%,0 zł,36,0 zł
+NZ1M,B,Wydział Zdrowia Publicznego,Śląski Uniwersytet Medyczny w Katowicach,2,0,0%,0 zł,60,0 zł
+NZ1M,C,Wydział Wychowania Fizycznego i Fizjoterapii,Politechnika Opolska,2,0,0%,0 zł,70,0 zł
+NZ1M,B,Wydział Nauk o Zdrowiu CM,Uniwersytet Mikołaja Kopernika w Toruniu,2,0,0%,0 zł,"189,09",0 zł
+NZ1R,A,Wydział Hodowli i Biologii Zwierząt,Uniwersytet Przyrodniczy w Poznaniu,24,4,17%,2 785 666 zł,114,24 436 zł
+NZ1R,A,Wydział Biologii i Hodowli Zwierząt,Uniwersytet Przyrodniczy we Wrocławiu,14,2,14%,1 510 020 zł,81,18 642 zł
+NZ1R,B,Wydział Hodowli i Biologii Zwierząt,"Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",11,2,18%,1 394 283 zł,83,16 799 zł
+NZ1R,B,Wydział Ogrodniczy,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",10,1,10%,1 498 584 zł,108,13 876 zł
+NZ1R,A,Wydział Technologii Drewna,Uniwersytet Przyrodniczy w Poznaniu,19,1,5%,798 452 zł,"69,5",11 489 zł
+NZ1R,A,Wydział Bioinżynierii Zwierząt,Uniwersytet Warmińsko-Mazurski w Olsztynie,4,1,25%,796 159 zł,74,10 759 zł
+NZ1R,A,Wydział Nauk o Żywności i Żywieniu,Uniwersytet Przyrodniczy w Poznaniu,21,2,10%,1 310 776 zł,131,10 006 zł
+NZ1R,A,Wydział Medycyny Weterynaryjnej,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",20,3,15%,1 560 380 zł,168,9 288 zł
+NZ1R,B,Wydział Hodowli i Biologii Zwierząt,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",16,2,13%,789 926 zł,90,8 777 zł
+NZ1R,B,"Wydział Ogrodnictwa i Architektury Krajobrazu",Uniwersytet Przyrodniczy w Poznaniu,7,1,14%,857 500 zł,98,8 750 zł
+NZ1R,A,Wydział Biotechnologii i Nauk o Żywności,Politechnika Łódzka,18,4,22%,883 120 zł,103,8 574 zł
+NZ1R,A,Wydział Nauk o Środowisku,Uniwersytet Warmińsko-Mazurski w Olsztynie,35,2,6%,633 350 zł,75,8 445 zł
+NZ1R,A,Wydział Technologii Żywności,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",21,1,5%,668 610 zł,104,6 429 zł
+NZ1R,A,Wydział Rolnictwa i Biologii,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",11,1,9%,605 084 zł,"105,25",5 749 zł
+NZ1R,B,Wydział Biologiczno-Rolniczy,Uniwersytet Rzeszowski,11,1,9%,645 720 zł,117,5 519 zł
+NZ1R,B,Wydział Przyrodniczo-Technologiczny,Uniwersytet Przyrodniczy we Wrocławiu,28,6,21%,1 020 004 zł,"197,55",5 163 zł
+NZ1R,A,Wydział Medycyny Weterynaryjnej,Uniwersytet Przyrodniczy we Wrocławiu,10,1,10%,579 960 zł,122,4 754 zł
+NZ1R,B,Wydział Rolnictwa i Biotechnologii,"Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",4,1,25%,469 381 zł,100,4 694 zł
+NZ1R,A,Wydział Kształtowania Środowiska i Rolnictwa,Uniwersytet Warmińsko-Mazurski w Olsztynie,17,1,6%,682 500 zł,149,4 581 zł
+NZ1R,A,Wydział Nauki o Żywności,Uniwersytet Warmińsko-Mazurski w Olsztynie,14,1,7%,375 000 zł,104,3 606 zł
+NZ1R,B,Wydział Rolniczo-Ekonomiczny,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",7,1,14%,452 914 zł,161,2 813 zł
+NZ1R,B,Wydział Biotechnologii i Hodowli Zwierząt,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",6,1,17%,99 840 zł,"64,5",1 548 zł
+NZ1R,B,Wydział Medycyny Weterynaryjnej,Uniwersytet Przyrodniczy w Lublinie,7,1,14%,149 500 zł,119,1 256 zł
+NZ1R,A,Wydział Nauk o Żywności i Biotechnologii,Uniwersytet Przyrodniczy w Lublinie,10,1,10%,99 902 zł,81,1 233 zł
+NZ1R,A,Wydział Nauk o Żywności,Uniwersytet Przyrodniczy we Wrocławiu,14,1,7%,74 928 zł,"113,6",660 zł
+NZ1R,B,Zamiejscowy Wydział Leśny w Hajnówce,Politechnika Białostocka,1,0,0%,0 zł,10,0 zł
+NZ1R,B,Wydział Inżynierii Produkcji,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",1,0,0%,0 zł,56,0 zł
+NZ1R,C,Wydział Nauk Rolniczych w Zamościu,Uniwersytet Przyrodniczy w Lublinie,1,0,0%,0 zł,24,0 zł
+NZ1R,B,Wydział Technologii Drewna,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",2,0,0%,0 zł,56,0 zł
+NZ1R,B,Wydział Kształtowania Środowiska i Rolnictwa,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",3,0,0%,0 zł,"102,25",0 zł
+NZ1R,B,Wydział Leśny,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",3,0,0%,0 zł,75,0 zł
+NZ1R,B,Wydział Nauk o Żywności i Rybactwa,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",3,0,0%,0 zł,"69,5",0 zł
+NZ1R,B,Wydział Leśny,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",4,0,0%,0 zł,86,0 zł
+NZ1R,B,"Wydział Nauk o Żywieniu Człowieka i Konsumpcji","Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",4,0,0%,0 zł,117,0 zł
+NZ1R,B,Wydział Biologii i Hodowli Zwierząt,Uniwersytet Przyrodniczy w Lublinie,4,0,0%,0 zł,133,0 zł
+NZ1R,B,Wydział Inżynierii Produkcji i Energetyki,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",4,0,0%,0 zł,59,0 zł
+NZ1R,B,Wydział Agrobioinżynierii,Uniwersytet Przyrodniczy w Lublinie,5,0,0%,0 zł,123,0 zł
+NZ1R,B,Wydział Przyrodniczy,"Uniwersytet Przyrodniczo-Humanistyczny w Siedlcach",5,0,0%,0 zł,141,0 zł
+NZ1R,B,Wydział Melioracji i Inżynierii Środowiska,Uniwersytet Przyrodniczy w Poznaniu,6,0,0%,0 zł,77,0 zł
+NZ1R,B,Wydział Nauk Technicznych,Uniwersytet Warmińsko-Mazurski w Olsztynie,7,0,0%,0 zł,88,0 zł
+NZ1R,B,Wydział Inżynierii Produkcji,Uniwersytet Przyrodniczy w Lublinie,8,0,0%,0 zł,143,0 zł
+NZ1R,B,"Wydział Ogrodnictwa i Architektury Krajobrazu",Uniwersytet Przyrodniczy w Lublinie,8,0,0%,0 zł,110,0 zł
+NZ1R,B,Wydział Rolnictwa i Bioinżynierii,Uniwersytet Przyrodniczy w Poznaniu,10,0,0%,0 zł,147,0 zł
+NZ1R,B,Wydział Inżynierii Środowiska i Geodezji,"Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",10,0,0%,0 zł,107,0 zł
+NZ1R,A,Wydział Nauk o Żywności,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",11,0,0%,0 zł,90,0 zł
+NZ1R,A,Wydział Nauk o Zwierzętach,"Szkoła Główna Gospodarstwa Wiejskiego w Warszawie",14,0,0%,0 zł,75,0 zł
+NZ1R,A,Wydział Medycyny Weterynaryjnej,Uniwersytet Warmińsko-Mazurski w Olsztynie,15,0,0%,0 zł,93,0 zł
+NZ1Z,A,Wydział Nauk Geograficznych i Geologicznych,Uniwersytet im. Adama Mickiewicza w Poznaniu,60,9,15%,4 658 054 zł,"161,33",28 873 zł
+NZ1Z,B,Wydział Oceanografii i Geografii,Uniwersytet Gdański,27,3,11%,1 870 672 zł,"141,42",13 228 zł
+NZ1Z,B,Wydział Nauk o Ziemi,Uniwersytet Szczeciński,22,3,14%,768 458 zł,68,11 301 zł
+NZ1Z,B,Wydział Nauk Geograficznych,Uniwersytet Łódzki,7,2,29%,708 100 zł,83,8 531 zł
+NZ1Z,B,"Wydział Nauk o Ziemi i Kształtowania Środowiska",Uniwersytet Wrocławski,16,2,13%,890 470 zł,109,8 169 zł
+NZ1Z,B,Wydział Geografii i Studiów Regionalnych,Uniwersytet Warszawski,14,2,14%,528 034 zł,"79,5",6 642 zł
+NZ1Z,A,"Wydział Geologii, Geofizyki i Ochrony Środowiska","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",25,6,24%,1 034 449 zł,202,5 121 zł
+NZ1Z,A,Wydział Geologii,Uniwersytet Warszawski,8,1,13%,99 133 zł,86,1 153 zł
+NZ1Z,B,"Wydział Nauk o Ziemi i Gospodarki Przestrzennej",Uniwersytet Marii Curie-Skłodowskiej,3,0,0%,0 zł,"97,5",0 zł
+NZ1Z,B,Wydział Nauk o Ziemi,Uniwersytet Mikołaja Kopernika w Toruniu,4,0,0%,0 zł,"60,5",0 zł
+NZ2B,A,"",Instytut Biologii Ssaków PAN,10,6,60%,4 176 478 zł,26,160 634 zł
+NZ2B,A+,"","Międzynarodowy Instytut Biologii Molekularnej i Komórkowej",14,6,43%,11 780 838 zł,81,145 442 zł
+NZ2B,A,"",Instytut Chemii Bioorganicznej PAN,41,11,27%,14 295 860 zł,"102,2",139 881 zł
+NZ2B,A,"",Instytut Farmakologii PAN,43,19,44%,12 575 319 zł,"132,9",94 622 zł
+NZ2B,A+,"",Instytut Biochemii i Biofizyki PAN,81,21,26%,12 577 870 zł,"134,6",93 446 zł
+NZ2B,A,"","Instytut Biologii Doświadczalnej im. M. Nenckiego PAN",82,20,24%,11 396 932 zł,156,73 057 zł
+NZ2B,B,"",Instytut Biologii Medycznej PAN,28,5,18%,2 295 532 zł,"33,95",67 615 zł
+NZ2B,A,"",Instytut Genetyki Człowieka PAN,32,7,22%,3 292 956 zł,"57,5",57 269 zł
+NZ2B,A,"",Instytut Botaniki im. Władysława Szafera PAN,13,4,31%,2 024 556 zł,71,28 515 zł
+NZ2B,A,"","Instytut Immunologii i Terapii Doświadczalnej im. Ludwika Hirszfelda PAN",50,6,12%,4 329 850 zł,"158,1",27 387 zł
+NZ2B,A,"",Instytut Systematyki i Ewolucji Zwierząt PAN,8,1,13%,655 800 zł,28,23 421 zł
+NZ2B,A,"","Instytut Medycyny Doświadczalnej i Klinicznej im. Mirosława Mossakowskiego PAN",35,6,17%,2 514 598 zł,"184,16",13 654 zł
+NZ2B,A,"",Muzeum i Instytut Zoologii PAN,18,3,17%,531 839 zł,"41,5",12 815 zł
+NZ2B,A,"",Instytut Paleobiologii im. Romana Kozłowskiego PAN,6,2,33%,229 280 zł,18,12 738 zł
+NZ2B,A,"",Instytut Ochrony Przyrody PAN,19,2,11%,139 000 zł,"34,5",4 029 zł
+NZ2B,B,"",Instytut Parazytologii im. Witolda Stefańskiego PAN,7,0,0%,0 zł,33,0 zł
+NZ2R,A,"",Instytut Nauk Geologicznych PAN,8,5,63%,5 471 573 zł,"76,05",71 947 zł
+NZ2R,B,"","Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego PAN",14,3,21%,2 050 368 zł,62,33 070 zł
+NZ2R,A+,"",Instytut Rozrodu Zwierząt i Badań Żywności PAN,30,11,37%,3 971 930 zł,"136,6",29 077 zł
+NZ2R,A,"",Instytut Dendrologii PAN,4,2,50%,1 122 560 zł,45,24 946 zł
+NZ2R,B,"","Instytut Geografii i Przestrzennego Zagospodarowania im. S. Leszczyckiego PAN",20,5,25%,1 382 123 zł,"75,4",18 331 zł
+NZ2R,A,"",Instytut Geofizyki PAN,14,4,29%,1 194 377 zł,"66,35",18 001 zł
+NZ2R,A,"",Instytut Oceanologii PAN,28,4,14%,1 256 692 zł,"92,53",13 581 zł
+NZ2R,A,"",Instytut Genetyki i Hodowli Zwierząt PAN,22,2,9%,786 617 zł,"63,16",12 454 zł
+NZ2R,B,"",Instytut Genetyki Roślin PAN,19,4,21%,736 764 zł,"60,63",12 152 zł
+NZ2R,A,"",Instytut Agrofizyki im. Bohdana Dobrzańskiego PAN,22,2,9%,377 150 zł,58,6 503 zł
+NZ2R,C,"",Instytut Podstaw Inżynierii Środowiska PAN,4,1,25%,99 800 zł,"37,66",2 650 zł
+NZ2R,A,"","Instytut Fizjologii Roślin im. Franciszka Górskiego PAN",8,0,0%,0 zł,"39,13",0 zł
+NZ2R,B,"",Instytut Środowiska Rolniczego i Leśnego PAN,17,0,0%,0 zł,39,0 zł
+NZ3M,A,"","Instytut ""Centrum Zdrowia Matki Polki""",35,2,6%,1 555 825 zł,"44,54",34 931 zł
+NZ3M,A,"",Instytut Psychiatrii i Neurologii,15,2,13%,2 135 600 zł,"80,98",26 372 zł
+NZ3M,B,"",Narodowy Instytut Leków,14,5,36%,2 837 104 zł,"111,15",25 525 zł
+NZ3M,B,"","Wojskowy Instytut Higieny i Epidemiologii im. gen. Karola Kaczkowskiego",6,1,17%,1 144 780 zł,"48,5",23 604 zł
+NZ3M,A+,"",Instytut Fizjologii i Patologii Słuchu,9,1,11%,354 400 zł,16,22 150 zł
+NZ3M,B,"",Instytut Matki i Dziecka,9,3,33%,1 028 110 zł,"49,1",20 939 zł
+NZ3M,A,"","Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera",12,2,17%,1 813 928 zł,"103,26",17 567 zł
+NZ3M,A,"",Wojskowy Instytut Medyczny,9,1,11%,1 370 657 zł,86,15 938 zł
+NZ3M,A,"","Centrum Onkologii - Instytut im. Marii Skłodowskiej-Curie",38,8,21%,5 298 320 zł,336,15 769 zł
+NZ3M,B,"",Instytut Hematologii i Transfuzjologii,8,2,25%,552 623 zł,40,13 816 zł
+NZ3M,A+,"","Instytut ""Pomnik - Centrum Zdrowia Dziecka""",11,2,18%,830 542 zł,"88,15",9 422 zł
+NZ3M,A,"","Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego",11,2,18%,299 499 zł,"70,9",4 224 zł
+NZ3M,B,"",Instytut Biotechnologii i Antybiotyków,1,0,0%,0 zł,"92,25",0 zł
+NZ3M,B,"",Instytut Farmaceutyczny,1,0,0%,0 zł,"133,23",0 zł
+NZ3M,B,"","Instytut Reumatologii im. prof. dr hab. med. Eleonory Reicher",2,0,0%,0 zł,"32,21",0 zł
+NZ3M,B,"",Instytut Gruźlicy i Chorób Płuc,2,0,0%,0 zł,"69,2",0 zł
+NZ3M,B,"",Instytut Sportu,3,0,0%,0 zł,"44,5",0 zł
+NZ3M,B,"",Wojskowy Instytut Medycyny Lotniczej,4,0,0%,0 zł,34,0 zł
+NZ3M,B,"",Instytut Medycyny Pracy i Zdrowia Środowiskowego,6,0,0%,0 zł,"40,92",0 zł
+NZ3M,A,"",Instytut Medycyny Wsi im. Witolda Chodźki,32,0,0%,0 zł,"52,58",0 zł
+NZ3R,A,"","Państwowy Instytut Weterynaryjny - Państwowy Instytut Badawczy",29,3,10%,2 638 447 zł,149,17 708 zł
+NZ3R,B,"","Instytut Hodowli i Aklimatyzacji Roślin - Państwowy Instytut Badawczy",12,4,33%,2 937 096 zł,"186,25",15 770 zł
+NZ3R,B,"","Instytut Ochrony Roślin - Państwowy Instytut Badawczy",18,4,22%,2 080 590 zł,180,11 559 zł
+NZ3R,B,"","Instytut Uprawy Nawożenia i Gleboznawstwa - Państwowy Instytut Badawczy",13,2,15%,1 034 800 zł,"93,5",11 067 zł
+NZ3R,A,"",Instytut Zootechniki - Państwowy Instytut Badawczy,10,1,10%,607 135 zł,"120,9",5 022 zł
+NZ3R,A,"","Instytut Ochrony Środowiska - Państwowy Instytut Badawczy",2,0,0%,0 zł,56,0 zł
+NZ3R,A,"","Morski Instytut Rybacki – Państwowy Instytut Badawczy",2,0,0%,0 zł,"60,65",0 zł
+NZ3R,B,"",Instytut Ekologii Terenów Uprzemysłowionych,3,0,0%,0 zł,46,0 zł
+NZ3R,B,"",Instytut Badawczy Leśnictwa,3,0,0%,0 zł,"149,37",0 zł
+NZ3R,B,"",Instytut Technologii Drewna,3,0,0%,0 zł,"59,15",0 zł
+NZ3R,A,"",Instytut Ogrodnictwa,4,0,0%,0 zł,"183,2",0 zł
+NZ3R,B,"","Instytut Biotechnologii Przemysłu Rolno-Spożywczego",4,0,0%,0 zł,"130,2",0 zł
+NZ3R,B,"",Instytut Włókien Naturalnych i Roślin Zielarskich,7,0,0%,0 zł,"82,95",0 zł
+NZ3R,B,"",Instytut Technologiczno-Przyrodniczy,11,0,0%,0 zł,"160,75",0 zł
+SI1BA,B,Wydział Budownictwa i Inżynierii Środowiska,Politechnika Białostocka,10,2,20%,1 292 180 zł,"134,5",9 607 zł
+SI1BA,A,Wydział Budownictwa i Architektury,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",8,2,25%,1 144 240 zł,"135,8",8 426 zł
+SI1BA,B,Wydział Inżynierii Lądowej,Politechnika Warszawska,10,1,10%,772 040 zł,120,6 434 zł
+SI1BA,B,Wydział Inżynierii Środowiska,Politechnika Warszawska,18,2,11%,752 528 zł,123,6 118 zł
+SI1BA,B,Wydział Architektury,Politechnika Gdańska,6,1,17%,125 000 zł,65,1 923 zł
+SI1BA,A,Wydział Architektury,Politechnika Wrocławska,13,1,8%,148 880 zł,132,1 128 zł
+SI1BA,B,Wydział Budownictwa,Politechnika Śląska,1,0,0%,0 zł,113,0 zł
+SI1BA,B,"Wydział Budownictwa, Mechaniki i Petrochemii",Politechnika Warszawska,1,0,0%,0 zł,"103,75",0 zł
+SI1BA,B,Wydział Inżynierii Lądowej i Środowiska,Uniwersytet Zielonogórski,2,0,0%,0 zł,94,0 zł
+SI1BA,B,Wydział Architektury,Politechnika Białostocka,2,0,0%,0 zł,"49,5",0 zł
+SI1BA,B,Wydział Architektury i Sztuk Pięknych,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego",2,0,0%,0 zł,25,0 zł
+SI1BA,C,"",Wyższa Szkoła Techniczna w Katowicach,2,0,0%,0 zł,94,0 zł
+SI1BA,B,"Wydział Inżynierii Lądowej, Środowiska i Geodezji",Politechnika Koszalińska,3,0,0%,0 zł,95,0 zł
+SI1BA,B,Wydział Budownictwa,Politechnika Częstochowska,3,0,0%,0 zł,59,0 zł
+SI1BA,B,"Wydział Budownictwa, Architektury i Inżynierii Środowiska","Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",3,0,0%,0 zł,99,0 zł
+SI1BA,A,Wydział Budownictwa,Politechnika Opolska,3,0,0%,0 zł,69,0 zł
+SI1BA,A,Wydział Budownictwa i Architektury,Politechnika Lubelska,4,0,0%,0 zł,80,0 zł
+SI1BA,A,Wydział Architektury,Politechnika Poznańska,4,0,0%,0 zł,44,0 zł
+SI1BA,B,Wydział Budownictwa i Inżynierii Środowiska,Politechnika Poznańska,6,0,0%,0 zł,147,0 zł
+SI1BA,A,Wydział Inżynierii Środowiska,Politechnika Wrocławska,7,0,0%,0 zł,"107,5",0 zł
+SI1BA,A,Wydział Architektury,Politechnika Krakowska im. Tadeusza Kościuszki,8,0,0%,0 zł,191,0 zł
+SI1BA,B,Wydział Budownictwa Lądowego i Wodnego,Politechnika Wrocławska,8,0,0%,0 zł,175,0 zł
+SI1BA,A,Wydział Inżynierii Lądowej i Środowiska,Politechnika Gdańska,9,0,0%,0 zł,"166,5",0 zł
+SI1BA,B,Wydział Inżynierii Środowiska,Politechnika Krakowska im. Tadeusza Kościuszki,11,0,0%,0 zł,"99,5",0 zł
+SI1BA,B,Wydział Budownictwa i Inżynierii Środowiska,Politechnika Rzeszowska im. Ignacego Łukasiewicza,11,0,0%,0 zł,128,0 zł
+SI1BA,A,"Wydział Budownictwa, Architektury i Inżynierii Środowiska",Politechnika Łódzka,13,0,0%,0 zł,"88,5",0 zł
+SI1BA,B,Wydział Inżynierii Lądowej,Politechnika Krakowska im. Tadeusza Kościuszki,13,0,0%,0 zł,239,0 zł
+SI1BA,B,Wydział Architektury,Politechnika Śląska,15,0,0%,0 zł,"70,5",0 zł
+SI1CT,A+,Centrum Nowych Technologii,Uniwersytet Warszawski,22,11,50%,8 263 805 zł,"41,15",200 822 zł
+SI1CT,A+,Wydział Chemii,Uniwersytet Jagielloński,78,24,31%,16 525 422 zł,156,105 932 zł
+SI1CT,A+,Wydział Chemii,Uniwersytet Warszawski,73,17,23%,10 380 299 zł,143,72 590 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Wrocławski,44,16,36%,8 013 655 zł,"111,5",71 871 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Łódzki,29,9,31%,4 925 520 zł,"78,7",62 586 zł
+SI1CT,A,Wydział Chemiczny,Politechnika Gdańska,103,13,13%,5 843 719 zł,138,42 346 zł
+SI1CT,A,Wydział Chemii,Uniwersytet im. Adama Mickiewicza w Poznaniu,93,15,16%,7 991 738 zł,204,39 175 zł
+SI1CT,A,Wydział Chemiczny,Politechnika Wrocławska,70,11,16%,7 240 137 zł,"218,43",33 146 zł
+SI1CT,A,"Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego",Uniwersytet Warszawski,9,1,11%,468 000 zł,16,29 250 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Mikołaja Kopernika w Toruniu,45,7,16%,2 159 941 zł,"91,5",23 606 zł
+SI1CT,A,Wydział Technologii Chemicznej,Politechnika Poznańska,28,6,21%,2 114 550 zł,92,22 984 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Gdański,54,6,11%,1 775 710 zł,"81,3",21 841 zł
+SI1CT,A,Wydział Chemiczny,Politechnika Śląska,53,7,13%,2 231 565 zł,105,21 253 zł
+SI1CT,A,Wydział Chemiczny,Politechnika Warszawska,44,9,20%,2 195 272 zł,"143,85",15 261 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Marii Curie-Skłodowskiej,28,1,4%,396 000 zł,160,2 475 zł
+SI1CT,A,Wydział Chemiczny,Politechnika Łódzka,31,2,6%,173 960 zł,"153,25",1 135 zł
+SI1CT,B,Instytut Papiernictwa i Poligrafii,Politechnika Łódzka,1,0,0%,0 zł,15,0 zł
+SI1CT,B,"",Szkoła Główna Służby Pożarniczej,1,0,0%,0 zł,154,0 zł
+SI1CT,A,Wydział Chemii,Uniwersytet Opolski,4,0,0%,0 zł,43,0 zł
+SI1EA,A,Wydział Informatyki,Politechnika Poznańska,17,7,41%,2 095 460 zł,95,22 057 zł
+SI1EA,A,Wydział Elektroniki i Telekomunikacji,Politechnika Poznańska,12,2,17%,1 081 282 zł,54,20 024 zł
+SI1EA,A,Wydział Elektroniki,Politechnika Wrocławska,20,7,35%,3 472 068 zł,"185,25",18 743 zł
+SI1EA,B,Wydział Informatyki Stosowanej,Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,2,1,50%,416 050 zł,"26,1",15 941 zł
+SI1EA,A+,Wydział Elektroniki Mikrosystemów i Fotoniki,Politechnika Wrocławska,21,1,5%,1 041 780 zł,"71,08",14 656 zł
+SI1EA,A,"Wydział Elektroniki, Telekomunikacji i Informatyki",Politechnika Gdańska,24,4,17%,1 954 181 zł,143,13 666 zł
+SI1EA,A,"Wydział Informatyki, Elektroniki i Telekomunikacji","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",20,4,20%,2 078 681 zł,"183,5",11 328 zł
+SI1EA,A,"Wydział Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",38,3,8%,1 950 880 zł,"225,83",8 639 zł
+SI1EA,B,"Wydział Elektrotechniki, Informatyki i Telekomunikacji",Uniwersytet Zielonogórski,11,1,9%,597 530 zł,71,8 416 zł
+SI1EA,B,Wydział Elektryczny,Politechnika Białostocka,3,1,33%,525 940 zł,69,7 622 zł
+SI1EA,A,Instytut Optoelektroniki,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",10,1,10%,757 200 zł,102,7 424 zł
+SI1EA,A,"Wydział Elektrotechniki, Elektroniki, Informatyki i Automatyki",Politechnika Łódzka,30,3,10%,1 379 190 zł,"207,2",6 656 zł
+SI1EA,A,"Wydział Automatyki, Elektroniki i Informatyki",Politechnika Śląska,29,3,10%,1 740 920 zł,"273,85",6 357 zł
+SI1EA,B,Wydział Informatyki i Zarządzania,Politechnika Wrocławska,19,4,21%,1 029 985 zł,"174,6",5 899 zł
+SI1EA,A+,Wydział Elektroniki i Technik Informacyjnych,Politechnika Warszawska,32,4,13%,1 479 430 zł,"265,55",5 571 zł
+SI1EA,B,"Wydział Elektrotechniki, Automatyki i Informatyki",Politechnika Opolska,4,1,25%,402 000 zł,84,4 786 zł
+SI1EA,A,Wydział Elektryczny,Politechnika Warszawska,12,1,8%,496 200 zł,"128,5",3 861 zł
+SI1EA,B,Wydział Elektrotechniki i Informatyki,Politechnika Rzeszowska im. Ignacego Łukasiewicza,5,1,20%,143 650 zł,108,1 330 zł
+SI1EA,B,"Wydział Elektrotechniki, Automatyki i Informatyki",Politechnika Świętokrzyska,1,0,0%,0 zł,67,0 zł
+SI1EA,B,Wydział Cybernetyki,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",1,0,0%,0 zł,111,0 zł
+SI1EA,B,"Wydział Telekomunikacji, Informatyki i Elektrotechniki","Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",2,0,0%,0 zł,52,0 zł
+SI1EA,B,Wydział Elektroniki,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",2,0,0%,0 zł,"91,75",0 zł
+SI1EA,B,Wydział Elektryczny,Akademia Morska w Gdyni,3,0,0%,0 zł,65,0 zł
+SI1EA,A,Wydział Elektryczny,Politechnika Wrocławska,3,0,0%,0 zł,88,0 zł
+SI1EA,B,Wydział Inżynierii Produkcji i Logistyki,Politechnika Opolska,5,0,0%,0 zł,88,0 zł
+SI1EA,B,Wydział Elektroniki i Informatyki,Politechnika Koszalińska,5,0,0%,0 zł,"42,75",0 zł
+SI1EA,B,Wydział Informatyki,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",7,0,0%,0 zł,"62,6",0 zł
+SI1EA,A,Wydział Elektryczny,Politechnika Częstochowska,7,0,0%,0 zł,"72,17",0 zł
+SI1EA,A,Wydział Elektrotechniki i Informatyki,Politechnika Lubelska,7,0,0%,0 zł,"95,5",0 zł
+SI1EA,B,Wydział Informatyki,Politechnika Białostocka,8,0,0%,0 zł,68,0 zł
+SI1EA,B,Wydział Elektryczny,Politechnika Śląska,9,0,0%,0 zł,127,0 zł
+SI1EA,B,Wydział Elektrotechniki i Automatyki,Politechnika Gdańska,13,0,0%,0 zł,93,0 zł
+SI1EA,A,Wydział Elektryczny,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",15,0,0%,0 zł,"82,1",0 zł
+SI1EA,B,Wydział Elektryczny,Politechnika Poznańska,25,0,0%,0 zł,152,0 zł
+SI1EA,C,"",Warszawska Wyższa Szkoła Informatyki,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+SI1FA,B,Środowiskowe Laboratorium Ciężkich Jonów,Uniwersytet Warszawski,2,2,100%,2 422 500 zł,29,83 534 zł
+SI1FA,A,Wydział Podstawowych Problemów Techniki,Politechnika Wrocławska,57,19,33%,11 407 061 zł,"192,66",59 208 zł
+SI1FA,A,Wydział Fizyki i Astronomii,Uniwersytet Wrocławski,30,5,17%,4 702 930 zł,"94,5",49 766 zł
+SI1FA,A+,Wydział Fizyki,Uniwersytet Warszawski,64,23,36%,10 046 139 zł,"241,38",41 620 zł
+SI1FA,A+,"Wydział Fizyki, Astronomii i Informatyki Stosowanej",Uniwersytet Jagielloński,73,19,26%,8 766 024 zł,"227,05",38 608 zł
+SI1FA,A,"Wydział Fizyki, Astronomii i Informatyki Stosowanej",Uniwersytet Mikołaja Kopernika w Toruniu,41,12,29%,5 108 550 zł,"137,5",37 153 zł
+SI1FA,A,Wydział Fizyki i Astronomii,Uniwersytet Zielonogórski,15,2,13%,799 000 zł,34,23 500 zł
+SI1FA,A,Wydział Fizyki,Politechnika Warszawska,29,5,17%,1 961 288 zł,"88,9",22 062 zł
+SI1FA,A+,Wydział Fizyki i Informatyki Stosowanej,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",31,7,23%,3 006 170 zł,144,20 876 zł
+SI1FA,B,"Wydział Matematyki, Fizyki i Informatyki",Uniwersytet Marii Curie-Skłodowskiej,24,7,29%,2 926 705 zł,"165,5",17 684 zł
+SI1FA,A,"Wydział Matematyki, Fizyki i Chemii",Uniwersytet Śląski w Katowicach,41,10,24%,3 396 307 zł,"220,5",15 403 zł
+SI1FA,A,Wydział Fizyki,Uniwersytet im. Adama Mickiewicza w Poznaniu,31,4,13%,2 209 735 zł,"152,3",14 509 zł
+SI1FA,B,"Wydział Matematyki, Fizyki i Techniki",Uniwersytet Kazimierza Wielkiego,9,2,22%,1 135 500 zł,96,11 828 zł
+SI1FA,A,Wydział Fizyki i Informatyki Stosowanej,Uniwersytet Łódzki,6,1,17%,360 620 zł,59,6 112 zł
+SI1FA,C,"Wydział Fizyki, Matematyki i Informatyki",Politechnika Krakowska im. Tadeusza Kościuszki,12,1,8%,253 800 zł,108,2 350 zł
+SI1FA,B,Wydział Fizyki Technicznej,Politechnika Poznańska,11,1,9%,99 970 zł,45,2 222 zł
+SI1FA,B,Wydział Matematyczno-Przyrodniczy,"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie",1,1,100%,92 292 zł,47,1 964 zł
+SI1FA,B,Wydział Matematyczno-Przyrodniczy,Uniwersytet Jana Kochanowskiego w Kielcach,23,1,4%,77 970 zł,161,484 zł
+SI1FA,B,"Wydział Matematyki, Fizyki i Informatyki",Uniwersytet Opolski,4,0,0%,0 zł,48,0 zł
+SI1FA,A,"Instytut Fizyki - Centrum Naukowo-Dydaktyczne",Politechnika Śląska,5,0,0%,0 zł,38,0 zł
+SI1FA,B,Wydział Matematyczno-Przyrodniczy,Uniwersytet Rzeszowski,7,0,0%,0 zł,"133,5",0 zł
+SI1FA,A,Wydział Fizyki,Uniwersytet w Białymstoku,8,0,0%,0 zł,35,0 zł
+SI1FA,B,"Wydział Fizyki Technicznej i Matematyki Stosowanej",Politechnika Gdańska,9,0,0%,0 zł,68,0 zł
+SI1FA,B,Wydział Matematyczno-Fizyczny,Uniwersytet Szczeciński,11,0,0%,0 zł,"44,5",0 zł
+SI1FA,B,Wydział Matematyczno-Przyrodniczy,Akademia im. Jana Długosza w Częstochowie,19,0,0%,0 zł,121,0 zł
+SI1GE,A,Wydział Inżynierii Środowiska i Energetyki,Politechnika Śląska,48,8,17%,4 276 439 zł,200,21 382 zł
+SI1GE,A,Wydział Mechaniczny Energetyki i Lotnictwa,Politechnika Warszawska,24,1,4%,1 036 620 zł,"133,7",7 753 zł
+SI1GE,B,Wydział Geodezji i Gospodarki Przestrzennej,Uniwersytet Warmińsko-Mazurski w Olsztynie,12,4,33%,912 653 zł,129,7 075 zł
+SI1GE,B,"Wydział Inżynierii Kształtowania Środowiska i Geodezji",Uniwersytet Przyrodniczy we Wrocławiu,15,1,7%,631 550 zł,144,4 386 zł
+SI1GE,A,Wydział Energetyki i Paliw,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",8,1,13%,109 232 zł,99,1 103 zł
+SI1GE,B,"Wydział Geodezji Górniczej i Inżynierii Środowiska","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",4,1,25%,99 463 zł,"114,17",871 zł
+SI1GE,B,Wydział Transportu i Elektrotechniki,"Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu",1,0,0%,0 zł,67,0 zł
+SI1GE,B,Wydział Nawigacyjny,Akademia Morska w Gdyni,1,0,0%,0 zł,43,0 zł
+SI1GE,B,"","Międzynarodowa Wyższa Szkoła Logistyki i Transportu we Wrocławiu",1,0,0%,0 zł,24,0 zł
+SI1GE,B,Wydział Nawigacyjny,Akademia Morska w Szczecinie,2,0,0%,0 zł,"80,5",0 zł
+SI1GE,B,Wydział Górnictwa i Geoinżynierii,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",2,0,0%,0 zł,"165,5",0 zł
+SI1GE,B,Wydział Inżynieryjno-Ekonomiczny Transportu,Akademia Morska w Szczecinie,3,0,0%,0 zł,49,0 zł
+SI1GE,A,"Wydział Wiertnictwa, Nafty i Gazu","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",4,0,0%,0 zł,58,0 zł
+SI1GE,B,Wydział Inżynierii Lądowej i Geodezji,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",6,0,0%,0 zł,"57,8",0 zł
+SI1GE,A,Wydział Maszyn Roboczych i Transportu,Politechnika Poznańska,7,0,0%,0 zł,"132,5",0 zł
+SI1GE,B,Wydział Górnictwa i Geologii,Politechnika Śląska,10,0,0%,0 zł,"142,5",0 zł
+SI1GE,B,Wydział Transportu,Politechnika Warszawska,12,0,0%,0 zł,77,0 zł
+SI1IM,A+,Wydział Inżynierii Materiałowej,Politechnika Warszawska,28,9,32%,5 349 835 zł,41,130 484 zł
+SI1IM,A,Wydział Inżynierii Chemicznej i Procesowej,Politechnika Warszawska,31,8,26%,2 177 447 zł,44,49 487 zł
+SI1IM,A,Wydział Inżynierii Materiałowej i Ceramiki,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",54,12,22%,5 444 475 zł,111,49 049 zł
+SI1IM,B,"Wydział Inżynierii Procesowej i Ochrony Środowiska",Politechnika Łódzka,15,3,20%,1 567 980 zł,67,23 403 zł
+SI1IM,B,"Wydział Inżynierii Metali i Informatyki Przemysłowej","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",34,6,18%,2 832 338 zł,165,17 166 zł
+SI1IM,B,Wydział Technologii i Inżynierii Chemicznej,"Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",9,2,22%,943 010 zł,77,12 247 zł
+SI1IM,A,Wydział Metali Nieżelaznych,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",12,2,17%,618 147 zł,67,9 226 zł
+SI1IM,B,Wydział Inżynierii i Technologii Chemicznej,Politechnika Krakowska im. Tadeusza Kościuszki,16,1,6%,844 375 zł,113,7 472 zł
+SI1IM,B,Wydział Chemiczny,Politechnika Rzeszowska im. Ignacego Łukasiewicza,16,2,13%,647 250 zł,95,6 813 zł
+SI1IM,B,Wydział Inżynierii Materiałowej i Metalurgii,Politechnika Śląska,13,1,8%,508 000 zł,99,5 131 zł
+SI1IM,A,Wydział Nowych Technologii i Chemii,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",13,2,15%,296 400 zł,"90,85",3 263 zł
+SI1IM,A,Wydział Technologii i Inżynierii Chemicznej,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",19,2,11%,299 620 zł,104,2 881 zł
+SI1IM,B,Wydział Nauk o Materiałach i Środowisku,"Akademia Techniczno-Humanistyczna w Bielsku-Białej",1,0,0%,0 zł,55,0 zł
+SI1IM,B,Wydział Inżynierii Środowiska,Politechnika Lubelska,1,0,0%,0 zł,34,0 zł
+SI1IM,B,"Wydział Materiałoznawstwa, Technologii i Wzornictwa","Uniwersytet Technologiczno-Humanistyczny im. Kazimierza Pułaskiego w Radomiu",2,0,0%,0 zł,25,0 zł
+SI1IM,B,"Wydział Inżynierii Środowiska, Geomatyki i Energetyki",Politechnika Świętokrzyska,3,0,0%,0 zł,45,0 zł
+SI1IM,B,Wydział Odlewnictwa,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",11,0,0%,0 zł,75,0 zł
+SI1IM,B,Wydział Informatyki i Nauki o Materiałach,Uniwersytet Śląski w Katowicach,11,0,0%,0 zł,109,0 zł
+SI1IM,B,Wydział Inżynierii Środowiska i Biotechnologii,Politechnika Częstochowska,11,0,0%,0 zł,72,0 zł
+SI1IM,A,"Wydział Technologii Materiałowych i Wzornictwa Tekstyliów",Politechnika Łódzka,17,0,0%,0 zł,69,0 zł
+SI1MH,A,Wydział Mechaniczny,Politechnika Lubelska,14,4,29%,2 187 660 zł,129,16 959 zł
+SI1MH,B,Wydział Mechaniczny,Politechnika Gdańska,16,1,6%,985 920 zł,"72,58",13 584 zł
+SI1MH,A,Wydział Mechatroniki,Politechnika Warszawska,5,1,20%,955 660 zł,"92,54",10 327 zł
+SI1MH,A,Wydział Inżynierii Mechanicznej i Robotyki,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",24,3,13%,2 019 552 zł,"219,83",9 187 zł
+SI1MH,A,Instytut Technologii i Edukacji,Politechnika Koszalińska,4,1,25%,484 171 zł,57,8 494 zł
+SI1MH,A,Wydział Mechaniczny,Politechnika Łódzka,29,3,10%,1 423 330 zł,184,7 735 zł
+SI1MH,A,Wydział Inżynierii Biomedycznej,Politechnika Śląska,6,1,17%,309 630 zł,43,7 201 zł
+SI1MH,B,Wydział Inżynierii Mechanicznej i Informatyki,Politechnika Częstochowska,23,5,22%,1 132 920 zł,162,6 993 zł
+SI1MH,B,Wydział Mechaniczny,Politechnika Krakowska im. Tadeusza Kościuszki,13,3,23%,1 541 306 zł,"278,5",5 534 zł
+SI1MH,B,Wydział Inżynierii Produkcji,Politechnika Warszawska,15,1,7%,483 200 zł,"107,6",4 491 zł
+SI1MH,A,Wydział Budowy Maszyn i Zarządzania,Politechnika Poznańska,24,3,13%,604 305 zł,"144,35",4 186 zł
+SI1MH,A,Wydział Mechaniczny,Politechnika Białostocka,10,2,20%,202 360 zł,87,2 326 zł
+SI1MH,A,Wydział Mechaniczny,Politechnika Wrocławska,27,2,7%,569 450 zł,"250,31",2 275 zł
+SI1MH,B,"Wydział Zarządzania i Modelowania Komputerowego",Politechnika Świętokrzyska,3,1,33%,104 000 zł,47,2 213 zł
+SI1MH,B,Wydział Mechaniczno-Energetyczny,Politechnika Wrocławska,2,1,50%,149 720 zł,93,1 610 zł
+SI1MH,A,"Wydział Inżynierii Mechanicznej i Mechatroniki","Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",5,1,20%,93 400 zł,"99,05",943 zł
+SI1MH,A,Wydział Mechatroniki i Budowy Maszyn,Politechnika Świętokrzyska,1,0,0%,0 zł,76,0 zł
+SI1MH,B,Wydział Mechaniczny,Akademia Morska w Gdyni,1,0,0%,0 zł,64,0 zł
+SI1MH,B,Wydział Lotnictwa,Wyższa Szkoła Oficerska Sił Powietrznych,1,0,0%,0 zł,40,0 zł
+SI1MH,B,Wydział Mechaniczno-Elektryczny,"Akademia Marynarki Wojennej im. Bohaterów Westerplatte",2,0,0%,0 zł,49,0 zł
+SI1MH,B,Wydział Techniki Morskiej i Transportu,"Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",3,0,0%,0 zł,"36,5",0 zł
+SI1MH,B,Wydział Oceanotechniki i Okrętownictwa,Politechnika Gdańska,3,0,0%,0 zł,73,0 zł
+SI1MH,A,Wydział Mechaniczny,Akademia Morska w Szczecinie,3,0,0%,0 zł,67,0 zł
+SI1MH,B,Wydział Mechatroniki i Lotnictwa,"Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",4,0,0%,0 zł,"82,43",0 zł
+SI1MH,B,Wydział Inżynierii Mechanicznej,"Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy",5,0,0%,0 zł,88,0 zł
+SI1MH,B,Wydział Mechaniczny,Uniwersytet Zielonogórski,5,0,0%,0 zł,63,0 zł
+SI1MH,B,Wydział Budowy Maszyn i Informatyki,"Akademia Techniczno-Humanistyczna w Bielsku-Białej",5,0,0%,0 zł,78,0 zł
+SI1MH,A,Wydział Mechaniczny,Politechnika Opolska,8,0,0%,0 zł,"81,15",0 zł
+SI1MH,B,Wydział Mechaniczny,Politechnika Koszalińska,8,0,0%,0 zł,92,0 zł
+SI1MH,B,Wydział Budowy Maszyn i Lotnictwa,Politechnika Rzeszowska im. Ignacego Łukasiewicza,14,0,0%,0 zł,200,0 zł
+SI1MH,A,Wydział Mechaniczny Technologiczny,Politechnika Śląska,31,0,0%,0 zł,"203,95",0 zł
+SI1MI,A+,Wydział Matematyki i Informatyki,Uniwersytet Jagielloński,61,15,25%,4 842 250 zł,103,47 012 zł
+SI1MI,A+,"Wydział Matematyki, Informatyki i Mechaniki",Uniwersytet Warszawski,58,25,43%,7 803 982 zł,"171,5",45 504 zł
+SI1MI,A,Wydział Matematyki i Informatyki,Uniwersytet im. Adama Mickiewicza w Poznaniu,18,4,22%,3 067 979 zł,"104,3",29 415 zł
+SI1MI,A,Wydział Matematyki i Informatyki,Uniwersytet Wrocławski,23,9,39%,1 528 100 zł,97,15 754 zł
+SI1MI,A,"Wydział Fizyki Technicznej, Informatyki i Matematyki Stosowanej",Politechnika Łódzka,14,4,29%,1 352 895 zł,88,15 374 zł
+SI1MI,A,Wydział Matematyki i Informatyki,Uniwersytet Mikołaja Kopernika w Toruniu,6,1,17%,557 400 zł,"62,5",8 918 zł
+SI1MI,C,"Wydział Matematyki, Informatyki i Architektury Krajobrazu",Katolicki Uniwersytet Lubelski Jana Pawła II,3,1,33%,303 960 zł,53,5 735 zł
+SI1MI,A,Wydział Matematyki i Nauk Informacyjnych,Politechnika Warszawska,6,2,33%,365 410 zł,69,5 296 zł
+SI1MI,A,Wydział Matematyki Stosowanej,"Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",10,2,20%,243 400 zł,64,3 803 zł
+SI1MI,B,Wydział Matematyczno-Fizyczno-Techniczny,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",19,1,5%,99 000 zł,106,934 zł
+SI1MI,A,"Wydział Matematyki, Informatyki i Ekonometrii",Uniwersytet Zielonogórski,3,0,0%,0 zł,45,0 zł
+SI1MI,A,Wydział Matematyki i Fizyki Stosowanej,Politechnika Rzeszowska im. Ignacego Łukasiewicza,3,0,0%,0 zł,53,0 zł
+SI1MI,B,Wydział Matematyki Stosowanej,Politechnika Śląska,3,0,0%,0 zł,36,0 zł
+SI1MI,C,Wydział Matematyki i Informatyki,Uniwersytet w Białymstoku,3,0,0%,0 zł,57,0 zł
+SI1MI,B,Wydział Matematyki i Informatyki,Uniwersytet Warmińsko-Mazurski w Olsztynie,6,0,0%,0 zł,67,0 zł
+SI2CT,A,"",Instytut Chemii Organicznej PAN,27,18,67%,14 925 882 zł,"99,2",150 463 zł
+SI2CT,B,"","Centrum Badań Molekularnych i Makromolekularnych PAN",31,11,35%,6 519 246 zł,"125,95",51 761 zł
+SI2CT,B,"","Centrum Materiałów Polimerowych i Węglowych PAN",12,3,25%,1 776 170 zł,"64,95",27 347 zł
+SI2CT,A,"",Instytut Chemii Fizycznej PAN,45,10,22%,4 245 950 zł,"203,3",20 885 zł
+SI2CT,A,"","Instytut Katalizy i Fizykochemii Powierzchni im. Jerzego Habera PAN",28,4,14%,1 122 060 zł,"87,9",12 765 zł
+SI2EA,A,"","Instytut Biocybernetyki i Inżynierii Biomedycznej im. Macieja Nałęcza PAN",11,3,27%,891 735 zł,"69,98",12 743 zł
+SI2EA,A,"",Instytut Informatyki Teoretycznej i Stosowanej PAN,7,2,29%,270 200 zł,30,9 007 zł
+SI2EA,A,"",Instytut Badań Systemowych PAN,10,2,20%,411 815 zł,"61,8",6 664 zł
+SI2EA,A,"",Instytut Podstaw Informatyki PAN,8,0,0%,0 zł,"47,55",0 zł
+SI2FA,A+,"",Centrum Astronomiczne im. Mikołaja Kopernika PAN,14,5,36%,6 553 249 zł,"51,5",127 248 zł
+SI2FA,A,"",Instytut Wysokich Ciśnień PAN,24,9,38%,4 858 168 zł,81,59 977 zł
+SI2FA,A,"",Instytut Fizyki PAN,48,11,23%,8 355 770 zł,"258,22",32 359 zł
+SI2FA,A,"",Centrum Badań Kosmicznych PAN,16,3,19%,1 770 005 zł,60,29 500 zł
+SI2FA,A,"",Centrum Fizyki Teoretycznej PAN,4,2,50%,559 800 zł,23,24 339 zł
+SI2FA,A+,"","Instytut Niskich Temperatur i Badań Strukturalnych im. Włodzimierza Trzebiatowskiego PAN",17,5,29%,2 431 429 zł,"105,05",23 145 zł
+SI2FA,A+,"","Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego PAN",67,12,18%,7 643 992 zł,"350,6",21 803 zł
+SI2FA,A,"",Instytut Fizyki Molekularnej PAN,12,2,17%,871 500 zł,"87,75",9 932 zł
+SI2FA,B,"","Międzynarodowe Laboratorium Silnych Pól Magnetycznych i Niskich Temperatur PAN",1,0,0%,0 zł,12,0 zł
+SI2GE,A,"","Instytut Gospodarki Surowcami Mineralnymi i Energią PAN",6,1,17%,299 826 zł,"60,2",4 980 zł
+SI2IM,A,"","Instytut Metalurgii i Inżynierii Materiałowej im. Aleksandra Krupkowskiego PAN",34,10,29%,3 857 006 zł,"61,75",62 462 zł
+SI2IM,B,"",Instytut Inżynierii Chemicznej PAN,5,1,20%,94 348 zł,35,2 696 zł
+SI2MH,A+,"",Instytut Podstawowych Problemów Techniki PAN,39,11,28%,7 164 481 zł,147,48 738 zł
+SI2MH,A,"","Instytut Maszyn Przepływowych im. Roberta Szewalskiego PAN",29,6,21%,4 282 671 zł,121,35 394 zł
+SI2MI,A+,"",Instytut Matematyczny PAN,15,4,27%,1 434 180 zł,"81,25",17 651 zł
+SI3EG,A,"",Narodowe Centrum Badań Jądrowych,28,4,14%,1 656 800 zł,"417,36",3 970 zł
+SI3EG,B,"",Instytut Energetyki,1,1,100%,703 000 zł,262,2 683 zł
+SI3EG,B,"",Instytut Technik Innowacyjnych EMAG,1,0,0%,0 zł,"131,92",0 zł
+SI3EG,A,"",Instytut Chemicznej Przeróbki Węgla,2,0,0%,0 zł,"91,75",0 zł
+SI3EG,A,"",Główny Instytut Górnictwa,3,0,0%,0 zł,"286,8",0 zł
+SI3EG,A,"","Instytut Fizyki Plazmy i Laserowej Mikrosyntezy im. Sylwestra Kaliskiego",6,0,0%,0 zł,"54,58",0 zł
+SI3EG,A,"",Instytut Nafty i Gazu,12,0,0%,0 zł,"206,55",0 zł
+SI3EI,A,"",Instytut Technologii Materiałów Elektronicznych,16,8,50%,4 799 324 zł,"197,2",24 337 zł
+SI3EI,A+,"",Instytut Technologii Elektronowej,33,3,9%,2 255 763 zł,"118,7",19 004 zł
+SI3EI,B,"",Instytut Napędów i Maszyn Elektrycznych KOMEL,2,0,0%,0 zł,"18,9",0 zł
+SI3EI,B,"",Instytut Łączności - Państwowy Instytut Badawczy,2,0,0%,0 zł,"125,6",0 zł
+SI3EI,B,"",Instytut Techniki i Aparatury Medycznej ITAM,3,0,0%,0 zł,"19,63",0 zł
+SI3EI,A,"",Instytut Tele- i Radiotechniczny,3,0,0%,0 zł,"104,4",0 zł
+SI3EI,B,"",Instytut Elektrotechniki,10,0,0%,0 zł,"177,1",0 zł
+SI3IO,B,"",Instytut Geodezji i Kartografii,6,2,33%,639 295 zł,"41,87",15 269 zł
+SI3IO,A,"",Instytut Badawczy Dróg i Mostów,1,0,0%,0 zł,103,0 zł
+SI3IO,B,"",Instytut Ceramiki i Materiałów Budowlanych,1,0,0%,0 zł,"181,85",0 zł
+SI3IO,B,"",Instytut Gospodarki Przestrzennej i Mieszkalnictwa,1,0,0%,0 zł,"26,1",0 zł
+SI3IO,A,"",Instytut Kolejnictwa,1,0,0%,0 zł,"113,63",0 zł
+SI3IO,B,"","Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy",3,0,0%,0 zł,51,0 zł
+SI3IO,B,"",Instytut Techniki Budowlanej,4,0,0%,0 zł,"246,6",0 zł
+SI3IO,B,"",Instytut Rozwoju Miast,10,0,0%,0 zł,"33,3",0 zł
+SI3MU,A,"","Instytut Mechanizacji Budownictwa i Górnictwa Skalnego",1,0,0%,0 zł,58,0 zł
+SI3MU,B,"",Instytut Obróbki Plastycznej,1,0,0%,0 zł,"56,25",0 zł
+SI3MU,B,"",Przemysłowy Instytut Maszyn Rolniczych,1,0,0%,0 zł,"76,35",0 zł
+SI3MU,B,"","Wojskowy Instytut Techniki Pancernej i Samochodowej",2,0,0%,0 zł,"33,75",0 zł
+SI3MU,B,"",Instytut Mechaniki Precyzyjnej,6,0,0%,0 zł,"89,1",0 zł
+SI3MU,B,"",Instytut Zaawansowanych Technologii Wytwarzania,7,0,0%,0 zł,65,0 zł
+SI3TB,B,"","Instytut Technologii Bezpieczeństwa ""MORATEX""",1,0,0%,0 zł,"29,5",0 zł
+SI3TB,A,"",Instytut Transportu Samochodowego,3,0,0%,0 zł,65,0 zł
+SI3TB,B,"",Instytut Logistyki i Magazynowania,3,0,0%,0 zł,"73,3",0 zł
+SI3TB,A,"",Instytut Lotnictwa,3,0,0%,0 zł,"936,3",0 zł
+SI3TB,A,"",Ośrodek Przetwarzania Informacji,5,0,0%,0 zł,"69,35",0 zł
+SI3TM,A,"",Instytut Odlewnictwa,13,1,8%,594 870 zł,124,4 797 zł
+SI3TM,A,"",Instytut Nawozów Sztucznych,1,1,100%,149 180 zł,42,3 552 zł
+SI3TM,B,"","Instytut Chemii Przemysłowej im. prof. Ignacego Mościckiego",1,0,0%,0 zł,"144,05",0 zł
+SI3TM,B,"",CORBO - Instytut Badawczy Opakowań,1,0,0%,0 zł,28,0 zł
+SI3TM,A,"",Instytut Metalurgii Żelaza im. Stanisława Staszica,1,0,0%,0 zł,"78,8",0 zł
+SI3TM,B,"","Instytut Inżynierii Materiałów Polimerowych i Barwników",2,0,0%,0 zł,55,0 zł
+SI3TM,B,"",Instytut Przemysłu Organicznego,2,0,0%,0 zł,145,0 zł
+SI3TM,B,"",Instytut Przemysłu Skórzanego,2,0,0%,0 zł,"42,26",0 zł
+SI3TM,A,"",Instytut Włókiennictwa,2,0,0%,0 zł,"79,36",0 zł
+SI3TM,A,"",Instytut Spawalnictwa,3,0,0%,0 zł,42,0 zł
+SI3TM,B,"",Instytut Metali Nieżelaznych,10,0,0%,0 zł,214,0 zł
+SI4TM,C,"","Fundacja Uniwersytetu im. A. Mickiewicza Poznański Park NaukowoTechnologiczny",5,0,0%,0 zł,33,0 zł
+TA1MZ,B,Wydział Reżyserii Dźwięku,"Uniwersytet Muzyczny Fryderyka Chopina w Warszawie",1,1,100%,231 100 zł,33,7 003 zł
+TA1MZ,B,"Wydział Dyrygentury, Kompozycji i Teorii Muzyki","Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku",1,0,0%,0 zł,24,0 zł
+TA1MZ,B,"Wydział Kompozycji, Interpretacji, Edukacji i Jazzu","Akademia Muzyczna im. Karola Szymanowskiego w Katowicach",1,0,0%,0 zł,"41,5",0 zł
+TA1MZ,A,"Wydział Kompozycji, Dyrygentury i Teorii Muzyki","Uniwersytet Muzyczny Fryderyka Chopina w Warszawie",1,0,0%,0 zł,44,0 zł
+TA1MZ,B,"Wydział Kompozycji, Dyrygentury, Teorii Muzyki i Rytmiki","Akademia Muzyczna im. Ignacego Jana Paderewskiego w Poznaniu",2,0,0%,0 zł,34,0 zł
+TA1MZ,A,"Wydział Kompozycji, Teorii Muzyki, Rytmiki i Edukacji Muzycznej","Akademia Muzyczna im. Grażyny i Kiejstuta Bacewiczów w Łodzi",3,0,0%,0 zł,34,0 zł
+TA1PK,B,Wydział Konserwacji i Restauracji Dzieł Sztuki,"Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",3,1,33%,747 360 zł,35,21 353 zł
+TA1PK,A+,Wydział Konserwacji i Restauracji Dzieł Sztuki,Akademia Sztuk Pięknych w Warszawie,7,2,29%,777 300 zł,56,13 880 zł
+TA1PK,B,Wydział Sztuki,Akademia im. Jana Długosza w Częstochowie,2,1,50%,104 650 zł,47,2 227 zł
+TA1PK,A,Wydział Sztuk Pięknych,Uniwersytet Mikołaja Kopernika w Toruniu,6,2,33%,247 712 zł,127,1 950 zł
+TA1PK,A,Wydział Artystyczny,Uniwersytet Marii Curie-Skłodowskiej,1,0,0%,0 zł,"100,5",0 zł
+TA1PK,B,Wydział Sztuki,Uniwersytet Warmińsko-Mazurski w Olsztynie,1,0,0%,0 zł,45,0 zł
+TA1PK,B,Wydział Malarstwa,"Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",1,0,0%,0 zł,46,0 zł
+TA1PK,B,Wydział Rzeźby,"Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",1,0,0%,0 zł,28,0 zł
+TA1PK,B,Wydział Artystyczny,Uniwersytet Zielonogórski,1,0,0%,0 zł,46,0 zł
+TA1PK,B,Wydział Sztuk Wizualnych,"Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi",1,0,0%,0 zł,34,0 zł
+TA1PK,B,Wydział Rzeźby,Akademia Sztuk Pięknych w Warszawie,1,0,0%,0 zł,"27,25",0 zł
+TA1PK,A,Wydział Rzeźby i Działań Przestrzennych,Uniwersytet Artystyczny w Poznaniu,1,0,0%,0 zł,30,0 zł
+TA1PK,B,Wydział Artystyczny w Cieszynie,Uniwersytet Śląski w Katowicach,2,0,0%,0 zł,101,0 zł
+TA1PK,A,Wydział Intermediów,"Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",3,0,0%,0 zł,12,0 zł
+TA1PK,A,Wydział Pedagogiczno-Artystyczny w Kaliszu,Uniwersytet im. Adama Mickiewicza w Poznaniu,3,0,0%,0 zł,65,0 zł
+TA1PK,B,Wydział Pedagogiczno-Artystyczny,Uniwersytet Rzeszowski,3,0,0%,0 zł,124,0 zł
+TA1PK,B,Wydział Sztuki,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej w Krakowie",4,0,0%,0 zł,50,0 zł
+TA1PK,B,Wydział Grafiki,"Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",6,0,0%,0 zł,44,0 zł
+TA1PK,A,Wydział Pedagogiczny i Artystyczny,Uniwersytet Jana Kochanowskiego w Kielcach,8,0,0%,0 zł,98,0 zł
+TA1PR,C,Wydział Architektury Wnętrz,Akademia Sztuk Pięknych w Warszawie,1,0,0%,0 zł,40,0 zł
+TA1PR,A,Wydział Ceramiki i Szkła,"Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu",2,0,0%,0 zł,"41,27",0 zł
+TA1TF,B,Wydział Wiedzy o Teatrze,"Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",1,0,0%,0 zł,"17,7",0 zł
+TA1TF,A,Wydział Operatorski i Realizacji Telewizyjnej,"Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. Leona Schillera w Łodzi",1,0,0%,0 zł,74,0 zł
+TA1TF,B,Wydział Organizacji Sztuki Filmowej,"Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. Leona Schillera w Łodzi",1,0,0%,0 zł,8,0 zł
+TA1TF,B,Zamiejscowy Wydział Sztuki Lalkarskiej,"Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie",1,0,0%,0 zł,34,0 zł
+TA1TF,B,Wydział Radia i Telewizji im. K. Kieślowskiego,Uniwersytet Śląski w Katowicach,4,0,0%,0 zł,25,0 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Inżynierski,Akademia Finansów i Biznesu Vistula,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Studium Wychowania Fizycznego i Sportu,Akademia im. Jana Długosza w Częstochowie,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Biblioteka Główna,"Akademia Muzyczna im. Ignacego Jana Paderewskiego w Poznaniu",1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Europejska Uczelnia Społeczno-Techniczna w Radomiu",1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Administarcji,Gdańska Szkoła Wyższa,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Turystyki i Promocji Zdrowia,"Górnośląska Wyższa Szkoła Handlowa im. W. Korfantego w Katowicach",1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Państwowa Wyższa Szkoła Zawodowa w Głogowie,1,0,0%,0 zł,63,0 zł
+BRAK DANYCH,BRAK DANYCH,"",Państwowa Wyższa Szkoła Zawodowa w Głogowie,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Pedagogium Wyższa Szkoła Nauk Społecznych w Warszawie",1,0,0%,0 zł,14,0 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Humanistyczny,Politechnika Koszalińska,1,0,0%,0 zł,14,0 zł
+BRAK DANYCH,BRAK DANYCH,"Interdyscyplinarne Centrum Badawcze Humanistyka/Sztuka/Technologia",Uniwersytet im. Adama Mickiewicza w Poznaniu,1,1,100%,298 513 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Centrum Badań Ilościowych nad Polityką,Uniwersytet Jagielloński,1,1,100%,141 690 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Archiwum Uniwersytetu Mikołaja Kopernika,Uniwersytet Mikołaja Kopernika w Toruniu,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Uniwersytet Przyrodniczy we Wrocławiu,1,0,0%,0 zł,749,0 zł
+BRAK DANYCH,BRAK DANYCH,"Uniwersyteckie Centrum Medycyny Weterynaryjnej UJ-UR","Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie",1,0,0%,0 zł,1,0 zł
+BRAK DANYCH,BRAK DANYCH,"Zamiejscowy Wydział Administracji w Jarocinie",Uniwersytet Szczeciński,1,0,0%,0 zł,12,0 zł
+BRAK DANYCH,BRAK DANYCH,Katedra Teologii Prawosławnej,Uniwersytet w Białymstoku,1,0,0%,0 zł,3,0 zł
+BRAK DANYCH,BRAK DANYCH,"Centrum Kształcenia Nauczycieli Języków Obcych i Edukacji Europejskiej",Uniwersytet Warszawski,1,0,0%,0 zł,45,0 zł
+BRAK DANYCH,BRAK DANYCH,Obserwatorium Astronomiczne,Uniwersytet Warszawski,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Pedagogiki i Nauk o Zdrowiu,"Wyższa Szkoła Biznesu i Przedsiębiorczości w Ostrowcu Świętokrzyskim",1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Wyższa Szkoła Ekonomii, Prawa i Nauk Medycznych im. prof. Edwarda Lipińskiego w Kielcach",1,0,0%,0 zł,70,0 zł
+BRAK DANYCH,BRAK DANYCH,"",Wyższa Szkoła Filologiczna we Wrocławiu,1,0,0%,0 zł,37,0 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Medyczny,Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,1,0,0%,0 zł,23,0 zł
+BRAK DANYCH,BRAK DANYCH,"","Wyższa Szkoła Pedagogiczna im. Janusza Korczaka w Warszawie",1,0,0%,0 zł,46,0 zł
+BRAK DANYCH,BRAK DANYCH,"","Wyższa Szkoła Pedagogiczna Związku Nauczycielstwa Polskiego w Warszawie",1,0,0%,0 zł,13,0 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Zamiejscowy w Warszawie,Społeczna Akademia Nauk,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"Wydział Studiów Międzynarodowych i Informatyki",Społeczna Akademia Nauk,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Zagraniczne Stacje Naukowe PAN,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Zakład Antropologii PAN we Wrocławiu,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Zarządzania Sportem i Turystyką,"Akademia Wychowania Fizycznego im. Jerzego Kukuczki w Katowicach",2,0,0%,0 zł,50,0 zł
+BRAK DANYCH,BRAK DANYCH,"",Collegium Mazovia Innowacyjna Szkoła Wyższa,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Studiów Inżynierskich,Gdańska Szkoła Wyższa,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Państwowa Wyższa Szkoła Zawodowa im. Angelusa Silesiusa w Wałbrzychu",2,1,50%,283 651 zł,101,2 808 zł
+BRAK DANYCH,BRAK DANYCH,"Uczelniane Centrum Badawcze ""Materiały Funkcjonalne""",Politechnika Warszawska,2,0,0%,0 zł,1,0 zł
+BRAK DANYCH,BRAK DANYCH,"Centrum Badawczo-Rozwojowe Samorządu Terytorialnego",Uniwersytet Ekonomiczny we Wrocławiu,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Centrum Badań Migracyjnych,Uniwersytet im. Adama Mickiewicza w Poznaniu,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Zamiejscowy w Katowicach,Uniwersytet SWPS,2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"Centrum Studiów Niemieckich i Europejskich im. Willy Brandta",Uniwersytet Wrocławski,2,0,0%,0 zł,6,0 zł
+BRAK DANYCH,BRAK DANYCH,"",Wyższa Szkoła Europejska  im. ks. Józefa Tischnera,2,1,50%,453 537 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Humanistyczno-Społeczny,"Wyższa Szkoła Zarządzania Ochroną Pracy w Katowicach",2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Nauk Technicznych,"Wyższa Szkoła Zarządzania Ochroną Pracy w Katowicach",2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Wydział Zarządzania i Transportu,"Akademia Techniczno-Humanistyczna w Bielsku-Białej",3,0,0%,0 zł,51,0 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Wychowania Fizycznego,"Akademia Wychowania Fizycznego i Sportu im. Jędrzeja Śniadeckiego w Gdańsku",3,0,0%,0 zł,117,0 zł
+BRAK DANYCH,BRAK DANYCH,Collegium Polonicum w Słubicach,Uniwersytet im. Adama Mickiewicza w Poznaniu,3,1,33%,127 530 zł,16,7 971 zł
+BRAK DANYCH,BRAK DANYCH,Centrum Zaawansowanych Technologii,Uniwersytet im. Adama Mickiewicza w Poznaniu,3,0,0%,0 zł,6,0 zł
+BRAK DANYCH,BRAK DANYCH,Biblioteka Jagiellońska,Uniwersytet Jagielloński,3,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Wyższa Szkoła Zarządzania i Prawa im. Heleny Chodkowskiej",3,1,33%,56 336 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Zakład Ichtiobiologii i Gospodarki Rybackiej PAN w Gołyszu",3,1,33%,49 400 zł,2,24 700 zł
+BRAK DANYCH,BRAK DANYCH,Wydział Zamiejscowy w Poznaniu,Uniwersytet SWPS,4,2,50%,2 216 075 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"Wydział Biznesu i Stosunków Międzynarodowych",Akademia Finansów i Biznesu Vistula,5,0,0%,0 zł,58,0 zł
+BRAK DANYCH,BRAK DANYCH,"","Państwowa Wyższa Szkoła Zawodowa im. Prezydenta Stanisława Wojciechowskiego w Kaliszu",7,0,0%,0 zł,287,0 zł
+BRAK DANYCH,BRAK DANYCH,"Akademickie Centrum Materiałów i Nanotechnologii","Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",8,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Instytut Kultury Europejskiej,Uniwersytet im. Adama Mickiewicza w Poznaniu,9,0,0%,0 zł,28,0 zł
+BRAK DANYCH,BRAK DANYCH,Jagiellońskie Centrum Rozwoju Leków (JCET),Uniwersytet Jagielloński,9,2,22%,199 975 zł,4,49 994 zł
+BRAK DANYCH,BRAK DANYCH,Centrum Biotechnologii,Politechnika Śląska,11,2,18%,1 799 500 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Małopolskie Centrum Biotechnologii,Uniwersytet Jagielloński,15,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,Centrum NanoBioMedyczne,Uniwersytet im. Adama Mickiewicza w Poznaniu,33,4,12%,2 195 198 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Śląskie Centrum Chorób Serca w Zabrzu,5,1,20%,1 997 655 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Krakowski Szpital Specjalistyczny im. Jana Pawła II,2,1,50%,411 632 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Stowarzyszenie European Regional Science Association - sekcja polska",1,1,100%,342 188 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",American Heart of Poland SA,6,1,17%,316 100 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Instytut Badań Konsumenckich i Sensorycznych Sp. z o.o.",1,1,100%,226 991 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Fundacja Naukowa Instytut Badań Strukturalnych,3,1,33%,223 680 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Polskie Towarzystwo Ludoznawcze,1,1,100%,212 918 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Fundacja ""Centrum Europejskie - Natolin""",1,1,100%,189 600 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,A,"",Polska Akademia Umiejętności,9,1,11%,150 000 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Muzeum Archeologiczne w Poznaniu,2,1,50%,138 979 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Szpital Kliniczny im. Heliodora Święcickiego Uniwersytetu Medycznego w Poznaniu",3,1,33%,93 720 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Towarzystwo Naukowe w Toruniu,7,1,14%,90 000 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Towarzystwo Naukowe Katolickiego Uniwersytetu Lubelskiego Jana Pawła II",12,1,8%,39 000 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Centrum Polsko-Rosyjskiego Dialogu i Porozumienia,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Instytut im. Oskara Kolberga,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Instytut Kaszubski,1,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Ogród Botaniczny - Centrum Zachowania Różnorodności Biologicznej PAN w Powsinie",2,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"","Projekt Nauka. Fundacja na rzecz promocji nauki polskiej",3,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
+BRAK DANYCH,BRAK DANYCH,"",Wielkopolskie Centrum Onkologii,9,0,0%,0 zł,BRAK DANYCH,BRAK DANYCH
