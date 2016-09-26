@@ -8,7 +8,7 @@ library(plyr)
 
 # you need the google api key to use Google Places API 
 # you can get one for free here https://developers.google.com/places/web-service/get-api-key
-key="AIzaSyA7g8H3aib72IRu-fkN8lPtR5nr5QVSkY0"
+key="????"
 
 url <- function(address, return.call = "json") {
   root <- "https://maps.googleapis.com/maps/api/place/textsearch/"
